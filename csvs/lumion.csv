@@ -1,0 +1,21 @@
+Name,Description,Source Link,portalSourceName
+Ray tracing: glass and water,"Glass and water will be converted to the ray tracing engine for more accurate shading and reflections.
+",https://portal.productboard.com/lumion/1-lumion-product-roadmap/c/14-ray-tracing-glass-and-water,lumion
+Ray tracing: subsurface scattering,"Subsurface scattering will be optimized for the ray tracing engine  allowing users to use it in combination with the ray tracing effect for more realistic results.
+",https://portal.productboard.com/lumion/1-lumion-product-roadmap/c/51-ray-tracing-subsurface-scattering,lumion
+Importing: custom vertex or bone animations,"Allow users to import their own custom vertex or bone animated content.
+",https://portal.productboard.com/lumion/1-lumion-product-roadmap/c/44-importing-custom-vertex-or-bone-animations,lumion
+Library content: particle system enhancement,"Update the existing particle system to incorporate current-day technology and techniques.
+",https://portal.productboard.com/lumion/1-lumion-product-roadmap/c/49-library-content-particle-system-enhancement,lumion
+Landscape: improved material tiling,"The Lumion landscape material tiling will be improved to make it less repetitive and achieve a more natural look and feel.
+",https://portal.productboard.com/lumion/1-lumion-product-roadmap/c/36-landscape-improved-material-tiling,lumion
+Ray tracing: improved denoiser,"The ray tracing denoiser will be made more temporally stable to reduce flickering  especially in video outputs.
+",https://portal.productboard.com/lumion/1-lumion-product-roadmap/c/39-ray-tracing-improved-denoiser,lumion
+Big scene files: reduce size of .lsf files on disk,".lsf project file sizes have increased  partly due to materials becoming PBR compatible. We aim to reduce the file size of both materials and project files for optimized performance.
+",https://portal.productboard.com/lumion/1-lumion-product-roadmap/c/45-big-scene-files-reduce-size-of-lsf-files-on-disk,lumion
+Weather: real-time sky and clouds enhancement,"Make the real-time sky and clouds look and feel more realistic.
+",https://portal.productboard.com/lumion/1-lumion-product-roadmap/c/50-weather-real-time-sky-and-clouds-enhancement,lumion
+Ray tracing: performance enhancement,"The overall performance of ray tracing in Lumion 2023 will be significantly improved.
+",https://portal.productboard.com/lumion/1-lumion-product-roadmap/c/52-ray-tracing-performance-enhancement,lumion
+Ray tracing: animated character content,"Animated characters will be converted to the ray tracing engine for more accurate shading and reflections.
+",https://portal.productboard.com/lumion/1-lumion-product-roadmap/c/34-ray-tracing-animated-character-content,lumion

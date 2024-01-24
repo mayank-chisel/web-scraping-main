@@ -1,0 +1,13 @@
+Name,Description,Source Link,portalSourceName
+Manage invitations from the account selector,"These were previously in Jira as https://matillion.atlassian.net/browse/HUB-493 but given the time that's passed since that was raised I've closed those tickets and will recreate when this work is closer to being implemented.
+",https://portal.productboard.com/matillion/1-product-portal/c/50-manage-invitations-from-the-account-selector,matillion
+Unlimited Scale Onboarding,"These were previously in Jira as https://matillion.atlassian.net/browse/HUB-1338 but given the time that's passed since that was raised I've closed those tickets and will recreate when this work is closer to being implemented.
+",https://portal.productboard.com/matillion/1-product-portal/c/53-unlimited-scale-onboarding,matillion
+Delay email verification,"This was previously in Jira as https://matillion.atlassian.net/browse/HUB-889 but given the time that's passed since that was raised I've closed those tickets and will recreate when this work is closer to being implemented.
+",https://portal.productboard.com/matillion/1-product-portal/c/51-delay-email-verification,matillion
+Allow unlimited accounts per user,"These were previously in Jira as https://matillion.atlassian.net/browse/HUB-1266 but given the time that's passed since that was raised I've closed those tickets and will recreate when this work is closer to being implemented.
+",https://portal.productboard.com/matillion/1-product-portal/c/52-allow-unlimited-accounts-per-user,matillion
+Migrate @matillion.com accounts to Enterprise SSO,"This was previously in Jira as https://matillion.atlassian.net/browse/HUB-2265 but given that we're unlikely to do this in the near term I'm moving here and we can recreate when this working Jira when it is closer to being implemented.
+",https://portal.productboard.com/matillion/1-product-portal/c/55-migrate-matillion-com-accounts-to-enterprise-sso,matillion
+Audit Log,"Create a shared Audit Log for Matillion Services.These were previously in Jira as https://matillion.atlassian.net/browse/HUB-531 but given the time that's passed since that was raised I've closed those tickets and will recreate when this work is closer to being implemented.
+",https://portal.productboard.com/matillion/1-product-portal/c/48-audit-log,matillion

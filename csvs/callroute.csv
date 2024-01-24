@@ -1,0 +1,75 @@
+Name,Description,Source Link,portalSourceName
+User Provisioning Teams Service Connection,"Update Teams Service Deploy and Health Checker to support AP customers only. This will allow the customer to connect Callroute to Teams without deploying any Direct Routing configuration
+",https://portal.productboard.com/callroute/1-callroute/c/65-user-provisioning-teams-service-connection,callroute
+Number Tagging Improvements,"Improve the use of tags for numbers that will allow users to search and filter numbers based on assigned tag
+",https://portal.productboard.com/callroute/1-callroute/c/49-number-tagging-improvements,callroute
+New Partner Focussed Portal,"Update existing partner portal to a more feature rich self-service driven experience with detailed reporting and customer management
+",https://portal.productboard.com/callroute/1-callroute/c/26-new-partner-focussed-portal,callroute
+Implement SSO with Microsoft Accounts,"Implement single sign on with Microsoft identities
+",https://portal.productboard.com/callroute/1-callroute/c/44-implement-sso-with-microsoft-accounts,callroute
+Automate Secondary Destination Number,"Use the mobile number field in AzureAD to automatically populate the secindary inbound destination of an assigned DDI
+",https://portal.productboard.com/callroute/1-callroute/c/38-automate-secondary-destination-number,callroute
+Bulk Number Tagging,"Allow the ability for users to apply tags to numbers within a range in bulk
+",https://portal.productboard.com/callroute/1-callroute/c/61-bulk-number-tagging,callroute
+Update AzureAD User Number,"Update user's AzureAD Phone number to match Teams LineURI on assign or update action
+",https://portal.productboard.com/callroute/1-callroute/c/54-update-azuread-user-number,callroute
+Disable Unused Numbers,"Disable the activation of ported numbers that the customer has not paid to use but show in the portal in an unassignable state. 
+",https://portal.productboard.com/callroute/1-callroute/c/23-disable-unused-numbers,callroute
+New Report - Top numbers based on total minutes,"Acceptance CriteriaTop numbers by total minutes Ability to see share of overall minutes per number (pie chart).
+",https://portal.productboard.com/callroute/1-callroute/c/35-new-report-top-numbers-based-on-total-minutes,callroute
+Support Multiple Teams Tenants Per Customer,"Add the ability for Callroute customers to connect more than one Teams tenant to the same Callroute tenant. This feature will support customers looking to manage multiple Teams tenants and share BYOC / PSTN services between them
+",https://portal.productboard.com/callroute/1-callroute/c/59-support-multiple-teams-tenants-per-customer,callroute
+Dial Prefix,"Support dial prefixes to FROM header for BYOC carriers that require this for customer billing and identification purposes
+",https://portal.productboard.com/callroute/1-callroute/c/14-dial-prefix,callroute
+SIP Registration,"We now support SIP registration for carriers who require this method of authentication for BYOC trunks. 
+",https://portal.productboard.com/callroute/1-callroute/c/9-sip-registration,callroute
+Provisioning API,"API to allow customers to trigger Teams user provisioning tasks from external systems e.g ServiceNow  Power Automate etc. This will also allow customers to provision Teams users in bulk using their own scripts.
+",https://portal.productboard.com/callroute/1-callroute/c/64-provisioning-api,callroute
+Number Metadata & External Assignments,"Allow customers to add metadata to a number including address  department name, other contact details e.g. email address and opening hours that can be used as part of our numbers API to build external address books and web directories
+",https://portal.productboard.com/callroute/1-callroute/c/68-number-metadata-external-assignments,callroute
+Apply CLI on Inbound Assignment for Teams,"Automatically assign the Teams user LineURI when inbound number is configured
+",https://portal.productboard.com/callroute/1-callroute/c/48-apply-cli-on-inbound-assignment-for-teams,callroute
+Number Tagging Improvements,"Improve the usability of number tagging to allow customers to choose to exclude numbers tagged with X as well as include as is currently default. Add the ability to bulk assign numbers to a tag and allow customers to create tags independently of a number
+",https://portal.productboard.com/callroute/1-callroute/c/67-number-tagging-improvements,callroute
+New Report - Number of call minutes per day,"Acceptance CriteriaNumber of calling minutes per dayFilter by inbound/outbound/bothAbility to select time period (last 7 days) and by grouped by phone numberDisplayed as a bar chart
+",https://portal.productboard.com/callroute/1-callroute/c/36-new-report-number-of-call-minutes-per-day,callroute
+Profile Configuration in Database,"Port BYOC configuration into OpenSIPs database so that carriers can be onboarded without a reload of the server configuration files. Will lead to faster implementation times with minimal disruption to existing customers
+",https://portal.productboard.com/callroute/1-callroute/c/32-profile-configuration-in-database,callroute
+BT Wholesale,"Support BT Wholesale SIP Trunks as a BYOC Carrier
+",https://portal.productboard.com/callroute/1-callroute/c/19-bt-wholesale,callroute
+Custom SIP Headers,"Support custom SIP Headers for BYOC Carriers to identify customer trunks for billing purposes
+",https://portal.productboard.com/callroute/1-callroute/c/13-custom-sip-headers,callroute
+Auto Provisioning of Users in Microsoft Teams,"Sync Teams dialplans and voice routing policies to Callroute. Allow admins to create calling profiles based on these values. Create ruleset logic that will apply these profiles automatically based on data triggers in AzureAD
+",https://portal.productboard.com/callroute/1-callroute/c/37-auto-provisioning-of-users-in-microsoft-teams,callroute
+Capture Customer Feedback & Feature Requests,"Allow customers to submit feedback and feature requests through the callroute portal
+",https://portal.productboard.com/callroute/1-callroute/c/63-capture-customer-feedback-feature-requests,callroute
+Auto Provisioning 1.2,"Introduce license assignment  Team call queue and team memberships into auto provisioning of Teams users
+",https://portal.productboard.com/callroute/1-callroute/c/66-auto-provisioning-1-2,callroute
+Approved Carriers,"Scope the list of approved carriers to show only the carriers the partner can support.
+",https://portal.productboard.com/callroute/1-callroute/c/55-approved-carriers,callroute
+Coolwave,"Support Coolwave Communications SIP Trunking as a BYOC Carrier
+",https://portal.productboard.com/callroute/1-callroute/c/16-coolwave,callroute
+Net2Phone,"Support Net2Phone as a BYOC Carrier
+",https://portal.productboard.com/callroute/1-callroute/c/25-net2phone,callroute
+Teams Calling Profiles & Assignment,"Create Calling Profiles for Teams that can be assigned to users based on the calling restricitions required
+",https://portal.productboard.com/callroute/1-callroute/c/45-teams-calling-profiles-assignment,callroute
+Default Inbound Route for Sipsynergy Numbers,"To date  Sipsynergy numbers were not activated for inbound calling unless explicitly configured via the portal. This feature will allow customers to assign a default route to a downstream service e.g. Teams for all owned Sipsynergy numbers.
+",https://portal.productboard.com/callroute/1-callroute/c/60-default-inbound-route-for-sipsynergy-numbers,callroute
+Manage 3rd Party Numbers from Teams,"Support the management of Microsoft Calling Plans  Operator Connect and 3rd Party Direct Routing numbers within Callroute
+",https://portal.productboard.com/callroute/1-callroute/c/47-manage-3rd-party-numbers-from-teams,callroute
+GoSat,"Implement GoSat as a verified carrier
+",https://portal.productboard.com/callroute/1-callroute/c/41-gosat,callroute
+DNS-SRv,"Support DNS-SRV lookup for SIP Trunks for carriers that require this method of Trunk identification
+",https://portal.productboard.com/callroute/1-callroute/c/12-dns-srv,callroute
+South America Regional Media,"Support media termination within South America region with local POP in Brazil
+",https://portal.productboard.com/callroute/1-callroute/c/20-south-america-regional-media,callroute
+Node4,"Support Node4 SIP Trunks as a BYOC Carrier
+",https://portal.productboard.com/callroute/1-callroute/c/18-node4,callroute
+6 Degrees,"Support 6 Degrees SIP Trunks as a BYOC Carrier
+",https://portal.productboard.com/callroute/1-callroute/c/17-6-degrees,callroute
+3rd Party Direct Routing Number Management,"Support Number Management for Direct Routing Number ranges in Callroute that do not transit the Callroute telephony core. For example: 3rd Party DR ramges provided by other DR services connected to Teams directly
+",https://portal.productboard.com/callroute/1-callroute/c/62-3rd-party-direct-routing-number-management,callroute
+BYOD to Callroute,"Support BYOD in Callroute. Customers will be able to connect their existing SBCs upstream to Callroute allowing them to connect on-prem PSTN services to the cloud using their existing SBC
+",https://portal.productboard.com/callroute/1-callroute/c/58-byod-to-callroute,callroute
+Support Multiple Carriers per tenant,"Support more than one BYOC connection per customer
+",https://portal.productboard.com/callroute/1-callroute/c/22-support-multiple-carriers-per-tenant,callroute

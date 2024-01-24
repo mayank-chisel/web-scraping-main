@@ -1,0 +1,29 @@
+Name,Description,Source Link,portalSourceName
+Connect to supplier eCommerce platforms  and seamlessly checkout items into ION (Punchout),"Connect to the websites of McMaster  Digikey, Amazon, etc.ideally, ability to convert expensed items into inventoried for receipt/trace.
+",https://portal.productboard.com/firstresonance/2-ion-product-portal/c/95-connect-to-supplier-ecommerce-platforms-and-seamlessly-checkout-items-into-ion-punchout,firstresonance
+Simply request & deliver parts (kitting & inventory re-build),"Kitting to a step  kitting to a batch, syncing kit requirements as aBOMs change, are the fundamental functionalities necessary for production excellence.Parts to a specific run stepKit parts to an entire batchSync requirements as BOMs change
+",https://portal.productboard.com/firstresonance/2-ion-product-portal/c/131-simply-request-deliver-parts-kitting-inventory-re-build,firstresonance
+Ability for suppliers to provide traceable aBOM's on an Advance Ship Notice (ASN) - (supplier portal ASN),"Track parts when they are shipped from suppliers (supplier TMS integrations)
+",https://portal.productboard.com/firstresonance/2-ion-product-portal/c/88-ability-for-suppliers-to-provide-traceable-abom-s-on-an-advance-ship-notice-asn-supplier-portal-asn,firstresonance
+Step Templates (Parameters),"Be able to create standard steps templates that can be configured when inserted into procedures.
+",https://portal.productboard.com/firstresonance/2-ion-product-portal/c/122-step-templates-parameters,firstresonance
+Ease of step dependency design,"Drag n drop dependency managerAuto-connect stepsOverview of run step status
+",https://portal.productboard.com/firstresonance/2-ion-product-portal/c/142-ease-of-step-dependency-design,firstresonance
+Runs Timeline and Scheduling,"Allow planners to schedule individual steps and view dependencies in a timeline. Arrange timeline by location  user or build to find your critical path and ensure work is spread out evenly 
+",https://portal.productboard.com/firstresonance/2-ion-product-portal/c/65-runs-timeline-and-scheduling,firstresonance
+"Improve add step search workflow (filters  sorting, etc)","Do you have hundreds of steps with similar names  making it nearly impossible to find the right one? We are working on improving this experience so you can efficiently add the steps you need.
+",https://portal.productboard.com/firstresonance/2-ion-product-portal/c/121-improve-add-step-search-workflow-filters-sorting-etc,firstresonance
+"Lights  camera, ACTIONS!","Introducing a giant leap toward the programmable factory of the future: ION Actions. Actions allow you to program logic (e.g. validation rules) into your factory using code  expanding engineering possibilities in your factory, programmatically. This is the start of something BIG. A few pre-built Actions ready to deploy upon request:Prevent a Procedure from reaching ‘In Review’ status if:Steps don’t have dependenciesSteps don’t have locations filled outPrevent an Issue ticket’s creation without required fieldsPrevent an Issue’s closure without conditionally required fields.Require managerial approvals on Purchase Orders based on the dollar amount orderedProcedure submission to “In review” is only allowed by user with specific permissions.Help us, help you, build ACTIONS!If you’d like Actions deployed, please start by answering:What business problem would be solved by your Action andWhat is your proposed solution (e.g. which conditions should warn/block an ION user?)
+",https://portal.productboard.com/firstresonance/2-ion-product-portal/c/81-lights-camera-actions,firstresonance
+Arena PLM Integration,"Import parts and BOM information from Arena into ION!
+",https://portal.productboard.com/firstresonance/2-ion-product-portal/c/74-arena-plm-integration,firstresonance
+Ignition Integration,"Connect your machines to ION to automatically capture data and remove manual and inaccurate data capture
+",https://portal.productboard.com/firstresonance/2-ion-product-portal/c/112-ignition-integration,firstresonance
+See differences before/after procedure updates,"Display updates for redlines/ procedures to give immediate clarity to reviewersPrevent Redline changes while connected issues are being reviewed
+",https://portal.productboard.com/firstresonance/2-ion-product-portal/c/60-see-differences-before-after-procedure-updates,firstresonance
+Corrective Actions / Preventative Actions (CAPA),"Root cause problems  assign and execute further actions to improve manufacturing quality over time.
+",https://portal.productboard.com/firstresonance/2-ion-product-portal/c/68-corrective-actions-preventative-actions-capa,firstresonance
+Prohibit release of purchases without approvals,"Do not allow the status of a Purchase to reach ""Ordered"" unless the following criteria have been met. For example:1) If the total amount ordered exceeds $20 000, require at least one person with a role called ""Manager.""2) If the total amount ordered exceeds $50,000, require at least one person with a role called ""Director"" (in addition to rule 1)
+",https://portal.productboard.com/firstresonance/2-ion-product-portal/c/117-prohibit-release-of-purchases-without-approvals,firstresonance
+Accurate  error resistant labor tracking,"Are technicians forgetting to clock out of their Run-step?Need to measure labor hours and build lead times?These features enable dramatic improvements to both:Through the API  change the timestamps or duration for any user's clock-in session.In the new Run Execution screen, the ""Andon Bar"" at the top highlights any Run-steps you are currently clocked into.If idle for some specified period of time, or clocked into other steps simultaneously , be able to automatically clock users out.
+",https://portal.productboard.com/firstresonance/2-ion-product-portal/c/123-accurate-error-resistant-labor-tracking,firstresonance

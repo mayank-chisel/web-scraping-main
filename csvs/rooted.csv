@@ -1,0 +1,121 @@
+Name,Description,Source Link,portalSourceName
+Church props,"Modeling and texturing of the church props.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/65-church-props,rooted
+ALPHA 1 - 2023 - Foundation,"ObjectivesValidation of the 3CsFeedback on global illumination and performanceInitial elements of puzzle game interactionsMultiplayer session systemItem managementInventoryBasics of salvagingMultilingual supportBug report systemSave game WhenAnnounced as ""Early 2023"" on the Kickstarter page (no later than June)  and then announced for May on our Discord server, the alpha should be available by the end of Q2 2023. We know that you're eager to play Rooted, but it's important for us to be proud of the build that we'll make available to you. When you no longer see any cards in the ""To-do"" column of this board, it means that the launch is imminent :)ContextPlayers will take their first steps into the world of Rooted on a specific map for early access, and will discover the Monastery point of interest.DurationAs long as necessary.Features added during the sessionLocomotion system improvements and new animationsNew puzzle game items and situationsVOIPUI improvementsAnd much more to come!
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/74-alpha-1-2023-foundation,rooted
+Exciting links about Rooted,"Official Website https://rootedthegame.comSteam Page https://store.steampowered.com/app/1940080/Rooted/Twitter https://twitter.com/RootedTheGame Discord https://discord.gg/rootedthegame Mail contact@rooted-the-game.com
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/48-exciting-links-about-rooted,rooted
+Church blocking,"Blockout of the monastery's church with the main 3D assets.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/17-church-blocking,rooted
+Enviro. design - Monastery Exterior,"Environment design of the monastery's exterior in its post-apocalyptic version marked by a strong military presence.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/56-enviro-design-monastery-exterior,rooted
+Character Locomotion Overhaul,"With the first Motion Capture session and a second one to come  the character locomotion system is being reworked using animation workflow to bring a more details experience with the help of Motion Matching and new UE5 animation system. This first iteration will focus on getting all basic movements:Seamless Idle loopsWalk / JogSprintCrouch / CrawlState transitions
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/53-character-locomotion-overhaul,rooted
+Military hospital laboratory props,"Military hospital laboratory props:TableBenchShelfRolling boardRolling stoolAnd more!
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/31-military-hospital-laboratory-props,rooted
+Procedural Fence Generator,"Barbed wire and barrier generator - UE5
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/22-procedural-fence-generator,rooted
+Character's flashlight,"Modeling and texturing of the wearable flashlight which allows the user to find path in the dark.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/45-character-s-flashlight,rooted
+Puzzle Interaction System,"Several puzzle interaction devices:SwitchHandleGeneratorCard readerAnd more!The player will be able to activer thos devices to gain access to previously inaccessible areas.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/52-puzzle-interaction-system,rooted
+SteamCloud Saves,"Allow to use Steam cloud service to store saves.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/32-steamcloud-saves,rooted
+Military tents,"Modeling and texturing of military tents.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/70-military-tents,rooted
+Mechanic Room props,"Mechanic room assets:BoilerChillferWater HeaterAnd more!
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/20-mechanic-room-props,rooted
+Core multiplayer system - Steam,"Core multiplayer management system.This allow users to create and join multiplayer sessions.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/13-core-multiplayer-system-steam,rooted
+FMOD Loops,"Music loops which includes events to add variation or gameplay related events.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/38-fmod-loops,rooted
+Jacket,"Modeling and texturing of the player's jacket.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/63-jacket,rooted
+Steam Friends,"Create a pleasant user experience for inviting or joining friends in Rooted  and chatting with them.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/34-steam-friends,rooted
+ALPHA 4 - FIGHT,"ObjectivesIn this final major alpha session  we are adding features dedicated to armed and unarmed combat.Weapons & Ammunitions3CDamage managementDeathContextPlayers will evole on a specific map and will discover gunfight abilities.The map will include targets, AI and a not so friendly fire.DurationAs long as necessary.Features added during the sessionComing soon.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/77-alpha-4-fight,rooted
+Customisable T-shirt,"Basic T-Shirt with customizable color. Modeling and texturing.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/43-customisable-t-shirt,rooted
+Textual Proximity Chat System,"Implementation of a text chat to facilitate in-game communication between players while waiting for VOIP. This feature may remain in the long term.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/51-textual-proximity-chat-system,rooted
+ReadMe,"Hello Rooted Community! SPOILER ALERT: All the content presented on our board is a source of spoilers. We're excited to bring you this board  specifically crafted for our Alpha stage! This is your backstage pass into the world of our development team, where you can get an up-close look at our progress as we build towards the Alpha launch. Remember, the content you see here is just a slice of the whole Rooted pie. We're focusing on presenting you with the elements tied directly to the Alpha release. There's still a whole universe of features and content we're keeping under wraps for the final game. Stay tuned, keep exploring, and thank you for joining us on this epic journey. The adventure is just beginning! Thank you,Mathieu 
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/46-readme,rooted
+Ticket system - Bug report,"Allows in-game bug reporting  including the ability to attach a screenshot, with real-time tracking on the Rooted website.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/36-ticket-system-bug-report,rooted
+Military Medikit,"Military medikit including items players will use.Modeling  texturing and animation.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/47-military-medikit,rooted
+Lighting and Post-Processing,"Work on global illumination and post-processing to accentuate the Rooted artistic direction in the world.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/73-lighting-and-post-processing,rooted
+Catacombs blockout,"Create the detailed graybox of the monastery's catacombs.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/57-catacombs-blockout,rooted
+Library props,"Modeling the props of the library.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/69-library-props,rooted
+Character's head accessories,"Head accessories including a beanie and a cap. Modeling and texturing.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/44-character-s-head-accessories,rooted
+Epic Games Store Integration,"Integration of Epic Online Services and distribution of the game on the Epic Games Store. Crossplay between Steam and Epic Games Store.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/78-epic-games-store-integration,rooted
+Landscape of Rooted,"Creation of Rooted's landscape.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/64-landscape-of-rooted,rooted
+Rendering Optimization,"Optimization of the rendering pipeline: ShadowDepth  Lumen.Optimization of the DX12 PSO Cache.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/30-rendering-optimization,rooted
+Settings options features,"Alpha settings options:GraphicsAudioInputs
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/59-settings-options-features,rooted
+Inventory System,"Development of the player's inventory.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/37-inventory-system,rooted
+Async Loading Screen,"Async Loading Screen for a smooth user experience.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/23-async-loading-screen,rooted
+Specific animations,"Integration of animations related to interactions with specific in-game actors.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/12-specific-animations,rooted
+Monastery secondary rooms,"Modeling and texturing of assets.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/71-monastery-secondary-rooms,rooted
+Feedback API Server,"Server to collects feedbacks & bugs from the users.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/28-feedback-api-server,rooted
+Monastery's kitchen,"Graybox  modeling, and texturing of the monastery's kitchen and its props.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/68-monastery-s-kitchen,rooted
+Ambient sound,"Create an immersive sound atmosphere for both indoor and outdoor locations.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/42-ambient-sound,rooted
+Full controller support,"Full controller support.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/16-full-controller-support,rooted
+Backpack alpha version,"Alpha version of the player's backback which includes modeling  texturing and physic.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/41-backpack-alpha-version,rooted
+Drone landpads,"3D modeling and texturing of Drone's landpad.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/29-drone-landpads,rooted
+Flyers generator,"Tool to generate photos  flyers, posters with or without frame. Scattering ready.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/61-flyers-generator,rooted
+Save Game System,"Persistent save game system to save world state and objects.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/26-save-game-system,rooted
+Generic Materials,"Creation of the main generic materials using the master materials created by the team.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/67-generic-materials,rooted
+ALPHA 3 - SURVIVE,"ObjectivesIn this session  we are adding gardening, hunting, and fishing features. Players will be able to test these systems that allow them to feed themselves and survive in a hostile environment.GardeningHuntingFishingContextThis session takes place in a dedicated part of the Rooted world, benefiting from numerous resources to facilitate testing.DurationAs long as necessary.Features added during the sessionComing soon.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/75-alpha-3-survive,rooted
+Footstep sounds,"Different footstep sounds for the character (grass  dirt, gravel, concrete, wood).
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/39-footstep-sounds,rooted
+Push/Pull Objects,"Add the ability to move objects within the game world. Based on physics  this feature allows players to access initially inaccessible areas, block access, or implement any other idea they come up with.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/40-push-pull-objects,rooted
+Procedural Wall Generator,"Creation of a procedural generation tool for walls/floors with Houdini  including light and massive destruction.UE5 Digital asset ready.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/18-procedural-wall-generator,rooted
+ALPHA 2 - BUILD,"ObjectivesIn this session  we are adding the features dedicated to building and crafting. Use the various workshops to craft your first items, repair objects you've salvaged, and set up your camp.BuildCraftSalvageWorkshopsContextAvailable later.DurationAs long as necessary.Features added during the sessionComing soon.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/76-alpha-2-build,rooted
+Discord Rich Presence,"Displays detailed information about game on your Discord presence.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/35-discord-rich-presence,rooted
+1st Motion Capture recording session,"First session of motion capture animation recording with the Xsens suit.It allows to capture animations in an organic manner to be closer to realism.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/11-1st-motion-capture-recording-session,rooted
+Military Modular props,"Modeling and texturing modular 3D props.This includes the following assets: Watch TowerLight TowerTrailer ScreenCommunication SystemAir FiltrationMilitary Mobile DesksCrawd Control BarrierAnd more!
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/25-military-modular-props,rooted
+Throw items,"Ability to throw an object to inflict damage  break a glass, or draw attention of an enemy.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/60-throw-items,rooted
+Monastery global blocking,"Blocking of the Monastery  the key Point of Interest where the alpha is taking place.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/14-monastery-global-blocking,rooted
+Military hospital structure,"Modeling and texturing of the millitary hospital.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/49-military-hospital-structure,rooted
+UI & UX Improvements,"Improvements of both UI and UX parts of Rooted:Main menuSettingsSavesInventoryIn game HUDRadial menuAnd more!This rework allow use to user the new CommonUI system wich leverage animation possibilities on the in game UI.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/21-ui-ux-improvements,rooted
+Monastery Post Apocalyptic Layer,"Transform the monastery into its post-apocalyptic version  including:Vegetation reclaiming its placeTags and other markers of human passageScatteringAnd more!
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/72-monastery-post-apocalyptic-layer,rooted
+Alpha information,"EVERYTHING ABOUT ALPHA SESSIONS The alpha sessions of Rooted will unfold in a progressive manner  enabling us to validate the game's core features and test, as well as enhance the firmness of its foundations. Each significant alpha session will present an opportunity to incorporate an additional feature to those already scrutinized. This doesn't imply the completion of the game, but rather, it denotes a significant stride towards it.The duration of each session in Alpha will depend on how well its core features are received by users. The four sessions - Monastery Experience, Survive, Build your castle and Death Match - will continue until global feedback on them is positive enough.Every update will include new features and various improvements based on your feedbacks.It's crucial to remember that the Alpha version is likely to be the most bug-ridden and least representative of the final version of the game.The goal of those alpha session is to refine and enhance the experience to bring you the best Rooted experience.When?Announced as ""Early 2023"" on the Kickstarter page (no later than June), and then announced for May on our Discord server, the alpha should be available by the end of Q2 2023.We know that you're eager to play Rooted, but it's important for us to be proud of the build that we'll make available to you. When you no longer see any cards in the ""To-do"" column of this board, it means that launch is imminent :) Thank you for your interest in Rooted!Mathieu
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/62-alpha-information,rooted
+2nd Motion Capture Recording Session,"Second motion capture recording session to complete our set of animations and revise those that currently do not meet our standards.The goal is to bring a realist and immersive experience.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/33-2nd-motion-capture-recording-session,rooted
+Catacombs props,"Modeling and texturing of props created during the graybox stage of the monastery's catacombs.
+",https://portal.productboard.com/rooted/2-rooted-alpha/c/66-catacombs-props,rooted

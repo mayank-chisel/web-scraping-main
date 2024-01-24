@@ -1,0 +1,167 @@
+Name,Description,Source Link,portalSourceName
+Unpublish from vev.site,"As a user  I want to unpublish my .vev.site. from the Publish Modal. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/182-unpublish-from-vev-site,vev
+t sent by email, I have to notify the users I invite myself. And anyone who types in the email address of someone I've invited can register a user in their name and immediately get access to my shared resources. That's bad security.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/54-invites-by-email-security,vev
+Add Integrations to .vev.site,"Add your Integrations (like Password Protect  Google Analytics, Custom HTML Integration, etc.) to your .vev.site and not only for custom domains. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/166-add-integrations-to-vev-site,vev
+Access + Edit the current HTML CSS file,"Being able to edit your website's HTML and CSS code in the Code Editor.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/198-access-edit-the-current-html-css-file,vev
+Modal,"A graphic element that appears in front of all other page content
+",https://portal.productboard.com/vev/1-vev-roadmap/c/142-modal,vev
+Masks,"Use an element to hide areas of another element
+",https://portal.productboard.com/vev/1-vev-roadmap/c/169-masks,vev
+Integrations Panel,"Allow users to add  remove, and manage integrations for their projects and workspaces in one location. From here, users can search for any integration they might need and access an a listing grid to explore more. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/109-integrations-panel,vev
+MailChimp Forms,"Add MailChimp Forms to your Vev page.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/161-mailchimp-forms,vev
+Video Scroll,"A React component to seek or control the video frame rate on scroll. https://www.reddit.com/r/web_design/comments/lzv84t/does_anyone_know_how_apple_was_able_to_accomplish/
+",https://portal.productboard.com/vev/1-vev-roadmap/c/17-video-scroll,vev
+Publishing unapproved pages,"Enable publishing all pages to a vev.site-link independently of page statuses. A badge over the Vev watermark will reflect the status of the page on the published site. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/37-publishing-unapproved-pages,vev
+Native forms,"The ability to create a native form inside Vev and send the data to third-party platforms. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/158-native-forms,vev
+Publish Version History with Rollback,"Allow users to roll back their published content to a previously published version. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/91-publish-version-history-with-rollback,vev
+Commenting,"Give feedback to your team inside Vev.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/67-commenting,vev
+Page carousel,"Let visitors easily navigate between pagesFeaturesAutomatic page counterNavigation arrowsSwipe to change the page
+",https://portal.productboard.com/vev/1-vev-roadmap/c/146-page-carousel,vev
+Advanced animation tool,"Enhance and expand the animation tool to offer a plethora of new features  significantly improving usability and providing a wider range of animation options.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/183-advanced-animation-tool,vev
+Custom attributes,"Add custom attributes to Vev components when you need to provide more specific information about them.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/185-custom-attributes,vev
+Video slideshow,"As a designer I would like a slideshow component with videos
+",https://portal.productboard.com/vev/1-vev-roadmap/c/14-video-slideshow,vev
+Grid layout,"Allows users to add multiple CSS grid layouts to their sections — users can reorder  reposition, and resize elements with the grid easily in order to build responsive layouts faster. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/73-grid-layout,vev
+Spell check mode,"Check your page for spell or grammar errors by using tools like Grammarly or Tansa
+",https://portal.productboard.com/vev/1-vev-roadmap/c/155-spell-check-mode,vev
+Hubspot Forms,"Add Hubspot Forms to your Vev page.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/159-hubspot-forms,vev
+Eyedropper tool,"Select colors from imported images or other elements on the page/screen.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/12-eyedropper-tool,vev
+Polls,"Record the opinion of a topic
+",https://portal.productboard.com/vev/1-vev-roadmap/c/141-polls,vev
+Convert project to template,"As a designer  I'd like to convert my project to a template so it can be used by designers and content editors across my account without the need to copy/paste each section into the template editor. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/206-convert-project-to-template,vev
+Embed 2.0,"Create an improved embed that inserts content sync (so scroll position is maintained when opening the page) Add some embed options:Fill the width of the pageAllow setting target for embed (in cases where users can not decide where scripts are inserted)
+",https://portal.productboard.com/vev/1-vev-roadmap/c/175-embed-2-0,vev
+Native 3D Element and Integrations,"Bring 3D to Vev! Allow users to upload 3D files (obj  glb, stl) and have them displayed in a native 3D model viewer. Bonus: Allow users to add interactivity like hotspots to expand more information about a particular spot on the model. Integrate or support embeds with other popular 3D design tools such as: SplineSketchfab
+",https://portal.productboard.com/vev/1-vev-roadmap/c/76-native-3d-element-and-integrations,vev
+User to be a part of multiple accounts,"As a user  I want to switch easily between my accounts. Every time when I switch my account, I want to see the workspaces and projects which are connected to that account and no other accounts. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/147-user-to-be-a-part-of-multiple-accounts,vev
+Filter,"Enable page visitors to filter content into categories
+",https://portal.productboard.com/vev/1-vev-roadmap/c/65-filter,vev
+Rename vev.site publish point,"As a user  I want to rename my .vev.site publish point after creating it. Also, my previously published URL should not be reachable. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/181-rename-vev-site-publish-point,vev
+Google Forms,"Add your custom Google Forms to your Vev page. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/168-google-forms,vev
+Text Editor Improvements,"Improvements such as: Change the shapes and colors for bullet listAlphabetical listH5-H6
+",https://portal.productboard.com/vev/1-vev-roadmap/c/28-text-editor-improvements,vev
+Robots.txt,"As a user  I want to instruct search engine crawlers on which parts of my website should be crawled and indexed. This allows me to prioritize the most important pages and exclude sensitive or irrelevant content.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/203-robots-txt,vev
+Content API,"Push and synchronize your content from your preferred CMS (e.g. Contentful  Sanity, Custom CMS, etc.) via our Content API.Visit our documention here: https://developer.vev.design/docs/category/content-api
+",https://portal.productboard.com/vev/1-vev-roadmap/c/176-content-api,vev
+Advanced slideshows,"Create customized slideshows  carousels, or similar components that provide the freedom to design unique and interactive experiences tailored precisely to your requirements.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/189-advanced-slideshows,vev
+Variants,"Create variations of a Main component and gather them into one location that is easily accessible when working inside a project.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/207-variants,vev
+Loading screen,"Add a loading screen in your project settings  to show when your site is loading
+",https://portal.productboard.com/vev/1-vev-roadmap/c/196-loading-screen,vev
+Version history,"Version History makes collaborating in Vev even more secure by providing a complete record of all the changes made to your projects throughout their lifetime. It's a great tool for going back in time to see how designs have evolved and recovering past nuggets of the copy. Acting as your team's creative memory  it ensures nothing is ever permanently overwritten or lost. Use this history to:Copy any previous content to the presentView changes made by whoRestore pages from an earlier version Read more about the feature here, and head to your user profile to turn it on.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/70-version-history,vev
+User groups,"Why?Security: Access groups can help companies control access to sensitive content/projects and restrict access to only authorized users.Compliance: Access groups can help a company comply with regulatory requirements  such as HIPAA or GDPR, by ensuring that only authorized users have access to certain content/projects.Auditing: Access groups can help a company track who has accessed certain projects and when which can be useful for auditing and compliance purposes.User management: Access groups will help a company manage user access, including granting and revoking access, and setting different levels of access for different users.Efficiency: Access groups can help to streamline the process of granting and revoking access for users, making it more efficient for the company and its employees.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/200-user-groups,vev
+Content children,"Develop components that empower designers to create content as 'children' within a container  facilitating use cases such as slideshows, tabs, and accordions.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/208-content-children,vev
+New account roles,"Reduce the number of available account roles  and keep it simple with owner/admin and members. External collaborators will automatically get a Guest role. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/177-new-account-roles,vev
+Search bar,"Allow visitors to search for content on your page
+",https://portal.productboard.com/vev/1-vev-roadmap/c/152-search-bar,vev
+Invite to projects,"From inside the editor  allow to directly invite users into the project with either edit or comment permission, without them being part of the account.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/156-invite-to-projects,vev
+Pin your favourite teams,"If you're working on a bigger account with multiple teams  it can sometimes be cumbersome to find the right teams that you're often working in. With the option to pin your favourite teams you will have them available straight from the dashboard instead of having to go into the team settings to change.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/192-pin-your-favourite-teams,vev
+Vev CLI,"Write and publish code from your preferred code editor and connect it to Vev. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/133-vev-cli,vev
+Text wrapping,"Decide how the text should flow when inserting elements into the text. Types of text wrapping considered:InlineSquareTightThroughTop and bottomBehind textIn front of text
+",https://portal.productboard.com/vev/1-vev-roadmap/c/42-text-wrapping,vev
+Indexing options,"As a user  I want to decide whether the search engines should index my page.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/190-indexing-options,vev
+Pencil tool,"Create freeform vector graphics
+",https://portal.productboard.com/vev/1-vev-roadmap/c/171-pencil-tool,vev
+Shopify Plugin,"Integrate your Vev landing page into your Shopify project by using our potential ""Vev Shopify Plugin"". 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/165-shopify-plugin,vev
+Improved Main components,"We are currently focused on enhancing the user experience by streamlining the utilization of Main components. If you have any ideas or requests on how we can further improve  please share them by submitting them to this card.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/201-improved-main-components,vev
+Libraries,"Organize and structure custom-made design components like buttons or cards in a centralized location for easier reuse and consistency across projects. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/187-libraries,vev
+WordPress Plugin,"As a user I would like to easily implement a Vev site into my Wordpress CMS  full-width and maintaining the styles and fonts from Vev.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/16-wordpress-plugin,vev
+Site checker,"Scan a project for issues with breakpoints  accessibility, security, etc., and navigate to where the problems are located.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/172-site-checker,vev
+Figma Import,"By popular demand  allow users to upload a figma file (.fig) directly to Vev which will translate to publishable web content. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/120-figma-import,vev
+Dragable object,"A feature that lets your page visitors drag an object
+",https://portal.productboard.com/vev/1-vev-roadmap/c/197-dragable-object,vev
+New breakpoints,"Define a pixel width at which the design and content should adapt to create better user experiences on smaller and bigger screen sizes.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/140-new-breakpoints,vev
+Figma Import 2.0,"Improved version of the Figma Import. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/178-figma-import-2-0,vev
+Multiple artboards,"Lay out all your breakpoints in a single view  so you can get a better overview and change how your design should look and behave on each of them.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/180-multiple-artboards,vev
+New Add menu design,"We are consolidating all components  libraries, layers, and settings into a centralized location within the project, enabling you to effortlessly locate and manage all your assets in one place. This initiative aims to enhance consistency and provide a more organized experience.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/202-new-add-menu-design,vev
+Auto layout,"Rather than focusing on building for each device  enabling auto layout and setting the parameters allows components to automatically become responsive. Using the auto layout property you can:Stack nested elements within the frame; either vertical or horizontalResize the frame and nested elements will resize accordinglyCreate complex components that can be adapted easily per breakpoint You can easily enable auto layout to any frame or selected elements by:Selecting all the elements you'd like to have in an auto-layout frameWith the frame selected, navigate to the right-side Style PanelFind auto-layout and click the '+' or use the shortcut Shift + A Read more about how to use this feature here.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/11-auto-layout,vev
+Grid slider,"Structure cards into a grid and make them scroll horizontal
+",https://portal.productboard.com/vev/1-vev-roadmap/c/154-grid-slider,vev
+📏 Auto-resize,"Enable smarter workflow in resizing of elements and frames across multiple screen sizes
+",https://portal.productboard.com/vev/1-vev-roadmap/c/72-auto-resize,vev
+Interactions,"Add interactions to any design element by specifying triggers  actions, and destinations.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/204-interactions,vev
+Measure distance between elements,"Measure the distance between elements by holding down a key (like Control/⌃ or Alt/⌥)
+",https://portal.productboard.com/vev/1-vev-roadmap/c/23-measure-distance-between-elements,vev
+Pen tool,"Create vector graphics with anchor points and paths
+",https://portal.productboard.com/vev/1-vev-roadmap/c/170-pen-tool,vev
+Optional safe zones,"Choose to disable the safe zone for your project
+",https://portal.productboard.com/vev/1-vev-roadmap/c/194-optional-safe-zones,vev
+New style editors,"Enhanced style editors to improve usability and ensure consistency across all of them.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/193-new-style-editors,vev
+Image crop,"Select a specified area of an image to display
+",https://portal.productboard.com/vev/1-vev-roadmap/c/26-image-crop,vev
+Pan tool,"Move the view vertically or horizontally with a Pan tool
+",https://portal.productboard.com/vev/1-vev-roadmap/c/144-pan-tool,vev
+Unpublish project,"As a user  I would like to get unpublish my projects from a domain.Scenarios:Campaign has expiredI published my site before it was readyI published to wrong endpoint
+",https://portal.productboard.com/vev/1-vev-roadmap/c/92-unpublish-project,vev
+Import from Adobe Suite,"Import design assets from i.e. Photoshop or Illustrator to quickly put together your final designs in Vev
+",https://portal.productboard.com/vev/1-vev-roadmap/c/119-import-from-adobe-suite,vev
+Improved search,"Allows you to search through all of your Vev content such asTeamsWorkspacesTemplatesProjectsText in projects
+",https://portal.productboard.com/vev/1-vev-roadmap/c/205-improved-search,vev
+Variable fonts,"Ability to use several variations of the same typeface.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/36-variable-fonts,vev
+Design System Editor,"A dedicated space for designing/editing all main components and styles within a team and the option to share them across workspaces.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/64-design-system-editor,vev
+Support for Multiple Languages,"As a user  I need my content to be available in multiple languages so that it reaches a broader audience. 
+",https://portal.productboard.com/vev/1-vev-roadmap/c/186-support-for-multiple-languages,vev
+Scheduled Publishing,"Being able to schedule publishing from Vev.Who is this important for?Ecommerce and ad agenciesClients who use embed as hosting option
+",https://portal.productboard.com/vev/1-vev-roadmap/c/116-scheduled-publishing,vev
+Global header & footer,"Global header and footers can be applied to all project pages. Having a globally applied header or footer on your site can help establish visual continuity and unified brand identity and provide a better user experience through your site. Read more about the feature here.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/179-global-header-footer,vev
+Component marketplace,"A marketplace that showcases all components that are publicly available to use in Vev
+",https://portal.productboard.com/vev/1-vev-roadmap/c/199-component-marketplace,vev
+Google Sheets - Form Submission,"Send your form data to your Google Sheet!
+",https://portal.productboard.com/vev/1-vev-roadmap/c/174-google-sheets-form-submission,vev
+Improved CSS Effects,"Allow users to add more effects to elements such as: Blurs (layer and backgrounds) Shadows & glows (inner  outer, drop) CSS filters
+",https://portal.productboard.com/vev/1-vev-roadmap/c/46-improved-css-effects,vev
+Blend modes,"Blend layers together to create unique effects such as multiply  overlay or darken
+",https://portal.productboard.com/vev/1-vev-roadmap/c/114-blend-modes,vev
+More flexibility with color palettes,"As a designer  I would like to add as many colours as I want to the palette to be able to cover all of the colours from my brand guidelines.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/27-more-flexibility-with-color-palettes,vev
+Countdown component,"Enhance your page by adding a Countdown component that tracks and displays the remaining seconds until a specified time.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/191-countdown-component,vev
+Native Charts & Graphs with Integrations,"Allow users to upload CSV data to display in a native chart and graph element. It should include basic charts and graphs like: Line BarPie & DonutStackedAreaLet users be able to customize the design and interactivity of the element for complete creative control. Explore integrations to popular chart tools like: Flourish Infogram
+",https://portal.productboard.com/vev/1-vev-roadmap/c/77-native-charts-graphs-with-integrations,vev
+Annual subscription,"Allow to buy a subscription annually as opposed to monthly.
+",https://portal.productboard.com/vev/1-vev-roadmap/c/157-annual-subscription,vev

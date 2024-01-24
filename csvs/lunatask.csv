@@ -1,0 +1,119 @@
+Name,Description,Source Link,portalSourceName
+Support for Outlook / Office 365 Calendar,"Allow connecting your Outlook / Office 365 / Exchange Online calendar and see your events directly in Lunatask's calendar.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/80-support-for-outlook-office-365-calendar,lunatask
+Full-text Search,"Currently  the search searches only names of entities like tasks, notes, and journal entries.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/111-full-text-search,lunatask
+Password Protected Notes,"All notes in Lunatask are already end-to-end encrypted. However  one might want to protect certain notes with an additional password every time the note is accessed in app. Would you like to see this on note level or notebook level?
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/52-password-protected-notes,lunatask
+Relationship Tracking,"Add a contact list or personal CRM for tracking relationships (when was the last time you met with a person  happy memories you share together, etc). Tell us what you would like to get from such functionality.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/99-relationship-tracking,lunatask
+Energy Level Tracker,"Add energy level tracker to the mood tracker
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/61-energy-level-tracker,lunatask
+Localize Dates,"Localize dates across the app to the user's system language/region. As many of us are not native English speakers  it might take us more time to visually parse the English date format.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/88-localize-dates,lunatask
+Other Integrations,"Is there any other service you would like to see integrated with Lunatask?
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/64-other-integrations,lunatask
+Distribute Linux version as Flatpak,"Snaps are cool  but Flatpak might be preferred by some users.Update: As of v1.4, the app is distributed as AppImage as well (though we still recommend using snaps if you can) 
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/69-distribute-linux-version-as-flatpak,lunatask
+ARM build for Linux,"Currently  both snap and AppImage versions of Lunatask for Linux are built for x64 architectures only.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/109-arm-build-for-linux,lunatask
+Formatting Toolbar,"Currently  you can utilize Markdown to add rich formatting to your text. Adding the formatting toolbar to notes, journal entries, and task descriptions would be more user-friendly as some operations are quite hard to do at the moment.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/41-formatting-toolbar,lunatask
+Linux Support,"Allow to run Lunatask on your Linux device. When voting for this feature  please, specify which app format would you prefer (appimage, snap, etc.).
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/23-linux-support,lunatask
+Localization / Translations,"Currently  our apps are available only in English. Let us know into which language you'd like to see our apps translated. 
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/113-localization-translations,lunatask
+Two-way Sync to Calendar,"Sync time-blocked tasks and habits back to Google  Outlook, or another calendar.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/51-two-way-sync-to-calendar,lunatask
+Arbitrary Timer Length,"Allow starting a timer with arbitrary (custom) length.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/121-arbitrary-timer-length,lunatask
+Customizable UI Colors,"Blue primary color for menu and active icons is great  but maybe you're more of a pink person? Or a green one?
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/59-customizable-ui-colors,lunatask
+Gamification,"Add gamification and leveling elements to the app. For example  one would collect points for completed tasks or habits and could see how many points they need to get to the next level.This opens exciting possibilities – for example, one might also be able to set the reward for each task (higher number of points for more challenging tasks), etc.What else could we do with it? Feel free to share your ideas.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/120-gamification,lunatask
+Lock whole Lunatask behind PIN/password,"We currently have optional PIN/password protection on the level of individual notebooks and the journal. Would you find it useful to have the option to lock access to the whole app? Similar to how you unlock  for example, your password manager like 1Password when accessing it.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/136-lock-whole-lunatask-behind-pin-password,lunatask
+Minimize to Tray Instead of Closing on Linux,"Windows and Mac versions of Lunatask already do this.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/117-minimize-to-tray-instead-of-closing-on-linux,lunatask
+Eisenhower Matrix,"Implement Eisenhower Matrix as a grouping in Lunatask with the following sections in task list:Urgent and important (do these tasks immediately)Important  but not urgent (schedule these tasks to do later)Urgent, but not important (delegate these tasks to someone else)Neither urgent nor important (don't do these tasks, eliminate them)
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/31-eisenhower-matrix,lunatask
+Export Note as GitHub Gist,"Allow creating GitHub gists from notes with one click.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/95-export-note-as-github-gist,lunatask
+Support for End Dates/Deadlines,"Add support for end dates to tasks. The reason for Lunatask not having end dates currently is that Lunatask prioritizes tasks for you  and it is unclear how end dates should affect prioritization. Feel free to share your ideas on how would you imagine due dates to work and be visualized.Update: Goals (released in v1.7 in June 2023) now have due dates.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/84-support-for-end-dates-deadlines,lunatask
+Make.com Integration,"Make.com is an automation platform and alternative to Zapier or IFTTT.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/133-make-com-integration,lunatask
+Attached Note Indication,"Indicate visually in the list that the task has note attached without the need to open task detail.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/114-attached-note-indication,lunatask
+Attach Emotion (Mood and Feelings) To Notes,"Offer mood picker on individual notes. Could be useful for things like diaries or journals.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/47-attach-emotion-mood-and-feelings-to-notes,lunatask
+Task Tagging,"Add tagging to tasks. I guess nothing else to say really.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/137-task-tagging,lunatask
+Show Tasks From Different Areas in Different Colors,"Currently  all time-blocked tasks appear on the calendar in the same blue color.Update: This feature was shipped in v1.7.4 🚀
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/110-show-tasks-from-different-areas-in-different-colors,lunatask
+Timestamps on Journal Entries,"While our journal entries are tied to specific dates  it might be useful for some to track also a particular time of day (hour and minute) on each journal entry. Tell us, what would you use this for?
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/129-timestamps-on-journal-entries,lunatask
+Apple Silicon Support,"Native support for Macs running on Apple Silicon / M1 chip without Rosetta 2.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/39-apple-silicon-support,lunatask
+Open-sourcing / Self-hosting,"Although all your data in Lunatask is by default encrypted on the client before it is sent to be stored in our cloud  we're also considering open-sourcing Lunatask server allowing you to self-host your own instance having complete ownership and control of your data.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/73-open-sourcing-self-hosting,lunatask
+Better Multi-Select,"Allow performing more operations on tasks via multi-select. Currently  only delete operation is allowed by pressing backspace when multiple tasks are selected.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/5-better-multi-select,lunatask
+Embed Images,"Allow embedding images in notes  journal entries, and task descriptions.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/57-embed-images,lunatask
+Quick Add Task from Web or Mobile,"Before we have full-featured mobile apps ready  add support for adding new tasks from any device (mobile or web). For each task list (or area) have a dedicated private URL that you can bookmark and open from anywhere and add tasks on the go. 
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/33-quick-add-task-from-web-or-mobile,lunatask
+Note Import,"Allow importing notes from other tools.This is currently blocked mostly by missing support for the rest of the Markdown formatting in the editor. Adding support for all remaining formatting will allow for building import options for people migrating notes from other tools. (Currently  unsupported formatting would need to be stripped, therefore basically corrupting the data, hence that’s why no import options are available at the moment.)
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/108-note-import,lunatask
+Statistics on Completed Tasks,"Add statistics on how many tasks are created/completed over time. Tell us  what information/data/charts would you be interested in?
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/86-statistics-on-completed-tasks,lunatask
+Android Support,"Allow running Lunatask on your Android device.Update: We are happy to announce that we just launched a public beta for our upcoming Android app. You can now join the beta at lunatask.app/mobile.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/25-android-support,lunatask
+Show Longest Streak,"Show the longest streak in the habit tracker to the user to motivate him to beat the past record.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/30-show-longest-streak,lunatask
+Allow To Pick Color For Each Habit,"Currently  five colors are available and they rotate depending on the position of the habit. However, it might be cool to allow the user to pick a custom color for each habit.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/55-allow-to-pick-color-for-each-habit,lunatask
+[FEEDBACK NEEDED] Morning / Afternoon / Evening Workflow,"We are considering adding a new workflow named ""Morning / Afternoon / Evening workflow"". In this workflow  sections in the task list would be populated from the tasks on the calendar in the exact order they appear on the calendar. Below these three part-of-day sections, you would have “now” and “later”. When dragging a task from “now” onto the calendar for 10 AM, the task would move from the “now” section into the “morning” section above it. This way, one would not need to look at the calendar all the time throughout the day after they planned their day, as the task list would always mirror the order of tasks on the calendar in this workflow. Would you find such a workflow useful? Would you change anything about this? Let us know even when this does not look interesting despite you using time blocking and tell us why.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/131-feedback-needed-morning-afternoon-evening-workflow,lunatask
+Support iCloud/iCal Calendars,"Support connecting iCloud/iCal calendars with Lunatask.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/90-support-icloud-ical-calendars,lunatask
+Slack Integration,"Allow pushing individual messages and even whole Slack threads as tasks into Lunatask. This is currently possible to achieve only via Zapier.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/93-slack-integration,lunatask
+Time Tracking,"Time tracking like Toggl in Lunatask. Useful for insights into your productivity or for freelancers working for and billing multiple clients.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/32-time-tracking,lunatask
+Custom Recurrence Rules For Habits,"We could use the same rules engine and natural language parser powering recurring tasks. 
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/135-custom-recurrence-rules-for-habits,lunatask
+Allow to Skip Habit Without Breaking Streak,"Allow skipping an occurrence of the habit without breaking the streak. Sometimes you might be at a place for a day where the habit is not relevant. You might want to mark the occurrence as skipped and possibly provide a note of why you were not able to complete the habit.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/112-allow-to-skip-habit-without-breaking-streak,lunatask
+Journal Sharing (with a therapist  etc.),"Add the ability to share the journal or select journal entries while maintaining end-to-end encryption.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/126-journal-sharing-with-a-therapist-etc,lunatask
+Start/End Dates for Repeating Tasks,"Currently  repeating tasks always repeat from today. It would be cool to allow repeating tasks to start from arbitrary dates.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/42-start-end-dates-for-repeating-tasks,lunatask
+Add Character/Word Counter,"Show the note length in words or characters. Possibly  make it also available on journal entries.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/83-add-character-word-counter,lunatask
+Note Sorting,"Allow changing the sorting order of notes.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/48-note-sorting,lunatask
+Statistics,"Imagine a dashboard with various statistics. What statistics would you like to see there? 
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/138-statistics,lunatask
+Allow Sharing Notes Publicly on the Internet,"Allow generating a public link to a note. Sharing the link with other people would allow them to see the read-only version in their browsers.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/89-allow-sharing-notes-publicly-on-the-internet,lunatask
+Journal Entry Template,"Allow setting your own template new journal entries are initialized with. There  you could ask yourself questions, remind yourself of things not to forget, etc.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/98-journal-entry-template,lunatask
+Weekly Habits,"Currently  the habit tracker is day-based. Though you can set up the habit to apply only on certain days (i.e. only on Tuesdays), it would be great if a habit could be formulated as i.e. ""three times a week"" or ""at least once a week"". The record streak calculation would reflect that as well.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/35-weekly-habits,lunatask
+Allow 24h time format,"Add option to display time in 24h format across the app.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/106-allow-24h-time-format,lunatask
+Projects / Goal Tracking,"Add support for tracking multiple goals and projects within a single area of life.Update: This feature was shipped in v1.7.0 🚀
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/68-projects-goal-tracking,lunatask
+Daily Journal,"Similar to notes  but more optimized for this use case (timeline, one note per day). Possibly directly integrated in the mood tracker.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/75-daily-journal,lunatask
+Arbitrary Task Estimates,"Allow setting arbitrary task estimates besides the existing options of 5m/10m/.../8h.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/101-arbitrary-task-estimates,lunatask
+Many Journals / Journal Entry Tagging,"Currently  there's only one journal in Lunatask where all journal entries live and besides dates, there's no other ability to structure them.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/119-many-journals-journal-entry-tagging,lunatask
+Pinned Tasks,"Allow pinning tasks to the top of the list.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/38-pinned-tasks,lunatask
+Shortcut to Schedule a Task,"Pressing ""S"" on the keyboard should show the date scheduling dialog for the selected task without the need to open task detail. This will also enable bulk scheduling of multiple tasks for a future date.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/124-shortcut-to-schedule-a-task,lunatask
+Windows Support,"Allow to run Lunatask on your Windows 10 device.
+",https://portal.productboard.com/lunatask/1-lunatask-roadmap-idea-portal/c/22-windows-support,lunatask

@@ -1,0 +1,25 @@
+Name,Description,Source Link,portalSourceName
+Configuration: Authentication supports SSO with OpenID connect for SEKOIA.IO,"Support SSO for our SAAS version ( CTI/XDR) Technology: Open ID Connect. A new account will be created at the first connexion (""Just in time"" provisioning method)
+",https://portal.productboard.com/sekoia-io/1-sekoia-io/c/29-configuration-authentication-supports-sso-with-openid-connect-for-sekoia-io,sekoia-io
+Configuration: enforce 2FA for your communities,"Allow the community administrator to enforce 2FA on their users.
+",https://portal.productboard.com/sekoia-io/1-sekoia-io/c/61-configuration-enforce-2fa-for-your-communities,sekoia-io
+TIP: Comments in Content Proposal,"In order to be able to improve the review of a content proposal and allow interactions between the assignee and the reviewer  a comment feature would be useful inside a content proposal page.Comments capabilities must be added to the content proposal page, so the assignee and the reviewer may exchange informations.
+",https://portal.productboard.com/sekoia-io/1-sekoia-io/c/34-tip-comments-in-content-proposal,sekoia-io
+SOAR: Playbooks edition and runs details panel,"After the evolution of the playbooks listing  a new panel has been deployed to improve the user experience.This one allows to (de)activate a playbook or to start editing it. Also, it is now easier to have an overview of the runs. Each run is classified by status and a filter is available to focus on a particular status (in progress, succeeded, error).
+",https://portal.productboard.com/sekoia-io/1-sekoia-io/c/51-soar-playbooks-edition-and-runs-details-panel,sekoia-io
+Pivot from intakes to events,"Users can quickly navigate from an intake to its related events.
+",https://portal.productboard.com/sekoia-io/1-sekoia-io/c/82-pivot-from-intakes-to-events,sekoia-io
+New roles & permissions,"This project aims to simplify our role and permission management system. The current highly granular set of permissions makes the feature complex and brings its share of problems that we want to get rid of. By offering a more readable system we will improve the product's understanding. Video : Survey https://27omk6in9h0.typeform.com/to/VhHulnAP
+",https://portal.productboard.com/sekoia-io/1-sekoia-io/c/140-new-roles-permissions,sekoia-io
+Agent for MacOs,"Ensure our Agent can detect threats targeting OS X endpoints
+",https://portal.productboard.com/sekoia-io/1-sekoia-io/c/110-agent-for-macos,sekoia-io
+SEKOIA.IO Agent: Generate its own events for Windows,"SEKOIA.IO for Endpoints is currently relying on the following sources of information to monitor Windows Systems:Sysmon: A monitoring tool that is not installed on Windows Systems by default. This means that the IT administrators need to install it on all Windows Systems and properly configure it.Security Auditing. This is the default auditing mechanism. The default policy is far from good enough for security monitoring  so the IT administrators need to properly define a security auditing policy.The agent should generate its own events to remove the dependency on Sysmon or Microsoft-Windows-Security-Auditing. At least the following events should be implemented:Process CreationProcess TerminationNetwork Connection: only new connections, not all packetsCreateRemoteThread: a process creates a thread in another processFile Creation: requires efficient filtering to reduce the volume of eventsRegistry Modifications: requires efficient filtering to reduce the volume of eventsDNS Query Results
+",https://portal.productboard.com/sekoia-io/1-sekoia-io/c/38-sekoia-io-agent-generate-its-own-events-for-windows,sekoia-io
+Import your own indicators in SEKOIA.IO,"Import your own IoC's in collections. Use these collections for detection
+",https://portal.productboard.com/sekoia-io/1-sekoia-io/c/18-import-your-own-indicators-in-sekoia-io,sekoia-io
+Users can test a custom rule,"To effectively test their custom rules  users need to evaluate the number of alerts that could be raised and confirm that the rule works with both ""must match"" and ""must not match"" tests. This will give users confidence in their modifications and other analysts assurance that the rule is functioning correctly.
+",https://portal.productboard.com/sekoia-io/1-sekoia-io/c/84-users-can-test-a-custom-rule,sekoia-io
+Pivot from rules to alert,"Users can quickly go from a rule to its associated alerts
+",https://portal.productboard.com/sekoia-io/1-sekoia-io/c/83-pivot-from-rules-to-alert,sekoia-io
+Alert status can be updated anytime,"It was previously not possible to modify alert statuses. This could lead to various issues  such as a user mistakenly rejecting an alert or wanting to reopen one. We will allow users to modify their alert statuses without any restrictions.
+",https://portal.productboard.com/sekoia-io/1-sekoia-io/c/80-alert-status-can-be-updated-anytime,sekoia-io

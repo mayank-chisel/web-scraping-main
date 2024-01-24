@@ -1,0 +1,65 @@
+Name,Description,Source Link,portalSourceName
+Column layout,"Have you ever needed to display more complex content as columns? We did! That's why we're adding a new block type ""Columns"" that will allow you to add any block inside a column! This will give you superpowers when it comes to structuring your content!
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/60-column-layout,supernova
+Our full changelog 👀,"See our full changelog on supernova.io/releases! 👀
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/59-our-full-changelog,supernova
+Design system inheritance,"Do you manage complex multiple-brand design systems and you need to share many properties  tokens, and even relationships between them? Do you want one of these design systems to behave as a parent and the other to inherit some properties from it?If you answered ""Yes"" at least to one of the questions above, let us please know details about your design system structure! We'd like to learn more from you, so we can make sure that inheritance works for you well.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/40-design-system-inheritance,supernova
+Manage components in Supernova,"We combine the data that represents all of the facets of your components in one place - from design components to code components  to metadata used to govern processes around them. Now in Supernova, with the availability to easily display these data inside of your design system documentation!
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/35-manage-components-in-supernova,supernova
+Navigation badges,"Not all content is ready and healthy  but we still want to keep it available to our users. Or we want to inform users that something will be available soon. Or add any other badge to your liking. Let us know what badges would you like to display for your documentation page in the main navigation! 
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/52-navigation-badges,supernova
+Support variable fonts,"Does your design system use variable fonts? Let us know how you would like Supernova to support it!
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/41-support-variable-fonts,supernova
+Custom domain for documentation,"You can now publish your Docs to your custom domain. You can easily connect Docs to your custom domain in the Docs settings! Available only on Company plan.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/61-custom-domain-for-documentation,supernova
+Color hue tiles,"Display your color tokens as tiles of shades  nicely grouped by different color hues.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/49-color-hue-tiles,supernova
+Multiplayer editing,"Design systems thrive when people collaborate. And the best way to collaborate is in real-time and easily see what others are doing – as we know from other tools like Figma or Notion.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/47-multiplayer-editing,supernova
+Prop tables for code components,"Display the full API for each component by a clear table of all supported properties.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/50-prop-tables-for-code-components,supernova
+"Upload files to design systems (PDF  zip, ...)","I can upload any arbitrary files to my documentation for sharing with the design system consumers – there is no restriction on file type. I can then display these files in the documentation and let users to download them.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/42-upload-files-to-design-systems-pdf-zip,supernova
+Adjust opacity for aliased tokens,"This feature will allow to apply any opacity to token aliases and makes color management even easier.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/63-adjust-opacity-for-aliased-tokens,supernova
+Lottie files preview,"Does your design system use Lottie animations? Let us know how you'd like to display them in the documentation.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/43-lottie-files-preview,supernova
+HTML code snippets,"Does your design system contain components in plain HTML/CSS? HTML code snippets would allow you to add a preview of these components. This could be possibly used also for design systems for emails.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/44-html-code-snippets,supernova
+Render Code block from private npm libraries,"It's now possible to render your own React libraries coming from either private or public packages inside Supernova.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/72-render-code-block-from-private-npm-libraries,supernova
+Documentation commenting,"Collaborate with your colleagues and craft the best design system documentation – together!
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/46-documentation-commenting,supernova
+React Live Code Block 2.0,"With new React blocks  your viewers can enjoy live components directly from your codebases like never before. Edit code live, bring code to Codesandbox for ultimate ""sandbox"" experience, and, of course, get code directly from the documentation.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/70-react-live-code-block-2-0,supernova
+Single Sign-On (SSO),"The ability to connect third-party auth providers to Supernova  especially for enterprise users.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/38-single-sign-on-sso,supernova
+Support Bitbucket,"Support automated delivery of code to Bitbucket repos. On-premise support is a must from the start since all customer requests for Bitbucket are centered around on-premise use cases.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/57-support-bitbucket,supernova
+Live Code: Layout variants,"We are additionally bringing 5 different ways to render your code blocks so you can always pick the visualisation that suits you the best.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/71-live-code-layout-variants,supernova
+Hotjar integration,"We're expanding on the analytics options with a new Hotjar integration! You can now easily add feedback surveys or leverage Hotjar analytics to collect insights on how users use your documentation.We support all Hotjar widgets and features: Feedback widgets  Surveys, Heatmaps, and Recordings. Hotjar Site ID can be added in Analytics section in Documentation settings.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/65-hotjar-integration,supernova
+Do/Don't guidelines,"Do you need to show guidelines for your components or patterns? Share with us how would you use Do/Don't guidelines in your documentation  so we can make this feature as better as possible!
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/45-do-don-t-guidelines,supernova
+Two-factor Authentication (2FA),"For increased security  allow workspaces to require two-factor authentication for login.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/39-two-factor-authentication-2fa,supernova
+Component interactive playground,"Show all supported component properties visually and let your developers copy the code snippet easily based on props configuration.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/51-component-interactive-playground,supernova
+Resizable component columns,"It's now possible to resize component columns to your liking. Simply drag the edge of any column and resize it to the desired width. Grab the column in the middle to reorder them.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/68-resizable-component-columns,supernova
+Supernova health monitoring page,"We've added real-time health monitoring of Supernova systems and also greatly improved internal processes so we can respond to anything out of the ordinary even faster.You can bookmark the following URL: https://status.supernova.io/ to always tell you if something is wrong. We'll be also adding it to different places around the Supernova ecosystem so it is always there when you need it (we're hoping you'll never need it).
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/69-supernova-health-monitoring-page,supernova
+Support GitLab,"We have added another integration — GitLab! You are now able to link your GitLab account in the same way as GitHub or Azure DevOps and use your repositories as a destination for builds and hooks. This way  you can automatically deliver your tokens, assets, or even documentation to your GitLab repositories!
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/58-support-gitlab,supernova
+Collect feedback from users,"Setting up strong feedback loops with your design system users is super important for any design system to evolve. If you'd like to collect feedback on your content  let us know!What other type of feedback would you like to collect from your design system users? More details, better 🙏
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/56-collect-feedback-from-users,supernova
+Notifications about changes,"Are there more people working on documentation and you'd like to know what's happening and what was changed? Would you like to follow only specific pages  tokens, or categories?Let us know what the ideal notification system for you might look like! This will help us design a notification that suits you and doesn't overwhelm you.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/55-notifications-about-changes,supernova
+Support themes,"Support for multiple themes in your design system – light theme  dark theme, dark high-contrast theme, and any other that you may need for your brand and product(s).
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/36-support-themes,supernova
+Documentation Markdown Exporter,"Markdown exporter allows you to export all your documentation pages and their content into a nice  clear Markdown definition that can be, for example, committed to your repository.
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/66-documentation-markdown-exporter,supernova
+Import tokens from Style Dictionary,"Do you already have your token tooling set with Style Dictionary by Amazon? Let us know what would be the ideal way for you to connect Style Dictionary to Supernova!
+",https://portal.productboard.com/supernova/3-supernova-feature-requests/c/54-import-tokens-from-style-dictionary,supernova

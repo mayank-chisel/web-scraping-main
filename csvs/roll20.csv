@@ -1,0 +1,127 @@
+Name,Description,Source Link,portalSourceName
+Galaxies in Peril (Forged in the Dark),"Character sheet support for Galaxies in Peril
+",https://portal.productboard.com/roll20/1-roll20-portal/c/219-galaxies-in-peril-forged-in-the-dark,roll20
+Style and User Interface,"Changes to the user interfaces that make up Roll20. This includes fonts  colors, and other elements that you can interact with.Roll20 is made up of many views and components. When contributing feedback, please include details on which part of Roll20 the feedback is referring to, under what circumstances you would see your suggestion, and which kinds of users would see this (GM, Player, etc).
+",https://portal.productboard.com/roll20/1-roll20-portal/c/222-style-and-user-interface,roll20
+13th Age: Chaos / Lunars Support,"Support for Chaos stealing the Escalation Die and Lunars sharing the Escalation Die
+",https://portal.productboard.com/roll20/1-roll20-portal/c/203-13th-age-chaos-lunars-support,roll20
+Power Rangers: Movement Speed,"Add a location for character movement speed to the base sheet
+",https://portal.productboard.com/roll20/1-roll20-portal/c/173-power-rangers-movement-speed,roll20
+Invictus Theme,"Add an additional theme to the character sheet for the Invictus setting
+",https://portal.productboard.com/roll20/1-roll20-portal/c/180-invictus-theme,roll20
+"Send Gear  Armor, etc. to Chat","Send gear  armor, etc. to chat for easy reference.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/210-send-gear-armor-etc-to-chat,roll20
+Dice Roller,"Add a button to the sheet to allow users to make an ""arbitrary"" dice roll from the character sheet.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/190-dice-roller,roll20
+Power Rangers: Critical Success Bug,"Bug: currently a 2 on a d2 is showing incorrectly as a Critical Success.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/218-power-rangers-critical-success-bug,roll20
+One-Way Barriers,"Dynamic Lighting barriers that block light and vision from one side of the line  but lets it pass through the other side.The screenshot above is a working version.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/158-one-way-barriers,roll20
+Display Player-Chosen Avatar,"Link to backend data to display the correct photo that the player chooses.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/14-display-player-chosen-avatar,roll20
+Support for Excellent & Poor Quality Weapons,"Excellent or Poor quality will either add or subtract from attack  which is not done automatically on the sheet today.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/212-support-for-excellent-poor-quality-weapons,roll20
+Dice Roller Improvements,"Add support for Custom Roll Parsing  streamlining the roll process and reducing the 3d dice clutter
+",https://portal.productboard.com/roll20/1-roll20-portal/c/178-dice-roller-improvements,roll20
+Support Circle Tool in Dynamic Lighting,"The VTT's circle drawing tool now works as intended with dynamic lighting.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/85-support-circle-tool-in-dynamic-lighting,roll20
+Ranger Specific Mechanic Implementations,"Add specific implementations for various specific ranger mechanics  such as the White Ranger's Relic Die
+",https://portal.productboard.com/roll20/1-roll20-portal/c/176-ranger-specific-mechanic-implementations,roll20
+Cyberpunk RED - Dark Mode support,"Change the colors of the sheet based on your VTT 
+",https://portal.productboard.com/roll20/1-roll20-portal/c/161-cyberpunk-red-dark-mode-support,roll20
+Dice rolling from Home Screen (Sent to Game),"Rolling dice from your home screen either anonymously or sending it to a selected game. 
+",https://portal.productboard.com/roll20/1-roll20-portal/c/152-dice-rolling-from-home-screen-sent-to-game,roll20
+Bug Fix: Critical Success/Failures apply to Initiative,"Rolling a nat 1 or nat 10 should apply to initiative rolls.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/224-bug-fix-critical-success-failures-apply-to-initiative,roll20
+Increased Skill Count & Skill Selection Toggles,"Increase the base number of skills present on the sheet  and then provide controls allowing a user to hide skills and skill groups that are not relevant to their character
+",https://portal.productboard.com/roll20/1-roll20-portal/c/179-increased-skill-count-skill-selection-toggles,roll20
+Adjustable Daylight Mode,"early access update on the Dev Server to let you try out the latest update we've been working on. Read more...A popular suggestion  now possible with Dynamic Lighting.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/98-adjustable-daylight-mode,roll20
+Languages,"Add an input for a character's languages to the base character sheet.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/174-languages,roll20
+Pathfinder 1e: Advanced NPC Sheet,"Support for unique  levelable NPC characters that could have buffs & conditions.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/197-pathfinder-1e-advanced-npc-sheet,roll20
+Notetaking,"The ability to create and save notes and journal entries.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/144-notetaking,roll20
+Improved Weapon Controls,"Add the autofire controls and ammo controls to a more easily accessible location on the sheet  removing the requirement to expand the item or enter edit mode.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/170-improved-weapon-controls,roll20
+Show game tags,"Show game module tags on the home screen with the campaign image to help identify the game if you have assigned a module to the game. 
+",https://portal.productboard.com/roll20/1-roll20-portal/c/28-show-game-tags,roll20
+Death Saves,"Ability to roll death saves and track successes/failures.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/44-death-saves,roll20
+Transparent Tokens or Ghostlike Effect,"From the GM view  the token image looks strange and ghostlike if you have an animated token with nightvision (or explorer mode on) that isn't being controlled by anyone. This is a complicated issue that can only be resolved by removing the Sharpen feature from the VTT.Resolved May 25, 2021Remaining issue:All Tokens appear differently to a GM depending on ""controlled by"" settings as well as Dynamic Lighting settings.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/72-transparent-tokens-or-ghostlike-effect,roll20
+GM view,"A unique GM view for the Roll20 Companion App.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/102-gm-view,roll20
+Output Additional Attack Info to Chat,"Output additional details (e.g. notes) from attacks to chat. For example  including notes to indicate if a special ammo type is being used.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/211-output-additional-attack-info-to-chat,roll20
+Swipe to roll,"Swiping to roll involves an interim state  replacing the simple ""tap."" This feature could:prevent accidental rolls (or accidental duplicate rolls), allow for a cleaner experience when rolling advantage, disadvantage, or normal rollsallow for space to check a attack or spell roll before purposefully rolling/sending it to the chat
+",https://portal.productboard.com/roll20/1-roll20-portal/c/12-swipe-to-roll,roll20
+Dice Roller Improvements,"Add improved critical roll support  critical damage support, auto ammunition deduction and so forth.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/163-dice-roller-improvements,roll20
+Dark mode (outside of VTT),"Ability to set dark mode on Roll20 main site through Preferences in your Account Settings.Roll20 recently introduced the ability to set color mode preferences outside of the VTT. When contributing feedback  please include details on which part of Roll20 the feedback is referring to, under what circumstances you would see your suggestion, and which kinds of users would see this (GM, Player, etc).
+",https://portal.productboard.com/roll20/1-roll20-portal/c/223-dark-mode-outside-of-vtt,roll20
+Hover Over Token to Reveal Nameplate and Bar Overlay,"This is a top 10 suggestion on the Suggestions & Ideas forum.This change would result in a view of the Virtual Tabletop where most of the time  the token nameplate and bars of individual tokens would not show. Interacting with a specific token by holding your mouse over would reveal those elements.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/192-hover-over-token-to-reveal-nameplate-and-bar-overlay,roll20
+Foreground Layer,"This is a top 10 suggestion on the Suggestions & Ideas forum.Foreground Map Layer would create an additional VTT layer for graphics to set a scene for player characters and enable player immersion. Alongside token locking  we think this has the potential to help you craft exciting visuals at your table, whether you’re playing in-person or remotely. This idea is currently vying for #2 most voted alongside Custom Compendium.In a blog post, CTO Morgan Buck announced a foreground layer was one of the features on the roadmap for Roll20.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/204-foreground-layer,roll20
+In-Game Text Chat,"Access the chat and the ability to send text to chat. 
+",https://portal.productboard.com/roll20/1-roll20-portal/c/142-in-game-text-chat,roll20
+Colored Lighting,"Adds the option to color the light sources on the Virtual Tabletop
+",https://portal.productboard.com/roll20/1-roll20-portal/c/94-colored-lighting,roll20
+Hotkeys/Favorites,"An area for your most used rolls. 
+",https://portal.productboard.com/roll20/1-roll20-portal/c/101-hotkeys-favorites,roll20
+Roll to Attack (Specific Attack),"Select a weapon or attack to roll for Attack (1d20 + modifier to hit) Details includedBackend:Repeating SectionsShow Repeating SectionsLater: Manage Repeating Sections
+",https://portal.productboard.com/roll20/1-roll20-portal/c/31-roll-to-attack-specific-attack,roll20
+"CRUD: Create  (Read), Update, Delete","Homebrew? No problem. Want to edit a description? Let's do it. 
+",https://portal.productboard.com/roll20/1-roll20-portal/c/150-crud-create-read-update-delete,roll20
+Drag and Drop Improvements,"Improve Drag and Drop behavior for disciplines and powers. 
+",https://portal.productboard.com/roll20/1-roll20-portal/c/187-drag-and-drop-improvements,roll20
+Share a Game Link,"Share the campaign/game link from your mobile device. 
+",https://portal.productboard.com/roll20/1-roll20-portal/c/149-share-a-game-link,roll20
+Initiative rolls from app link to Turn Tracker on VTT,"Initiative rolls from mobile app link to turn tracker on VTT.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/33-initiative-rolls-from-app-link-to-turn-tracker-on-vtt,roll20
+Fallout: Adjustment to Task Rolls,"Bug fix for task rolls to appropriately calculate successes. This should calculate based on skill not skill+ability.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/200-fallout-adjustment-to-task-rolls,roll20
+Mobile App Dice Roller (advanced),"Allow +/- and/or allow for keyboard usage.Exploding dice  fudge dice, etc. 
+",https://portal.productboard.com/roll20/1-roll20-portal/c/57-mobile-app-dice-roller-advanced,roll20
+Dark Mode Support,"Improve the dark mode rendering for this sheet.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/183-dark-mode-support,roll20
+Ability to Edit Temporary HP,"Ability to edit temporary HP.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/34-ability-to-edit-temporary-hp,roll20
+Negative Dice Modifiers,"Allow users to select negative dice modifiers when making rolls.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/184-negative-dice-modifiers,roll20
+Increase / Decrease Buttons for Resources,"Plus or Minus buttons for frequently changed resources  such as ammo, armor stopping power, and so forth.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/169-increase-decrease-buttons-for-resources,roll20
+Gaslight Theme,"Add an additional theme to the character sheet for the Gaslight setting.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/181-gaslight-theme,roll20
+Martial Arts Support,"Add Martial Arts support within Combat tab.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/195-martial-arts-support,roll20
+Cyberpunk 2020,"Support for Cyberpunk 2020 Character Sheets
+",https://portal.productboard.com/roll20/1-roll20-portal/c/214-cyberpunk-2020,roll20
+Nocturnal Mode,"Nocturnal Mode mimics DnD5e and PF2e darkvision rules.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/65-nocturnal-mode,roll20
+Pulp Cthulhu Support,"Add support for the Pulp Cthulhu variant rules
+",https://portal.productboard.com/roll20/1-roll20-portal/c/177-pulp-cthulhu-support,roll20
+Discipline Rolls,"Add the ability to roll a character's discipline dots.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/185-discipline-rolls,roll20
+Global Modifiers,"Support class/race details features that have global effects. For example  Jack of All Trades. 
+",https://portal.productboard.com/roll20/1-roll20-portal/c/41-global-modifiers,roll20
+Rolling Powers,"Add powers to rolling options as most powers require a dice pool that's power + something else.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/215-rolling-powers,roll20
+Display Character Background (Basic),"Display Character Background (Basic)
+",https://portal.productboard.com/roll20/1-roll20-portal/c/35-display-character-background-basic,roll20
+Pathfinder 1e: Support for Adventure Paths,"Support for additional rules from varying Adventure Paths  as well as the various tracking sheets introduced in the Ultimate Campaign.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/196-pathfinder-1e-support-for-adventure-paths,roll20
+Mobile Support,"Update the sheet to have better coherency on mobile  add the sheet to the approved sheet list, and allow users to play via the mobile app.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/188-mobile-support,roll20
+Fog of War UI Update,"Previously  the Fog of War settings lived with the ""legacy"" dynamic lighting settings. This unintentionally conveys the message that Fog of War is tied to ""legacy"" dynamic lighting. The setting has been moved to the general settings menu to avoid confusion.
+",https://portal.productboard.com/roll20/1-roll20-portal/c/86-fog-of-war-ui-update,roll20
+Mobile Charactermancer,"Creating a character on the mobile app. 
+",https://portal.productboard.com/roll20/1-roll20-portal/c/138-mobile-charactermancer,roll20
+Modern Theme,"Add an additional theme to the sheet for the Modern setting
+",https://portal.productboard.com/roll20/1-roll20-portal/c/182-modern-theme,roll20
+Cyberpunk: Decking Panel,"Add support for Cyberpunk Decks  programs and other features. 
+",https://portal.productboard.com/roll20/1-roll20-portal/c/162-cyberpunk-decking-panel,roll20
+Cyberpunk RED: Role Abilities,"Add Ability mechanics for individual roles
+",https://portal.productboard.com/roll20/1-roll20-portal/c/160-cyberpunk-red-role-abilities,roll20

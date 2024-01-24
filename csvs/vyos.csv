@@ -1,0 +1,21 @@
+Name,Description,Source Link,portalSourceName
+Synproxy to protect against DDoS attacks,"Add firewall synproxy. It is helpful to protect against TCP SYN flood attacks and port scanners.The SYNPROXY target allows you to intercept TCP connections and establish them using syncookies before passing them on to the server. This allows to avoid conntrack and server resource usage during SYN-flood attacks.
+",https://portal.productboard.com/vyos/1-vyos-roadmap/c/41-synproxy-to-protect-against-ddos-attacks,vyos
+SwitchDev Support,"The Ethernet switch device driver model (switchdev) is an in-kernel driver model for switch devices which offload the forwarding (data) plane from the kernel.
+",https://portal.productboard.com/vyos/1-vyos-roadmap/c/38-switchdev-support,vyos
+OpenVPN DCO Linux Kernel Module,"OpenVPN DCO aims to provide a much faster VPN implementation by leveraging data encryption backed by AES-NI in kernel space to avoid the context switching overhead from OpenVPN currently in user-space. The OpenVPN DCO kernel module handles the OpenVPN data channel in kernel-space and provides higher throughput and lower latency. Further helping the performance is this new implementation having multi-threaded encryption.
+",https://portal.productboard.com/vyos/1-vyos-roadmap/c/39-openvpn-dco-linux-kernel-module,vyos
+Simple WebUI for router management and monitoring,"Implement lightweight Web UI for router management and monitoring
+",https://portal.productboard.com/vyos/1-vyos-roadmap/c/12-simple-webui-for-router-management-and-monitoring,vyos
+Wireguard FQDN-based endpoints,"Configure Wireguard endpoints based on the FQDN name.
+",https://portal.productboard.com/vyos/1-vyos-roadmap/c/48-wireguard-fqdn-based-endpoints,vyos
+Network namespace isolation,"Use network namespace for network isolation. Each namespace operates as a separate instance of the network stack  with its own network interfaces and routing tables.
+",https://portal.productboard.com/vyos/1-vyos-roadmap/c/50-network-namespace-isolation,vyos
+Initial XDP implementation for forwarding,"We need improve forwarding and XDP can help with this
+",https://portal.productboard.com/vyos/1-vyos-roadmap/c/33-initial-xdp-implementation-for-forwarding,vyos
+Flow table offload fastpath bypass,"Use an alternative forwarding path via nftables flowtable (fastpath bypass).It will increase NAT and forwarding performance at least two times for TCP and UDP traffic.
+",https://portal.productboard.com/vyos/1-vyos-roadmap/c/49-flow-table-offload-fastpath-bypass,vyos
+IDS/IPS Integration,"dtakeshiSo I know at present VyOS is currently an primarily a routing platform. But I guess with natural progression  and also faced with the fact that a large portion of the userbase would or is currently using it almost as a UTM appliance. It would be nice to include Suritcata in-place of Snort. Like the old day’s of Vyatta 3.x.Certainly that should be something that can be re-implemented at some point?Potentially it could be made up for 2 components.SuricataEveBox (For exporting to ElasticSearch directly)https://forum.vyos.io/t/ids-ips-integration/2067
+",https://portal.productboard.com/vyos/1-vyos-roadmap/c/16-ids-ips-integration,vyos
+Zero-touch provisioning for VyOS,"Zero-touch provisioning for VyOS Via USB and or PXE To be able to install and configure headless devices
+",https://portal.productboard.com/vyos/1-vyos-roadmap/c/34-zero-touch-provisioning-for-vyos,vyos

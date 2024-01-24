@@ -1,0 +1,73 @@
+Name,Description,Source Link,portalSourceName
+Drop a pin to designate a task location,"Instead of requiring a location or crop plan for creating a task  allow users to just drop a pin on the farm map.
+",https://portal.productboard.com/litefarm/1-product-portal/c/38-drop-a-pin-to-designate-a-task-location,litefarm
+Custom expense types,"Create and manage custom expense types
+",https://portal.productboard.com/litefarm/1-product-portal/c/67-custom-expense-types,litefarm
+Tasks V2.0,"In the current version of the app  Logs are a way to document activities that have taken place on your farm already. We'll be expanding this idea to activities that will take place in the future as well. With the new update to tasks, farmers will be able to assign tasks to specific individuals on the farm and be notified when the task is complete. Once complete, the task will serve as a document of the activity for certification (similar to how logs work today). You can read more about tasks here: https://lite-farm.atlassian.net/wiki/spaces/LITEFARM/pages/224788481/Task+Management+System+incorporating+Tasks+Finished+Tasks+and+Notification
+",https://portal.productboard.com/litefarm/1-product-portal/c/27-tasks-v2-0,litefarm
+Support for non-contiguous farms,"Allow farmers to draw multiple non-contigious portions of their farm
+",https://portal.productboard.com/litefarm/1-product-portal/c/15-support-for-non-contiguous-farms,litefarm
+Smarter crop catalogue,"Our new crop catalogue will be ""smarter"" and more closely aligned with how farmers actually think about and work with their crops. It will also support all the necessary information to certify a crop organic.Perhaps most importantly  much of the data you need to enter into the system manually today, such as:Annual vs. perennialEstimated yieldPlanting methodDays to germination, transplant, harvest, etc.Furthermore, once you've created a crop plan, LiteFarm will also automatically create all the tasks you'll need to make sure your season goes right!
+",https://portal.productboard.com/litefarm/1-product-portal/c/24-smarter-crop-catalogue,litefarm
+LiteFarm en français!,"L'application LiteFarm sera désormais disponible en français.
+",https://portal.productboard.com/litefarm/1-product-portal/c/43-litefarm-en-francais,litefarm
+Modify harvest task to enter harvest uses later,"We should have the option to enter the use of a harvest task at harvest time or later on. Oftentimes  the use of a harvest is determined based on what isn't sold. For example, when harvesting 100 kg of beans, I don't know how many kg I will sell, how much I'll eat, and how much we'll exchange. Only at the time of selling will I know how much has been sold and/or used for other channels.
+",https://portal.productboard.com/litefarm/1-product-portal/c/60-modify-harvest-task-to-enter-harvest-uses-later,litefarm
+Updated My Profile,"Updated my profile section allowing users to:Modify information about their profileSwitch to another languageUpdate their preferred language
+",https://portal.productboard.com/litefarm/1-product-portal/c/16-updated-my-profile,litefarm
+Be able to copy tasks to multiple crop plans,"Some tasks need to be carried out for several crop plans. There should be an easy way to create a task and copy it to every plan or location where it should be done.
+",https://portal.productboard.com/litefarm/1-product-portal/c/58-be-able-to-copy-tasks-to-multiple-crop-plans,litefarm
+"Designate production areas as organic  non-organic, or transitional","For any of your production areas  you'll be able to indicate whether they are organic, non-organic, or transitional
+",https://portal.productboard.com/litefarm/1-product-portal/c/23-designate-production-areas-as-organic-non-organic-or-transitional,litefarm
+Copy a crop plan,"The ability to copy over completed and abandoned crop plans. This would be useful for planting a crop in multiple locations in a season  succession planting, and for copying a plan from one season to another. The copying could happen individually or in bulk (add your comments about which is more important when you vote).
+",https://portal.productboard.com/litefarm/1-product-portal/c/30-copy-a-crop-plan,litefarm
+Assignable shifts,"Shifts have been updated with a few oft-requested features.Shifts durations are now bottom-up  meaning rather than entering a shift start and end time and then selecting tasks to fill that timeframe, users will now just enter their activities and the system will summarize them to create the total shift durationShifts can now be created for oneself or for others at your farm (if you are a farm owner, manager, or extension officer)Individuals and extension officers can now report on happiness with specific shifts
+",https://portal.productboard.com/litefarm/1-product-portal/c/17-assignable-shifts,litefarm
+More contextual navigation and dozens of other small improvements,"We've made a number of smaller improvements to navigation in the app  specifically around tasks. Some highlights described below:When creating a task while viewing a crop plan, the location and crop plan will now be pre-selected on those screensWhen creating tasks from a location, that location will now be pre-selectedAfter completing or abandoning a task from a crop plan, you'll now be returned to that crop plan rather than the task home pageDozens of other improvements!
+",https://portal.productboard.com/litefarm/1-product-portal/c/46-more-contextual-navigation-and-dozens-of-other-small-improvements,litefarm
+Custom revenue types,"Allow users to create custom revenue types for their farms
+",https://portal.productboard.com/litefarm/1-product-portal/c/66-custom-revenue-types,litefarm
+Designate a sub-location for crop in a location,"Right now crop management plans are assigned locations  but there's no way to know the physical placement of the crop within the location. Moving forward, it could be convenient to draw a shape or drop a pin within a location designating specifically where my crop will be grown within the location.Bonus idea: It would be nice to be able to designate multiple crops as being intercropped in a specific location, and have the visual indicator make that obvious.Super bonus idea: Add filters to the map to allow showing individual crop sub-locations.
+",https://portal.productboard.com/litefarm/1-product-portal/c/34-designate-a-sub-location-for-crop-in-a-location,litefarm
+Map out my farm,"A streamlined interface to draw many types of areas on your farm. We're planning on supporting the following initial types of areas and would love your feedback on what's missing!Farm boundariesFieldsDomicilesGreenhousesBarnsNatural Areas (Riparian buffers  wetlands, forest reserve)Ceremonial AreasPonds
+",https://portal.productboard.com/litefarm/1-product-portal/c/14-map-out-my-farm,litefarm
+Support for farm map layers,"Allow users to view certain types of pre-generated layers overlaid on their farm maps as well as to create custom layers. Examples of some pre-generated layers may include:TopographySoil texture
+",https://portal.productboard.com/litefarm/1-product-portal/c/50-support-for-farm-map-layers,litefarm
+Enhanced certification onboarding,"New farmers setting up their farms in LiteFarm will now have the option to choose from two different certification types and almost 20 partner certifiers. Starting with our Summer release  farmers will be able to export their certification documents in these new formats!For more information on what this looks like in LiteFarm, you can read this (~10 minutes): https://lite-farm.atlassian.net/wiki/spaces/LITEFARM/pages/744521729/Certifications+certifiers+and+LiteFarm
+",https://portal.productboard.com/litefarm/1-product-portal/c/29-enhanced-certification-onboarding,litefarm
+Export farm map,"Starting in Spring you'll be able to export a PDF of your farm map  with whichever filters make sense for your circumstance. 
+",https://portal.productboard.com/litefarm/1-product-portal/c/22-export-farm-map,litefarm
+Create my certification exports,"LiteFarm needs to be able to generate the right input fields based on whether a user is interested in getting their Organic certification via LiteFarm this season. If they are  more fields will be shown and required. If not, they won't be. At the end of the season, farmer's will be able to get a one-click export of your LiteFarm data into iCertify (or generic) forms.More detail: https://lite-farm.atlassian.net/wiki/spaces/LITEFARM/pages/744521729/Certifications+certifiers+and+LiteFarm
+",https://portal.productboard.com/litefarm/1-product-portal/c/8-create-my-certification-exports,litefarm
+View tasks associated with a location  from that location screen,"You can now find tasks associated with a location on the location detail page
+",https://portal.productboard.com/litefarm/1-product-portal/c/47-view-tasks-associated-with-a-location-from-that-location-screen,litefarm
+Submit an in-app help ticket,"Users will now be able to request support directly in the app!
+",https://portal.productboard.com/litefarm/1-product-portal/c/19-submit-an-in-app-help-ticket,litefarm
+"Add ""road"" as a location type","Roads are a common fixture on farms and are regularly the target of tasks. Add them to the list of available locations!
+",https://portal.productboard.com/litefarm/1-product-portal/c/41-add-road-as-a-location-type,litefarm
+Track inventory,"Allow users to track inventory of inputs and outputs from season to season.
+",https://portal.productboard.com/litefarm/1-product-portal/c/32-track-inventory,litefarm
+Allow tasks to have a multi-day duration,"Some activities are carried out in a period longer than 1 day. In this case  you need to create one task per day in the application. We should be able to indicate that a task should be started on a different day than when it's likely to be completed.
+",https://portal.productboard.com/litefarm/1-product-portal/c/56-allow-tasks-to-have-a-multi-day-duration,litefarm
+Observations,"Allow users to quickly document important observations on the farm  from fences that need mending, to crops that need to be harvested, to pests that need to be dealt with. Observations are quick ""heads up"" to the rest that something important is afoot.
+",https://portal.productboard.com/litefarm/1-product-portal/c/39-observations,litefarm
+"Add ""walking path"" as a new location type","Walking paths are a common fixture on farms and are regularly the target of tasks. Add them to the list of available locations!
+",https://portal.productboard.com/litefarm/1-product-portal/c/42-add-walking-path-as-a-new-location-type,litefarm
+Simplified on-boarding,"The new on-boarding flow will showcase the new look and feel of LiteFarm  ask fewer questions, and pivot the users experience towards or away from data collection for organic certification.
+",https://portal.productboard.com/litefarm/1-product-portal/c/13-simplified-on-boarding,litefarm
+Make LiteFarm functional offline,"I would like to be able to use LiteFarm without an internet connection. 
+",https://portal.productboard.com/litefarm/1-product-portal/c/62-make-litefarm-functional-offline,litefarm
+Be able to explicitly state when a task was completed or abandoned,"Right now the system assumes the date the task is updated is the day the update took place. Users should be able to designate this.Furthermore  users need to be able to document tasks that happened in the past. For this, LiteFarm should allow them to document the task and the outcome at the same time.
+",https://portal.productboard.com/litefarm/1-product-portal/c/36-be-able-to-explicitly-state-when-a-task-was-completed-or-abandoned,litefarm
+Record non-crop revenues,"Many farmers have incomes outside the crops they grow. In order to see a truly ""whole farm"" profitability  our users need to be able to document these, too. 
+",https://portal.productboard.com/litefarm/1-product-portal/c/63-record-non-crop-revenues,litefarm
+Allow users to assign colours to location types,"Some certifiers require that farm maps are coloured according to specific requirements. Because of this we would like to be able to customize the default colour for each location type.
+",https://portal.productboard.com/litefarm/1-product-portal/c/51-allow-users-to-assign-colours-to-location-types,litefarm
+Spanish language support,"LiteFarm en español
+",https://portal.productboard.com/litefarm/1-product-portal/c/9-spanish-language-support,litefarm
+Add scientific name to crops,"When creating a new crop type or varietal  allow us to enter the scientific name of the crop. 
+",https://portal.productboard.com/litefarm/1-product-portal/c/54-add-scientific-name-to-crops,litefarm
+Allow users to harvest seeds,"Add a ""harvest seeds"" option to the harvest task. Allow the harvest quantity to be measured in seeds or grams and automatically add those to inventory.
+",https://portal.productboard.com/litefarm/1-product-portal/c/33-allow-users-to-harvest-seeds,litefarm
+Delete a crop plan,"Sometimes it's important to abandon a plan because something happened that made it unrealistic. However  other times you just need to delete it based on a mistake or miscommunication.
+",https://portal.productboard.com/litefarm/1-product-portal/c/52-delete-a-crop-plan,litefarm

@@ -1,0 +1,261 @@
+Name,Description,Source Link,portalSourceName
+Tokens permission is narrowed to the analysis scope,"Tokens for analyzing a project only have the permissions required to perform analysis for added security.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/321-tokens-permission-is-narrowed-to-the-analysis-scope,sonarsource
+Support deploying an external Elasticsearch in Kubernetes installations,"When running SonarQube on Kubernetes  you'll have the capability to externalize the deployment of the Elasticsearch cluster. This may enable you to offload the responsibility of all stateful components to an external managed service. 
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/505-support-deploying-an-external-elasticsearch-in-kubernetes-installations,sonarsource
+Security analysis is available in GitLab,"SonarQube reports security vulnerabilities directly into your preferred DevOps platform by integrating with GitLab Security.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/332-security-analysis-is-available-in-gitlab,sonarsource
+Use optimal multithreading default for C and C++ analysis,"Default multithreaded analysis significantly increases the speed of your C and C++ code analysis.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/319-use-optimal-multithreading-default-for-c-and-c-analysis,sonarsource
+"Load ""Psalm"" reports","Provide an analysis parameter so that Psalm issues can be included in analysis.Psalm is a type-checking static analysis tool for PHP that finds bugs. It is widely used by the PHP community with 4.2K stars on GitHub.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/112-load-psalm-reports,sonarsource
+DotNet: Faster Analysis of PR,"Analyze only the changed files of your pull request - instead of all - and receive the results of the PR analysis in your DevOps Platform faster.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/399-dotnet-faster-analysis-of-pr,sonarsource
+FastAPI support in security analysis,"Detect more vulnerabilities in your Python code when using the FastAPI framework.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/371-fastapi-support-in-security-analysis,sonarsource
+Analyze CloudFormation files,"With this feature you will be able to scan your CloudFormation files to detect mainly security issues.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/177-analyze-cloudformation-files,sonarsource
+TensorFlow library support in Python analysis,"Detect issues in your Python code when using the Pandas TensorFlow library
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/488-tensorflow-library-support-in-python-analysis,sonarsource
+Support Python 3.12,"Python 3.12.0 is the next major release of the Python programming language. We want to make sure to parse Python 3.12 syntax  raise no FPs with existing rules and new rules supporting new features.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/485-support-python-3-12,sonarsource
+More rules to check for commonly found security misconfiguration in Dockerfiles,"Ensure your Dockerfiles don't contain the most common security misconfigurations with a dozen new additional rules.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/418-more-rules-to-check-for-commonly-found-security-misconfiguration-in-dockerfiles,sonarsource
+Support Python 3.10,"Python 3.10.0 is the newest major release of the Python programming language.We want to make sure to parse Python 3.10 and raise no FPs with existing rules.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/225-support-python-3-10,sonarsource
+Scikit-Learn library support in Python analysis,"Detect issues in your Python code when using the Scikit-Learn library
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/489-scikit-learn-library-support-in-python-analysis,sonarsource
+Going further with Spring Boot 2 support,"Get help when configuring Spring Boot 2 and using the new annotations
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/271-going-further-with-spring-boot-2-support,sonarsource
+Detect security problems related to Android Data Storage,"We want to help developers making sure their Android Mobile Apps are compliant with the Mobile AppSec Verification Standard (MASVS) > Data Storage and Privacy Requirements. As a developer  I can validate I'm compliant with the ""MASVS > Data Storage and Privacy Requirements"" thanks to the features provided that follow the Mobile Security Testing Guide > Data Storage checklist.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/142-detect-security-problems-related-to-android-data-storage,sonarsource
+Help JavaScript developers writing efficient  error-free and safe regular expressions,"The goal of this feature is to provide a layer of defense for our JavaScript users  through a set of meaningful rules targeting regex.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/144-help-javascript-developers-writing-efficient-error-free-and-safe-regular-expressions,sonarsource
+"Support ""CWE Top 25 2021""","The Security Reports feature of SonarQube EE should support the latest version of the CWE Top 25 to allow managers to assess if they are at risk against lastest trending vulnerabilities. The 2021 version was released on July 2021.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/178-support-cwe-top-25-2021,sonarsource
+Support Kotlin 1.7,"Kotlin 1.7 was released on the 9th of June 2022.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/330-support-kotlin-1-7,sonarsource
+Raise Vulnerabilities in inline JavaScript code inside HTML files,"
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/457-raise-vulnerabilities-in-inline-javascript-code-inside-html-files,sonarsource
+Support for Jupyter Notebooks in SonarQube,"We help data scientists to detect issues in Jupyter Notebooks in SonarQube
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/520-support-for-jupyter-notebooks-in-sonarqube,sonarsource
+Expand compiler support,"Some compilers need to be specifically supported to analyze the code. Here is the list of compilers under consideration. If you want this feature  please specify for which compiler. GreenHills CompilersCosmic CompilerTasking TriCore CompilerMinGW CompilerNational Instruments CVI LabWindows CompilerVarious old TI compilersWindriver Diab CompilerRenesas CCRX CompilerSilicon Labs Simplicity Studio compiler V4 CompilerMicrotec 68K Linker CompilerCCES (2.9.0) CompilerTigerSharc CompilerNVIDIA nvcc compilerEmbarcadero compilerDPC++ Intel compilerICX intel compiler (icx and icpx)ICL intel compiler (driver)Microchip ATMEL ARM compilerKeil C51Keil C166SDCC compilerCrossCore Embedded Studio Blackfin compilerTexas Instrument C2000 with 16bit bytes
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/249-expand-compiler-support,sonarsource
+Support of Java 17 projects,"SonarCloud  SonarQube and SonarLint will support scanning of Java 17 projects. 
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/148-support-of-java-17-projects,sonarsource
+Permissions audit report,"See all permissions which apply to your instance  globally but also on every project, so that you can detect and fix unexpected authorizations.Please give us details about your use-cases and why it's important for you.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/166-permissions-audit-report,sonarsource
+Extract all project issues,"SonarQube API will now allow you to extract all issues from your projects.You may want to process issues raised by SonarQube on your projects with a BI tool to explore patterns in the issues themselves  or even aggregate the data with non-code-quality-focused sources.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/130-extract-all-project-issues,sonarsource
+SAML signed requests and encrypted responses,"Tighten the security of SonarQube authentication with SAML by exchanging signed requests and encrypted answers with your Identify Provider.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/335-saml-signed-requests-and-encrypted-responses,sonarsource
+SonarQube Helm charts on Artifact Hub,"You'll find helm charts for SonarQube so that you can easily find and install the latest version for the edition you use.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/120-sonarqube-helm-charts-on-artifact-hub,sonarsource
+Help C and C++ developers writing regexp running fast  with the correct amount of resources and really doing what developers intended,"Get the regexp inside your C  CPP and Objective-C code analyzed.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/361-help-c-and-c-developers-writing-regexp-running-fast-with-the-correct-amount-of-resources-and-really-doing-what-developers-intended,sonarsource
+Sonar helps DevOps people to have clean Docker Compose code,"supportsand supportsSonar already support Docker  Kubernetes scanning. With this feature, DevOps will be able to make sure their Docker Compose files are clean.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/517-sonar-helps-devops-people-to-have-clean-docker-compose-code,sonarsource
+R support,"Analyze the R language to detect issues in your code.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/306-r-support,sonarsource
+Secrets more protected,"Credentials such as the ones used to connect SonarQube to your other systems gets more privacy.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/127-secrets-more-protected,sonarsource
+RxAndroid support,"Get help with the best practices when using the RxAndroid framework for mobile.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/270-rxandroid-support,sonarsource
+Automatic upgrade process,"You'll be able to automatically upgrade SonarQube by using its Docker image  eliminating the need for manual intervention.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/518-automatic-upgrade-process,sonarsource
+Detect C# Server-Side Template Injection (SSTI),"Detect Server-Side Template Injection (SSTI) in C# code involving Razor template engine. Shall we support another template engine?
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/429-detect-c-server-side-template-injection-ssti,sonarsource
+Support OWASP Top 10 2021,"OWASP Top 10 in itself is now considered as a standard way to assess if WebApps are exposed to the most common security risks.It was not refreshed since 2017. A new version was released in 2021: https://owasp.org/Top10/Edit: As of Dec 2021  we expect to Support OWASP Top 10 2021 for SonarQube 9.4 (1st of April).
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/185-support-owasp-top-10-2021,sonarsource
+Detect security misconfigurations in Ansible files,"Scan Ansible files and detect security misconfiguration issues.Have specific expectations on what to detect on Ansible files  share them here: https://community.sonarsource.com/c/suggestions/rules/13
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/240-detect-security-misconfigurations-in-ansible-files,sonarsource
+"Load ""TFLint"" Reports","Sonar can load Terraform Linter (TFLint) issues as External Issues.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/229-load-tflint-reports,sonarsource
+"Load ""PHPStan"" reports","Provide an analysis parameter so that PHPStan issues can be included in analysis.PHPStan is the most popular PHP static analyzer in the PHP community with 9.9K stars on GitHub.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/111-load-phpstan-reports,sonarsource
+Detect security misconfigurations in Kubernetes files,"Scan Kubernetes files and detect security misconfiguration issues.Have specific expectations on what to detect on Kubernetes files  share them here: https://community.sonarsource.com/c/suggestions/rules/13
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/237-detect-security-misconfigurations-in-kubernetes-files,sonarsource
+Full set of tutorials to analyze C/C++,"In addition to the help already provided for Azure DevOps Pipelines  you'll be guided to analyze your C, C++ and Objective-C code with GitLab CI, Bitbucket Pipelines, GitHub Actions and Jenkins.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/72-full-set-of-tutorials-to-analyze-c-c,sonarsource
+Understand issues faster with visual representations,"We are exploring adding images and other types of visual representation to some of the rules to help speed up comprehension.One example of this might be showing the flow of thread locking/unlocking that could lead to deadlocks. Another might be explaining how the underlying representation of a number in memory can lead to precision loss.Please let us know if there are rules that you think would particularly benefit from this.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/519-understand-issues-faster-with-visual-representations,sonarsource
+Java: Faster Analysis of PR,"Analyze only the changed files of your pull request - instead of all - and receive the results of the PR analysis in your DevOps Platform faster.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/283-java-faster-analysis-of-pr,sonarsource
+Automatic fixes on PRs,"SonarQube will help fix issues directly in a PR - without having to go back to the IDE. 
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/279-automatic-fixes-on-prs,sonarsource
+Removal of path-sensitive detected issues on infeasible execution paths,"Massive reduction of C and C++ false positives via Improvements to the symbolic execution engine to drastically reduce issues found in infeasible execution paths.The so-called symbolic execution technique allows us to virtually run your code to detect advanced bugs that depend on the execution path (and state) in your program. It enables finding very tricky bugs like buffer overflow  resource leak, deadlocks and others.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/180-removal-of-path-sensitive-detected-issues-on-infeasible-execution-paths,sonarsource
+Spring Framework 5 advanced support,"Reduce deployment lead time of Java applications based on Spring Framework 5 by spotting configuration or annotation issues that are always difficult to understand.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/272-spring-framework-5-advanced-support,sonarsource
+Help Python developers writing efficient  error-free and safe regular expressions,"The goal of this feature is to provide a layer of defense for our Python users  through a set of meaningful rules targeting regex.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/147-help-python-developers-writing-efficient-error-free-and-safe-regular-expressions,sonarsource
+Detect DOM-XSS vulnerabilities on React Applications,"We already detect DOM-XSSs vulnerabilities and would like to extend this feature to React.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/58-detect-dom-xss-vulnerabilities-on-react-applications,sonarsource
+Easier management of Applications in Portfolios,"Applications will act more like the synthetic projects they are  and be addable to portfolios manually in the same way projects are.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/256-easier-management-of-applications-in-portfolios,sonarsource
+"Prevent doing mistakes with ""coroutines""","We want to provide developers with a set of rules that point out common pitfalls and suggest best practices related to coroutines.By providing rules that detect common coroutine pitfalls and guide developers in their usage of them  we can help developers and companies to detect some potentially expensive-to-fix bugs early in the pipeline, saving time and resources later on. It can further help educate developers in the correct usage of coroutines, a non-trivial subject.Kotlin coroutines introduce a lot of abstractions and interfaces in the attempt to make asynchronous programming easier to comprehend and less error-prone. Yet, they are not fool-proof and there are various pitfalls and common mistakes developers can make, some of which can lead to exactly the problems described earlier. Further, coroutines in Kotlin will be a new concept for many developers, especially seeing as many Kotlin devs have a Java background, which does not have coroutines.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/134-prevent-doing-mistakes-with-coroutines,sonarsource
+Analyze PHP 8.1,"PHP 8.1 is the next major PHP version and should be release by end of November 2021.PHP 8.1 will bring Enums  Fibers, never return type, Intersection Types, readonly properties, and more!
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/244-analyze-php-8-1,sonarsource
+Micronaut support in security analysis,"Detect more vulnerabilities in your Java code when using the Micronaut framework.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/393-micronaut-support-in-security-analysis,sonarsource
+SonarQube tokens are identifiable,"New user tokens are easily identifiable to help avoid (or at least recognize) a secret leak.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/322-sonarqube-tokens-are-identifiable,sonarsource
+Track Security Hotspots that represent real risks to fix later,"You'll be able to mark a Security Hotspot as something like ""Acknowledged"". When you review a Security Hotspot and find that it highlights a piece of code that is at risk  there are times when the fix is not trivial and so can't be done right away. The status will materialize the fact that the Security Hotspot has been reviewed and a fix is pending.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/184-track-security-hotspots-that-represent-real-risks-to-fix-later,sonarsource
+Parsing of Go version 1.17,"Support parsing of Go 1.17 projects.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/264-parsing-of-go-version-1-17,sonarsource
+Kotlin: Faster Analysis of PR,"Analyze only the changed files of your pull request - instead of all - and receive the results of the PR analysis in your DevOps Platform faster.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/397-kotlin-faster-analysis-of-pr,sonarsource
+Provide an Azure Devops task to analyze C and C++,"Easily configure your C  CPP and Objective-C code analysis without a boilerplate.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/360-provide-an-azure-devops-task-to-analyze-c-and-c,sonarsource
+Detect security problems related to Traceability on AWS IaC files,"We want to detect misconfigurations in your CloudFormation and Terraform for AWS related to the lack of Traceability feature enabled.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/236-detect-security-problems-related-to-traceability-on-aws-iac-files,sonarsource
+Use analysis caching for C&C++ by default in SonarQube,"Analysis caching significantly increases the speed of your C and C++ code analysis after the first analysis–enabled by default  with no special configuration required. 
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/324-use-analysis-caching-for-c-c-by-default-in-sonarqube,sonarsource
+Stop embedding the documentation with the product,"You’ll now always use the most recent documentation available online for your SonarQube version. Currently  you can access most of the documentation directly on your local SonarQube instance but that embedded version doesn't benefit from our (admittedly very infrequent) documentation patches.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/303-stop-embedding-the-documentation-with-the-product,sonarsource
+Dart/Flutter support,"Flutter community is growing fast and trust almost 40% of the market (React Native is a little bit up with 42% of the market) as of June 2021 according to https://medium.com/xorum-io/cross-platform-mobile-apps-development-in-2021-xamarin-vs-react-native-vs-flutter-vs-kotlin-ca8ea1f5a3e0Given that we want to Secure Mobile Apps  it makes a lot of sense to consider Flutter / DART support.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/123-dart-flutter-support,sonarsource
+Java Code Quality rules for Google Cloud Functions,"Java serverless developers will benefit from code quality rules specific to Google Cloud Functions.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/222-java-code-quality-rules-for-google-cloud-functions,sonarsource
+Assess Compliance with FIPS Requirements,"Developers are able to check whether or not they have defects preventing them to be compliant with the FIPS Requirements.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/456-assess-compliance-with-fips-requirements,sonarsource
+Onboarding in multiple DevOps Platform scenarios,"Allow adding a project from the UI when multiple instances of the same DevOps platform are configured.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/305-onboarding-in-multiple-devops-platform-scenarios,sonarsource
+Quality Profile pages adopt the Clean Code Taxonomy,"Sonar started displaying the new taxonomy on issues and rules to better reflect all characteristics of Clean Code. This new taxonomy will now also be available on the Quality Profile pages. 
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/511-quality-profile-pages-adopt-the-clean-code-taxonomy,sonarsource
+SonarQube can provision and synchronize users and groups from GitHub,"Users and groups management can be fully delegated to GitHub (provisioning and synchronization)
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/441-sonarqube-can-provision-and-synchronize-users-and-groups-from-github,sonarsource
+Support specific on-premise Kubernetes providers,"SonarQube will support running on at least one container management product so that if you don’t want to fully manage your own Kubernetes platform for your applications  you can use a service on-prem such as RedHat OpenShift, Rancher or VMware Tanzu…
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/154-support-specific-on-premise-kubernetes-providers,sonarsource
+Assess if my C++ code is compliant with SEI CERT C++,"Sonar helps CPP developers check their code against the SEI CERT CPP coding standard. We add more rules to provide comprehensive coverage of this valuable guideline.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/385-assess-if-my-c-code-is-compliant-with-sei-cert-c,sonarsource
+Dark mode in the User Interface,"Experience the new modern and intuitive SonarQube UI with a new dark theme.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/516-dark-mode-in-the-user-interface,sonarsource
+Improved Performance For .NET Analysis,"You’ll have improved performance of slow running rules.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/124-improved-performance-for-net-analysis,sonarsource
+Analyze Terraform files,"With this feature you will be able to scan your Terraform files targeting AWS. The support of other cloud providers will come after.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/175-analyze-terraform-files,sonarsource
+Support C/C++/Objective-C analysis on Linux Arm64,"Run your C  CPP and Objective-C code analysis on Linux Arm64 hosts. Note: we already support cross-compiling projects to these platforms from Linux, Windows and MacOs hosts.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/358-support-c-c-objective-c-analysis-on-linux-arm64,sonarsource
+Help developers with Spring Data,"Get help with the best practices when using Spring Data.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/274-help-developers-with-spring-data,sonarsource
+Spring Cloud support,"Get help with the best practices when using the Spring Cloud framework.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/273-spring-cloud-support,sonarsource
+SonarLint automatically syncs SonarQube Quality Profile,"Updates to your project’s Quality Profile are automatically synchronized to your IDE (Eclipse  IntelliJ, VSCode) in ‘Connected Mode’ allowing you to focus on addressing relevant issues in the IDE. 
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/254-sonarlint-automatically-syncs-sonarqube-quality-profile,sonarsource
+Detect security misconfigurations in Puppet files,"Scan Puppet files and detect security misconfiguration issues.Have specific expectations on what to detect on Puppet files  share them here: https://community.sonarsource.com/c/suggestions/rules/13
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/242-detect-security-misconfigurations-in-puppet-files,sonarsource
+Clean as You Code criterion to keep the new code clean,"You will have a new simplified quality criterion to make sure that your new and changed code is always clean. This will be applied to pull requests and branches.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/463-clean-as-you-code-criterion-to-keep-the-new-code-clean,sonarsource
+Quick path to first  full-featured analysis,"If you are a new user and you discover SonarQube  you'll get help to quickly analyze your projects with your preferred Continuous Integration tool. As part of that, you'll be guided to connect SonarQube to your DevOps platforms in order to progressively benefit from the full range of SonarQube features.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/70-quick-path-to-first-full-featured-analysis,sonarsource
+Pandas library support in Python analysis,"Detect issues in your Python code when using the Pandas library
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/486-pandas-library-support-in-python-analysis,sonarsource
+PHP: Faster Analysis of PR,"Analyze only the changed files of your pull request - instead of all - and receive the results of the PR analysis in your DevOps Platform faster.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/400-php-faster-analysis-of-pr,sonarsource
+Informational message to all users,"Allow an instance administrator to display a message in the SonarQube UI to all users  such as a message about an upcoming maintenance window.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/159-informational-message-to-all-users,sonarsource
+Context-specific issue patch instructions,"Quickly patch issues in your code thanks to tailor-made instructions that are precise  context-sensitive and relevant to the technical stacks (libraries, frameworks) used or chosen for your project.For instance, get a hint on what sanitizer function you should be using to mitigate an injection flaw.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/258-context-specific-issue-patch-instructions,sonarsource
+OpenAPI support,"Make sure your OpenAPI specifications are clean. 
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/421-openapi-support,sonarsource
+"Detect ""Encryption At Transit"" security problems on CloudFormation and Terraform files for AWS","We want to detect misconfigurations in your CloudFormation and Terraform for AWS related to Encryption At Transit (unencrypted communication  used of outdated TLS protocols, ...)
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/216-detect-encryption-at-transit-security-problems-on-cloudformation-and-terraform-files-for-aws,sonarsource
+Detect security issues on Cloud Deployment Manager files,"Scan Cloud Deployment Manager files and detect security misconfiguration issues.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/508-detect-security-issues-on-cloud-deployment-manager-files,sonarsource
+Assess if my C code is compliant with SEI CERT C,"Sonar helps C developers check their code against the SEI CERT C coding standard. We add more rules to provide comprehensive coverage of this valuable guideline.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/386-assess-if-my-c-code-is-compliant-with-sei-cert-c,sonarsource
+Detect Prototype Pollution vulnerabilities,"""Prototype Pollution"" vulnerabilities got a lot of attention in 2020. Many vulnerabilities were discovered in famous or less famous NPM packages.""Prototype Pollution"" is now the #2 most common vulnerability type found in NPM packages (18%)  even though this statistic is a little bit distorted due to imprecise classifications (source: internal private studies).We can't ignore this fact and we need to find a way to fix the problem by helping developers of libraries and applications to detect  ""Prototype Pollution"" vulnerabilities before they are published.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/33-detect-prototype-pollution-vulnerabilities,sonarsource
+More rules to best use new various C++20 features,"Rules to avoid pitfalls when using various new features of C++20 including std::string_view  std::bit_cast, and [[no_discard]].
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/189-more-rules-to-best-use-new-various-c-20-features,sonarsource
+Import Mutation Testing Results,"You will be able to import results from Mutation Testing frameworks such as Pitest.If you are actively using Pitest for example  we would like to hear from you how you use it, what is important to see in the UI, ... 
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/459-import-mutation-testing-results,sonarsource
+Support Ruff external analyzer reports,"Import your Ruff reports into Sonar
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/493-support-ruff-external-analyzer-reports,sonarsource
+Support Python 3.11,"Scan and report issues on Python 3.11 code
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/409-support-python-3-11,sonarsource
+Support C and C++ analysis in the official GitHub Action,"Easily analyze your C and C++ code on GitHub Actions with minimal integration effort.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/288-support-c-and-c-analysis-in-the-official-github-action,sonarsource
+Support specific cloud Kubernetes providers,"SonarQube will support running on at least one cloud service so that if you want to operate your Kubernetes platform in the cloud  you can use a cloud service such as Google Kubernetes Engine (GKE) , Azure Kubernetes Service (AKS),  Amazon Elastic Kubernetes Service (Amazon EKS).
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/155-support-specific-cloud-kubernetes-providers,sonarsource
+Analyze my C++ code against MISRA C++ 2023 rules,"If you write C++ code for automotive or mission-critical apps  Sonar checks your work against the upcoming MISRA C++2023 Standard. We’re implementing most of those C++ rules to provide comprehensive coverage of this valuable guideline. 
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/388-analyze-my-c-code-against-misra-c-2023-rules,sonarsource
+Detect Security Issues in AWS IaC using CDK+Python,"Analyze IaC code you wrote using the AWS CDK + Python to detect security vulnerabilities.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/235-detect-security-issues-in-aws-iac-using-cdk-python,sonarsource
+Compilation Database support,"Compilation Database is a file format to represent compilation parameters of a given file. It is widely used in many C++ related tools. It can be now used as an alternative to the build-wrapperwhen building the project before each analysis is too costlywhen building with build systems / compilers that are not supported with the build-wrapper
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/76-compilation-database-support,sonarsource
+Detect injection-based vulnerabilities specific to Android apps,"We want to prevent Android applications to be vulnerable to injection attacks.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/218-detect-injection-based-vulnerabilities-specific-to-android-apps,sonarsource
+Users and tokens deprovisioning with Azure/SCIM,"Make sure deactivated user accounts and their associated tokens are inactive in SonarQube to keep your instance secure.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/427-users-and-tokens-deprovisioning-with-azure-scim,sonarsource
+Rules to detect 100+ app secrets/tokens,"Sonar already detects 67 secrets/tokens from the top cloud providers. With this feature  you will now be able to prevent more secrets or tokens to leak from the top cloud apps.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/510-rules-to-detect-100-app-secrets-tokens,sonarsource
+Support for C# 10,"To coincide with the release of C# 10 and .NET 6 we will support parsing of C# 10 projects. Future releases will enhance this support to ensure that issues are detected on new language features  and then create rules that help developers avoid any pitfalls. 
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/219-support-for-c-10,sonarsource
+SonarLint adoption metrics,"SonarQube administrators will be able to track SonarLint adoption within their organizations to help administrators promote the use of SonarLint among developers.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/297-sonarlint-adoption-metrics,sonarsource
+Error-free code repository configuration,"You'll be able to double-check your DevOps Platform configurations in-app at both the global and project levels to make sure that when the time comes  PR decoration will work perfectly. 
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/71-error-free-code-repository-configuration,sonarsource
+Parsing of Apex version 1.53,"Support parsing of Apex 1.53 projects.For SonarLint  it will only be available for Eclipse and VSCode in connected mode.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/265-parsing-of-apex-version-1-53,sonarsource
+Assess if my C code is compliant with MISRA C 2023 standard,"If you write C code for automotive or mission-critical apps  Sonar checks your work against the upcoming MISRA C 2023 Standard. We’re implementing most of those C rules to provide comprehensive coverage of this valuable guideline. 
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/450-assess-if-my-c-code-is-compliant-with-misra-c-2023-standard,sonarsource
+Reduce first analysis time by 70% for git-based projects,"Get the results of a new project configured in SonarQube faster.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/317-reduce-first-analysis-time-by-70-for-git-based-projects,sonarsource
+Detect second-order vulnerabilities,"Sonar will detect second-order vulnerabilities such as second-order SQL Injection  second-order Cross-Site Scripting (aka Stored XSS), second-order Command Injection, ...Second-order vulnerability definition: the user input is first persisted (e.g., in the session, database, file system) and, in a second step, read again from this storage before [being] used in a sink.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/417-detect-second-order-vulnerabilities,sonarsource
+Simplify automation of projects creation,"If you have a large deployment with multiple projects created every week  you’ll be able to create projects and benefit from most of the value SonarQube provides without having to go through several steps in the UI.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/170-simplify-automation-of-projects-creation,sonarsource
+Help understanding SonarQube core concepts,"In-app tutorials will help new users make the most of SonarQube and tackle problems in the code in a non-disruptive and continuous way using SonarQube's built-in Clean as You Code methodology.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/172-help-understanding-sonarqube-core-concepts,sonarsource
+SonarQube as a GitHub Security Scan,"SonarQube reports security vulnerabilities directly into your preferred DevOps platform by integrating with GitHub code scanning.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/149-sonarqube-as-a-github-security-scan,sonarsource
+Regulatory report on projects,"If you're a manager  you'll be able to keep and download a report to demonstrate and record the quality of a release.It will allow you to:make sure that what you're about to deliver will meet the quality requirements,prove that the quality delivered reached the level of requirements,document the quality deficits that were accepted.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/164-regulatory-report-on-projects,sonarsource
+Users and tokens deprovisioning with Okta/SCIM,"Make sure deactivated user accounts and their associated tokens are inactive in SonarQube to keep your instance secure.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/126-users-and-tokens-deprovisioning-with-okta-scim,sonarsource
+Support Standalone JavaScript projects in .NET solutions,"In VS2022 and .NET 6  standalone Javascript projects were introduced and utilize a esproj suffix. We should support analysis of these standalone projects as part of a .NET Solution using the Scanner for .NET.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/292-support-standalone-javascript-projects-in-net-solutions,sonarsource
+C# 11 support,"Detect issues in your C#11 code
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/410-c-11-support,sonarsource
+DevOps Platform configuration at project level,"Configure DevOps Platform configuration at project level so that  for instance, a global service account isn't needed.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/302-devops-platform-configuration-at-project-level,sonarsource
+Project report,"If you're a manager  you'll be able to download and receive by email a report for each of the projects you are responsible for.Get a high level view of the Code Quality and Code Security of your projects, and spot areas that deserve help or attention!Available in Enterprise+ Edition
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/128-project-report,sonarsource
+Notifications to external applications,"Provide notifications or expose notification services to be consumed by additional applications. Currently  notifications are only delivered via email, but there are other channels used in organizations.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/299-notifications-to-external-applications,sonarsource
+C++ analyzer supports C++20,"C++20 has been released last year. Even though no compiler fully supports it  the following is coming up:The engine has been adapted to correctly parse C++20 and support most featuresExisting rules have been adapted to play nice with C++2018 news rules targeting C++20 have been implemented
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/82-c-analyzer-supports-c-20,sonarsource
+New Pull Request issues on unchanged code,"Show all new issues created by a Pull Request  not just the ones raised on new code. Currently, Pull Request analysis don’t report new issues raised on old code and issues raised at file level. 
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/295-new-pull-request-issues-on-unchanged-code,sonarsource
+Compliance with the right to be forgotten,"Delete personally identifiable information for some disabled user accounts. Currently ""deleting"" a user merely disables the account. Instead  we'll remove PII in some circumstances.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/304-compliance-with-the-right-to-be-forgotten,sonarsource
+Detect security misconfigurations on ARM templates,"Deploy secure infrastructures on Azure  using Azure Resource Manager templates, by checking your code for security misconfigurations.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/432-detect-security-misconfigurations-on-arm-templates,sonarsource
+Differentiates between Validators and Sanitizers,"A sanitizer is a method which takes one (or more) arguments  and returns exactly one of its arguments in sanitized form. However, there is another way to avoid tainted data reaching a sink, by checking the input argument using validators: these usually return a boolean, indicating whether one or more arguments were or were not in an expected form. Validators are usually used in if statement conditions and sanitize the argument itself and not the return value.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/43-differentiates-between-validators-and-sanitizers,sonarsource
+Assess if my C code is compliant with MISRA C 2012 standard,"If you write C code for automotive or mission-critical apps  Sonar checks your work against the MISRA C2012 Standard. We’re adding more C rules to provide comprehensive coverage of this valuable guideline. 
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/387-assess-if-my-c-code-is-compliant-with-misra-c-2012-standard,sonarsource
+SAST for Go,"Used by more than 1 1 million professional Go developers in the world (https://blog.jetbrains.com/go/2021/02/03/the-state-of-go/) we are thinking about providing SAST features for Go.Share your feedback, your use cases that will help us to make the move.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/215-sast-for-go,sonarsource
+Support OpenMP extensions,"Enable C and CPP analysis to run on OpenMP source files.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/366-support-openmp-extensions,sonarsource
+Activate SonarLint connected mode from SonarQube or SonarCloud web interface,"An easy option to establish the SonarLint connection to your SonarQube instance or SonarCloud organization  enabling you to extend a consistent Clean Code definition and configuration into your IDE.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/174-activate-sonarlint-connected-mode-from-sonarqube-or-sonarcloud-web-interface,sonarsource
+Improved multi-language support for .Net scanner,"Easier analysis setup experience for applications containing .NET code alongside other non-.NET languages. We’re keen to hear about your examples of this use case and the pain points. 
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/411-improved-multi-language-support-for-net-scanner,sonarsource
+Support for Java Streams in security analysis,"Detect more vulnerabilities with a security analysis that understands the behavior of Java Streams.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/307-support-for-java-streams-in-security-analysis,sonarsource
+SonarQube can provision and synchronize permissions from GitHub,"SonarQube will replicate the same permissions users have on GitHub side  allowing SonarQube administrators to delegate project's access control to GitHub.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/439-sonarqube-can-provision-and-synchronize-permissions-from-github,sonarsource
+Detect security misconfigurations in Pulumi files,"Scan Pulumi YAML files or code using Pulumi SDK and detect security misconfiguration issues.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/509-detect-security-misconfigurations-in-pulumi-files,sonarsource
+Assess Compliance with SEI CERT Coding Standard for Java,"Developers are able to check whether or not they have defects preventing them to be compliant with the SEI CERT Coding Standard for Java.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/455-assess-compliance-with-sei-cert-coding-standard-for-java,sonarsource
+Support Analysis of Databricks Notebooks,"We help data scientists and engineers to detect issues in Python code used in Databricks Notebooks.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/458-support-analysis-of-databricks-notebooks,sonarsource
+Java: Faster Analysis of Branches,"Get results faster with SonarQube by analyzing only the content of your commit (or the diff between what was scanned previously and the changes you are providing) instead of the entire source code of your branch.
+",https://portal.productboard.com/sonarsource/3-sonarqube/c/318-java-faster-analysis-of-branches,sonarsource

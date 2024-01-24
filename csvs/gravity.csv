@@ -1,0 +1,23 @@
+Name,Description,Source Link,portalSourceName
+Microsoft 365 / Outlook,"Connect your Microsoft 365 / Outlook account securely over REST API to send all WordPress emails faster.
+",https://portal.productboard.com/gravity/5-gravity-smtp/c/96-microsoft-365-outlook,gravity
+MailerSend,"Connect your MailerSend account securely over REST API to send all WordPress emails faster.
+",https://portal.productboard.com/gravity/5-gravity-smtp/c/107-mailersend,gravity
+SMTP2Go,"Connect your SMTP2Go account securely over REST API to send all WordPress emails faster.
+",https://portal.productboard.com/gravity/5-gravity-smtp/c/135-smtp2go,gravity
+Amazon SES,"Configure the Amazon SES API in and with the Amazon SES connection securely to send all WordPress emails faster.
+",https://portal.productboard.com/gravity/5-gravity-smtp/c/99-amazon-ses,gravity
+Zoho Mail,"Connect your Zoho Mail account securely over REST API to send all WordPress emails faster.
+",https://portal.productboard.com/gravity/5-gravity-smtp/c/97-zoho-mail,gravity
+MailerLite,"Connect your MailerLite account securely over REST API to send all WordPress emails faster.
+",https://portal.productboard.com/gravity/5-gravity-smtp/c/147-mailerlite,gravity
+Brevo (formally: Sendinblue),"Connect your Brevo (formally: Sendinblue) account securely over REST API to send all WordPress emails faster.
+",https://portal.productboard.com/gravity/5-gravity-smtp/c/101-brevo-formally-sendinblue,gravity
+Slack,"Integrate your Slack account to receive real-time notifications for your Gravity SMTP plugin.
+",https://portal.productboard.com/gravity/5-gravity-smtp/c/105-slack,gravity
+SMTP.com,"Connect your SMTP.com account securely over REST API to send all WordPress emails faster.
+",https://portal.productboard.com/gravity/5-gravity-smtp/c/102-smtp-com,gravity
+Sparkpost,"Connect your Sparkpost account securely over REST API to send all WordPress emails faster.
+",https://portal.productboard.com/gravity/5-gravity-smtp/c/95-sparkpost,gravity
+WhatsApp,"Integrate your WhatsApp account to receive real-time notifications for your Gravity SMTP plugin.
+",https://portal.productboard.com/gravity/5-gravity-smtp/c/106-whatsapp,gravity

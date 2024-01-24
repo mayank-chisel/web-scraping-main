@@ -1,0 +1,61 @@
+Name,Description,Source Link,portalSourceName
+Match and rank candidates based on job or CVs,"This feature is about adding a candidate matching and ranking function that allows clients to match candidates on a list based on:Job description providedCandidate CV/resume provided (""show me similar candidates""
+",https://portal.productboard.com/gustav/1-candidately/c/94-match-and-rank-candidates-based-on-job-or-cvs,gustav
+Resume reformatting,"This feature allows you to parse and reformat resumes. You can:Custom brand resumesAnonymize resumesChoose from resume templates
+",https://portal.productboard.com/gustav/1-candidately/c/86-resume-reformatting,gustav
+Custom website redirections on lists based on themes,"Apply different themes to lists and redirect users to different websites
+",https://portal.productboard.com/gustav/1-candidately/c/150-custom-website-redirections-on-lists-based-on-themes,gustav
+Default notification settings for Lists,"Under ""Client Notification""  you can set default notification preferences at the list level. Additionally, Admins and Owners can configure these settings at the company level.
+",https://portal.productboard.com/gustav/1-candidately/c/153-default-notification-settings-for-lists,gustav
+More custom fields,"Added support for:Labels/Tags with colors
+",https://portal.productboard.com/gustav/1-candidately/c/65-more-custom-fields,gustav
+Add tour for new end clients,"The first time an end client is visiting a list  we will show a tour for them to guide them through the navigation.
+",https://portal.productboard.com/gustav/1-candidately/c/95-add-tour-for-new-end-clients,gustav
+SEO Optimized Lists,"This feature is about adding a setting that will allow you to control if a list should be indexed by search engines or not. It will also introduce several SEO improvements for cases where people want a list to be indexed by search engines.
+",https://portal.productboard.com/gustav/1-candidately/c/103-seo-optimized-lists,gustav
+Highlight new candidates,"This feature will add a ""Green dot"" to candidates on your list that clients have not viewed yet.
+",https://portal.productboard.com/gustav/1-candidately/c/126-highlight-new-candidates,gustav
+Auto-Assign Users,"We're excited to introduce our new Auto-Assign feature  designed to improve clarity by automatically assigning collaborating users to lists based on specific actions. Actions that will trigger auto-assignment include: Changing a list's statusSharing a listAdding a candidateUpdating a candidate's statusMessaging via the messenger feature
+",https://portal.productboard.com/gustav/1-candidately/c/136-auto-assign-users,gustav
+End clients (Address Book),"This feature allows you to sync your end users from Bullhorn to Candidately. You can then select them during the sharing process if you want to share a list with them.
+",https://portal.productboard.com/gustav/1-candidately/c/89-end-clients-address-book,gustav
+Multiple languages,"Support for more languages than english
+",https://portal.productboard.com/gustav/1-candidately/c/115-multiple-languages,gustav
+Add a candidate to a list without a CV,"This feature will enable a user to add a candidate to a list without the CV. This feature will also be available when importing candidates from Bullhorn
+",https://portal.productboard.com/gustav/1-candidately/c/155-add-a-candidate-to-a-list-without-a-cv,gustav
+Custom tab on Candidate record,"In addition to a custom tab in Bullhorn that we have on jobs today  this feature is about adding a custom tab to candidate records. It allows for a quick sync to a list when a candidate should be added to a list that is unrelated to a specific job.
+",https://portal.productboard.com/gustav/1-candidately/c/105-custom-tab-on-candidate-record,gustav
+Reporting section,"A new section to pull reports on:When a candidate was addedWhen interviews were requestedWhen candidates were declinedWhen lists were shared and to whometc.
+",https://portal.productboard.com/gustav/1-candidately/c/101-reporting-section,gustav
+Track anonymous activity on lists,"Currently  we only track the activity on lists when the people viewing the lists are logged in (you sent them an invite or they confirmed their email).This feature is about adding support for anonymous traffic.
+",https://portal.productboard.com/gustav/1-candidately/c/102-track-anonymous-activity-on-lists,gustav
+Custom JavaScript on list,"This feature allows you to add a custom JS code to your lists like a Google Analytics tracking link.
+",https://portal.productboard.com/gustav/1-candidately/c/128-custom-javascript-on-list,gustav
+List previewer,"We will add a new list previewer that allows you to simulate different list and CV access settings to see how your list will behave toward your clients.
+",https://portal.productboard.com/gustav/1-candidately/c/122-list-previewer,gustav
+Custom file field: Select files from Bullhorn,"This feature allows you to select files from Bullhorn when uploading additional documents on candidates on the custom file field.
+",https://portal.productboard.com/gustav/1-candidately/c/127-custom-file-field-select-files-from-bullhorn,gustav
+Candidate Overview by Stage 📊,"This feature provides clients with a count of candidates at each stage  directly within the 'All Lists' view, before they open a list. 🚀 Note: The 'All Lists' view is also the default landing page when clients navigate to your portal URL, like  talent.mydomain.com
+",https://portal.productboard.com/gustav/1-candidately/c/154-candidate-overview-by-stage,gustav
+Client Notifications: Candidate Added or Removed,"You now have the ability to manage notifications for clients subscribed to list updates  deciding whether your clients are informed when a candidate is added to or removed from a list. To modify notifications for** specific lists**, follow these steps:Navigate to ""List Configuration""Select ""Client Notifications"" With an Admin or Owner account, you can set company-wide standards for all future lists. To do this, follow the instructions below:Go to ""Settings""Click on ""General settings"" under ""Shared List Configuration""
+",https://portal.productboard.com/gustav/1-candidately/c/135-client-notifications-candidate-added-or-removed,gustav
+Browser prompt for un-seen candidates before leaving the list,"Now  if clients skip candidates on job submission lists, our Browser Prompts remind them to check all potential fits before exiting.
+",https://portal.productboard.com/gustav/1-candidately/c/148-browser-prompt-for-un-seen-candidates-before-leaving-the-list,gustav
+AE Rejection Reason,"For those users on the Split-desk workflow  Ever wondered why a candidate was rejected by the Account Executive? Our new ""AE Rejection Reason"" feature clarifies that mystery. When a candidate is set to AE rejected, a modal pops up asking for the reason. Set the AE rejection reason as mandatory or **optional **through:  Settings → General Settings → Candidate Settings For our Bullhorn users: When you map the AE rejected status to a Bullhorn status, the reason syncs as a note on the job. Find the mapping at: Settings → Integrations → Bullhorn
+",https://portal.productboard.com/gustav/1-candidately/c/151-ae-rejection-reason,gustav
+Folders,"This feature is about adding folders for better list management.
+",https://portal.productboard.com/gustav/1-candidately/c/113-folders,gustav
+Custom fields: Rate,"Support for custom rate fields
+",https://portal.productboard.com/gustav/1-candidately/c/129-custom-fields-rate,gustav
+Display candidate names with only their Initials,"Choose to show only initials of your candidate for that extra layer of privacy. A quick tweak in general settings and you're set!
+",https://portal.productboard.com/gustav/1-candidately/c/149-display-candidate-names-with-only-their-initials,gustav
+Split desk notification frequencies,"Take control of how often your colleagues receive email notifications for when candidates are set to ""Ready"" with our new Split-Desk Notification Frequencies feature. Choose from instant notifications or grouped notifications in intervals of 5  10, 15, or 30 minutes. Note: This feature is only accessible to Owner or Admin users. To access this new feature, simply navigate to ""Settings"" → ""Shared Lists Configuration"" → ""General Settings"" → ""Candidate Settings"" within the app.
+",https://portal.productboard.com/gustav/1-candidately/c/138-split-desk-notification-frequencies,gustav
+Confirm email on phone  log in on desktop,"This feature is about adding the ability for users to click on the confirmation email link i.e. their phone while the user is also getting logged in on the web browser.
+",https://portal.productboard.com/gustav/1-candidately/c/119-confirm-email-on-phone-log-in-on-desktop,gustav
+Hide/Show Date added field,"You can now toggle the ""Date Added"" visibility for candidates. If you prefer to hide this field  you can manage this setting company-wide.With an Admin or Owner account, you can set this company-wide. Please follow the instructions below:Go to ""Settings""Click on ""General settings"" under ""Shared List Configuration""
+",https://portal.productboard.com/gustav/1-candidately/c/137-hide-show-date-added-field,gustav
+Drag & Drop Between Stages,"Hover over a candidate  grab the handle on the right, and drag them between stages. Now, managing your candidate list is quicker and slicker! ⏰ Plus for our Bullhorn users, this new update syncs seamlessly with your job submission status mapping settings as well! 🤩
+",https://portal.productboard.com/gustav/1-candidately/c/146-drag-drop-between-stages,gustav
+Custom Candidate Status: Phase 1,"Managing candidate progress is now easier than ever. You now have the ability to change candidate statuses directly on your candidates  allowing you to track their journey seamlessly and update them on behalf of your customers. Additionally, we’ve introduced a new **“To review” **status for candidates on job submission lists. This status helps your clients identify which candidates require their attention and feedback. We’re continuously working to expand this feature into a comprehensive candidate pipeline, enabling you to track the entire lifecycle of candidates from submission to placement. Stay tuned for more updates in this area coming soon!
+",https://portal.productboard.com/gustav/1-candidately/c/134-custom-candidate-status-phase-1,gustav

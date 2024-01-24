@@ -1,0 +1,161 @@
+Name,Description,Source Link,portalSourceName
+Array Editing Enhancements,"Arrays are a common schema field type in Apostrophe. We are planning some further enhancements to the user interface for managing collections of data in array fields  including some ideas for how to enable contextual editing of arrays on the page.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/65-array-editing-enhancements,apostrophecms
+Automatic Localization,"Automatically translates content when localizing changes to another locale.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/91-automatic-localization,apostrophecms
+Database Sharding Per Site,"A new back-end option that allows for an Assembly instance to spread its sites across different Mongo clusters. This would add a new UI for admins to select which cluster the database should use in its site configuration.This work should also include updates to allow for the developers and/or admins to configure database names so they are human readable.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/93-database-sharding-per-site,apostrophecms
+GraphQL API,"We already have a fully featured REST API that supports headless and decoupled applications  but are interested in adding GraphQL support as well.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/44-graphql-api,apostrophecms
+Groups for Widget Schema Fields,"This feature would make it possible to specify field groups for a widget schema  allowing for additional tailoring of the editing experience of your widgets.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/87-groups-for-widget-schema-fields,apostrophecms
+Advanced Custom Fields Docs,"The AposSchema component allows for the creation of complex new input fields from existing schema fields. This document outlines the process through the construction of a gradient color field picker.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/70-advanced-custom-fields-docs,apostrophecms
+Batch Operations,"Perform edit operations across a batch of documents.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/45-batch-operations,apostrophecms
+Permissions,"Permissions in 2.x were painted in broad strokes. We provided very little functionality and opinion at the point of installation  but give developers an infinite range of options to establish their own governance via groups and named permissions, via a rather opaque interface. In our stable release of 3.0, we'll be taking a different approach, offering a standard set of roles in our core installation, with the ability to customize user groups through an additional Groups extension.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/8-permissions,apostrophecms
+Activity Monitor,"For complex batch operations  such as large data imports and exports, image uploads, etc, it's necessary to provide granular affordance regarding the completion of the task. Our notifications system is not suitable for complex operations like this. The Activity Monitor would provide an extra layer of transparency as well as allow users to review long-running tasks asynchronously. 
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/24-activity-monitor,apostrophecms
+Apostrophe 3.0 Stable,"The stable release of Apostrophe 3!
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/22-apostrophe-3-0-stable,apostrophecms
+Content Expiration,"The ability to schedule certain content to automatically be unpublished at a certain date/time.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/54-content-expiration,apostrophecms
+Converting HTML templates to A3,"Using pre-made templates can provide significant time savings when creating a site. Although Apostrophe uses the Nunjucks templating framework  converting an HTML-only site over to accept page data is a quick and easy task. In this tutorial, we will walk through the conversion of a small, four-page HTML Blog template that utilizes Bootstrap for use with ApostropheCMS.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/69-converting-html-templates-to-a3,apostrophecms
+Wedia Integration,"This integration allows developers to search Wedia  filter Wedia images by attributes such as business line, brand, orientation, etc., and then import those images and attributes into the Apostrophe Media Library for use on Apostrophe websites.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/32-wedia-integration,apostrophecms
+Forms,"The Forms module is being ported from A2 > A3 to enable management of simple forms natively in Apostrophe with a flexible widget-based editor experience.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/47-forms,apostrophecms
+Tutorials for Editors,"The majority of the current documentation is for developers. While each site is going to have unique features  a set of documentation featuring common Apostrophe tasks would help onboard editors more quickly.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/71-tutorials-for-editors,apostrophecms
+Per-locale Permissions (A3 Port),"Apostrophe's Advanced Permissions module adds the ability to create custom groups that have granular permissions by content type. With this feature  you'll also be able to define granular permissions at the locale level as well, meaning admins can make it so that certain users and groups will only be able to edit specific locales.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/67-per-locale-permissions-a3-port,apostrophecms
+Gatsby Connector,"A Gatsby plugin to easily integration A3 and Gatsby to build and deploy static sites
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/35-gatsby-connector,apostrophecms
+A2 to A3 Content Migration Tool,"Migrating content from A2 to A3 will be fully supported.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/28-a2-to-a3-content-migration-tool,apostrophecms
+Unsplash Integration,"An Unsplash integration that will make it possible to search and import images from Unsplash. This work also includes support for Unsplash collections. Our approach will be to import collection information as tags. Included in this work are the addition of an Unsplash modal  support for Unsplash search and filtering, as well as retaining information in image metadata after the import.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/30-unsplash-integration,apostrophecms
+More Batch Tools,"Adds additional common batch features to core document types like Batch Localize  Batch Publish, etc.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/82-more-batch-tools,apostrophecms
+Export Individual Documents Across Sites,"Allows Apostrophe admins the ability to download documents from one site and upload to another.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/84-export-individual-documents-across-sites,apostrophecms
+RESTful APIs,"In 3.0  headless REST APIs are always available for pages, pieces, attachments, and everything else. Our own UI communicates with the server entirely via these documented APIs.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/25-restful-apis,apostrophecms
+Auto Updates,"Currently  it's not possible to update an installation of Apostrophe without developer intervention. We're considering adding the ability for Admins to update Apostrophe to the latest version manually or through auto-updates -- along with a compatibility check to ensure smooth transitions.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/29-auto-updates,apostrophecms
+Content Localization,"In A2  content localization was part of a the larger Workflow module. In A3, there will be a dedicated module just for localization capabilities, with a refined UI for managing content across multiple locales and languages.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/39-content-localization,apostrophecms
+"Creation of ""snacks"" within the recipe section","Currently  the ""Cookbook"" section of the documentation site contains many long-form tutorials called ""recipes"". A new section called ""snacks"" would be created within the Cookbook. This section would serve as a quick reference for completing common tasks and would typically consist of a short explanation and a few lines of code. For example,""Adding a background image to a section""Add an area header image with an image widget and set to a max of 1.{% set background = apos.image.first(data.page.headerImage) %} {% if background %} {{ set imageUrl =apos.attachment.url(background, { size: 'max' }) }} {% endif %}With time additional ""snacks"" would be added.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/72-creation-of-snacks-within-the-recipe-section,apostrophecms
+Real Time Collaborative Editing,"This feature will allow multiple editors to collaborate at the same time in a single document.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/83-real-time-collaborative-editing,apostrophecms
+Visual Schema Editor,"While editing a schema in Apostrophe is currently easy  a worthwhile goal would be to make it more accessible to Content Strategist, UX Designers, and even Marketers — broadly increasing the user-base and accessibility. This propose's a low-node/no-code solution for building out schemas for Pieces and Pages. 
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/15-visual-schema-editor,apostrophecms
+Share Drafts With Anyone,"This feature enables editors to generate a unique URL to of a document that's only available in draft mode in order to share work in progress with users that don't have editor accounts in the CMS.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/55-share-drafts-with-anyone,apostrophecms
+Media Library Organization,"Adds new tools for organizing and browsing media in the Media Library  such as folders, or improvements to the way Image Tags work.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/92-media-library-organization,apostrophecms
+UI Localization,"In order to serve our international community better  we recognize the need to translate our User Interface into more languages. This falls under our commitment to accessibility for all people.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/20-ui-localization,apostrophecms
+SSO,"A simple migration of the apostrophe-passport module from A2 > A3.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/49-sso,apostrophecms
+Assembly SSO Support,"Add support for SSO in an Apostrophe Assembly project.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/61-assembly-sso-support,apostrophecms
+"A2 to A3 Extension Migrations: SEO  Open Graph, Sitemaps, Redirects","We're already working on simple ports for some of our most used  and most straightforward extensions to bring them into the Apostrophe 3 ecosystem.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/41-a2-to-a3-extension-migrations-seo-open-graph-sitemaps-redirects,apostrophecms
+Migrate to Vitepress,"Our current documentation site for Apostrophe 3.x has poor search capabilities and a confusing menu setup. To address these issues we will migrate our current document pages from Vuepress to the newer Vitepress. The built-in search functionality of Vitepress is superior to what we currently have with deeper searching and multiple view modes. Additionally  we will create a custom theme that organizes all of the pages into a single, more streamlined navigation tree.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/97-migrate-to-vitepress,apostrophecms
+Command Menu for Faster Editing,"This feature will add a new command palette to bring up a searchable menu of tasks that can be accessed with the keyboard.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/80-command-menu-for-faster-editing,apostrophecms
+Expand custom field types documentation,"Currently  there is only a single example of creating a custom field type. This section could benefit from an additional section with a more complex example that emphasize file structure and usage of existing fields.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/75-expand-custom-field-types-documentation,apostrophecms
+SEO & Accessibility Suggestions,"Leverages integration with generative AI to provide recommended SEO and accessibility metadata for documents in the CMS.Suggests opportunities to improve content for better SEO and accessibility metrics.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/62-seo-accessibility-suggestions,apostrophecms
+Table Editing in Rich Text,"This will give editors tools for creating inline tables as part of a rich text widget.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/58-table-editing-in-rich-text,apostrophecms
+Structured Logging,"Logging of all login attempts and related phenomena is a common feature of application frameworks that Apostrophe does not currently provide. After considering several approaches  we have arrived at an approach that encourages structured logging from the beginning while retaining the best features of the existing implementation, avoiding duplication of features readily available elsewhere, and making it easier to leverage built-in features of popular logging backends like Pino. This will be an API that enforces logging of information in a structured way such that in the right storage backend, the logs can be easily queried. Our approach will allow for logging enough information about login attempts and related phenomena to make auditing those events later possible. It also simplifies and encourages structured logging by introducing the idea of a log entry type as well as automatically logging the name of the module responsible.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/95-structured-logging,apostrophecms
+Assembly Dashboard Filtering and Permissions,"Adds new controls for searching  sorting, and filtering sites in the Apostrophe Assembly dashboard view.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/90-assembly-dashboard-filtering-and-permissions,apostrophecms
+User-Specific Language Preference,"The goal is to decouple i18n static so that an editor can choose their own language settings  which would be separate from the locale or language that the template is in. Imagine I'm a French editor working on a Spanish locale template: I can choose to see the admin UI in French and the template in Spanish.This would be a first step toward a more complete User Settings & Preferences experience.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/94-user-specific-language-preference,apostrophecms
+Creation of a CLI task,"Modules can create their own CLI tasks. Currently  the documentation for this functionality is only in the module reference section. This documentation would add this information to the main guide with a code example.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/77-creation-of-a-cli-task,apostrophecms
+i18n,"Tools for managing translations of static content in templates. Leveraging the i18next library.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/43-i18n,apostrophecms
+Templating for Empty Pages,"Allow for the configuration of default widget layouts and pre-populated content on page templates.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/60-templating-for-empty-pages,apostrophecms
+A2 to A3 Code Migration Tool,"We intend to provide a robust set of tools for code migrations from Apostrophe 2 to Apostrophe 3
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/23-a2-to-a3-code-migration-tool,apostrophecms
+A3 Engineer Onboarding Tutorials,"The A3 onboarding series will introduce engineers to the Apostrophe ecosystem. Through the creation of a small website  developers will learn about Apostrophe code organization, widget creation and usage, templating, and more. These tutorials are in their late planning stages, but we would like feedback to make them better and address items that the community finds pivotal.An outline of the planned tutorials and what documentation they cover is located at https://apostrophetechnologies.notion.site/Apostrophe-3-Onboarding-Tutorials-3a66bcd427b340a7ab4a0aa2055cf05f. We welcome any comments or questions.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/73-a3-engineer-onboarding-tutorials,apostrophecms
+Draft Mode,"One of the most popular aspects of apostrophe-workflow in 2.x was the ability to create Draft content and move it through a hierarchical approvals process before making content live. In 3.0  we're making this a core feature and decoupling it from the other features of workflow such as i18n.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/11-draft-mode,apostrophecms
+Cut/Copy/Paste and Move Widgets,"In 2.x  Apostrophe relies heavily on Drag + Drop for organizing page layouts. While this a useful feature, it can lead to some complications and opens up a number of issues regarding a11y, especially for users who have limited dexterity. In 3.0, we'll be offering the ability to cut/copy/paste widgets throughout your templates, as well as a new Move mode, which will function as a discreet Editing Mode, making it easier to move areas and widgets throughout a template.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/12-cut-copy-paste-and-move-widgets,apostrophecms
+Widget Placeholders,"Image and textual placeholders for widgets to provide more guidance for content editors. 
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/18-widget-placeholders,apostrophecms
+Import / Export,"We have already some import capabilities for Pieces in A2  this is being ported to A3 with an eye towards how it can be improved in the new version.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/48-import-export,apostrophecms
+User Settings & Preferences,"In the first phase of adding User Settings & Preferences to Apostrophe  we'll introduce the ability for users to change their own password and to switch the language of the admin interface so that the admin UI and the templates can be in different languages.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/96-user-settings-preferences,apostrophecms
+tiptap Markdown Shortcuts,"The ability to author Rich Text through Tiptap using standard Markdown shortcuts
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/17-tiptap-markdown-shortcuts,apostrophecms
+Apostrophe 3.0 Beta 1,"Our first beta release of Apostrophe 3
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/36-apostrophe-3-0-beta-1,apostrophecms
+Keyboard Shortcuts,"This feature will add a layer of keyboard shortcuts for performing actions with the CMS  including the possibility of launching a searchable command shortcut modal.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/57-keyboard-shortcuts,apostrophecms
+Signup,"Add the ability for anybody to create a user account and accelerate the creation of member-based websites. A port from A2 > A3.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/52-signup,apostrophecms
+Copy/Paste & Clipboard Management,"Right now it's possible to cut and paste widgets. Adding a simple copy behavior requires a bit of additional UI consideration for how clipboard management works.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/81-copy-paste-clipboard-management,apostrophecms
+Series of recipes for extending the rich text widget,"The rich text widget already has a lot of extensibility for adding customized content to the page  but the Tiptap package that powers this experience can easily be extended further. This would be a set of tutorials looking at various levels of rich text widget modification ranging from simple updates that don't require UI changes (like being able to type ""(c)"" and have it convert to © automatically) to adding a new button with functionality to the toolbar.We are open to input on specific functionality extensions that people might be interested in us documenting for this series. 
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/85-series-of-recipes-for-extending-the-rich-text-widget,apostrophecms
+Recipe for creating a charting widget extension,"Have you ever wanted to use a data source to drop a chart onto your page? This recipe would walk through the implementation of a widget to power the front-end chart.js library to create graphs from uploaded CSV files. This recipe would also include publishing this new extension to npm for easy sharing across projects.This recipe could cover two additional topics  but they are at the edge of the scope of an initial project.Bringing data in from an API. This would also have to touch on caching and further data processing, given that not all APIs will expose data in the same format.The chart.js library can make complex graphs with multiple data sets plotted on the same axes. Gathering input from the Editor would require customized Vue input components to provide a pleasurable UI/UX experience. For this reason, the initial project would likely only utilize a subset of the chart.js options.Depending on interest, these may be brought back into either the initial project recipe or in follow-up recipes. 
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/86-recipe-for-creating-a-charting-widget-extension,apostrophecms
+Custom User Groups,"The advanced Groups module will provide additional capabilities for Admins  who will be able to assign Editor, Contributor, or Guest access to specific content types through user-groups. For example, an Admin could create a new group called Product which assigns the Editor role for blog posts, but only the Contributor role for pages. Another group called Customers might grant the Guest role for blog posts, allowing access to gated content. Users can be in multiple groups, and all users must be in at least one group. Users receive the highest privilege level available in their group matrix. For example, if the user is in a broadly defined “Editors” group which reflects the permissions of the “Editors” role, and also in a “Product Managers” group that gives them Editorial access to just Products, the “Editors” group would supersede this. 
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/38-custom-user-groups,apostrophecms
+Async Components,"In 3.x  the new {% component %} tag makes it possible to do asynchronous work inside of a template while following a well-structured pattern familiar from other frameworks.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/26-async-components,apostrophecms
+Events,"Events in A2 provides some basic scaffolding for managing and filtering on event-based properties. We're still thinking about how this can best come over to A3 - let us know if you use this module and how it can be better.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/51-events,apostrophecms
+Cloud Hosting,"Many of our users fall outside of the 'dev-ops' engineering category. Many digital agencies lack similar resources and benefit greatly from managed hosting. Offering additional manage hosting solutions will help streamline the go-live process for many of our users.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/19-cloud-hosting,apostrophecms
+Media Organization Enhancements,"As part of our work to integrate external sources like Unsplash and Wedia  we're adding filters to the Apostrophe Media Library that will allow users to filter results by orientation, image file type, and source.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/31-media-organization-enhancements,apostrophecms
+Blog (A3 Port),"We have a simple blog module for A2 that provides some filtering configuration for index pages. This is coming over to A3 - let us know how we can improve it!
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/50-blog-a3-port,apostrophecms
+Mobile Preview,"This feature would add the ability to preview your page rendering at a mobile breakpoint.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/89-mobile-preview,apostrophecms
+In-context Image Editing,"Adds the ability to make image edits (like cropping and focal point selection) right from the page view.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/64-in-context-image-editing,apostrophecms
+Per-document Permissions (A3 Port),"Apostrophe's Advanced Permissions module adds the ability to create custom groups that have granular permissions by content type. With this feature  you'll also be able to define granular permissions at the document level as well, meaning admins can make it so that certain users and groups will only be able to edit specific pages.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/66-per-document-permissions-a3-port,apostrophecms
+Advanced Image Editing,"We'll be revisiting image cropping in 3.0 in an effort to improve usability and reliability. This will includes an integrated UI to set a focal point on an image. We're also exploring tools for other advanced image management capabilities. 
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/13-advanced-image-editing,apostrophecms
+Scheduled Publishing,"The ability to select a date and time in the future for content to be published.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/37-scheduled-publishing,apostrophecms
+Batch Image Editing,"Apostrophe Pieces currently support batch editing  along with a pattern to add your own batch operations to the CMS, but this doesn't currently extend to the Media Library.With this feature, you'll be able to do things like archive, publish, and edit metadata across many images at once.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/63-batch-image-editing,apostrophecms
+Database Sharding,"Support for distributing the storage of content in an Apostrophe project across multiple databases or clusters. This includes the possibility of sharding by region.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/56-database-sharding,apostrophecms
+Section or Area Templates,"Similar to the Document Template Library  this feature would give admins the ability to save a group of widgets from the editable area of page to a content library. This would enable re-use of these chunks of content in other parts of the site.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/88-section-or-area-templates,apostrophecms
+Performance Enhancement Module,"This module will focus on front-end optimization  with a collection of tools relevant to developers and site admins from different backgrounds. Some of the features we're exploring as part of these performance enhancement releases are unused JS, CSS, and Apostrophe module checkers, third-party script optimizers, image optimization including a lazy load option, and performance monitoring through third-party plugins. 
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/33-performance-enhancement-module,apostrophecms
+Edit Mode,"In 2.x  pages and widgets were editable as soon as you navigate to them. Unlike pieces, there was no save functionality, and changes were committed as soon as they were made by auto-saving features. In 3.0, we're keeping our auto-saving feature, but adopting a more intention driven editorial process through Edit Mode, which will introduce a discreet process to trigger edits
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/9-edit-mode,apostrophecms
+Palette,"Now part of Apostrophe Assembly  Palette allows editors to visually edit the design elements of your website from within Apostrophe.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/14-palette,apostrophecms
+Document using Vue 3,"Apostrophe now supports using front-end Vue 3-powered components without needing an additional module bundler. This documentation would cover using a Vue 3 file component as a front-end widget player.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/76-document-using-vue-3,apostrophecms
+Document Versions,"Allow editors to roll back to previous states of pages and other content types.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/53-document-versions,apostrophecms
+Widget Previews,"This will add a layer to the ""Add Widget"" experience that shows a preview of that widget before it's added to the page.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/59-widget-previews,apostrophecms
+Multisite,"Apostrophe's existing multisite capabilities are being brought into A3 with additional enhancements to the dashboard experience as part of our Apostrophe Assembly license.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/42-multisite,apostrophecms
+Apostrophe 3.0 Alpha,"Announcing the first Alpha version of ApostropheCMS 3.0. Apostrophe 3 is a major new release that will make developing and managing digital experiences with Apostrophe friendlier  faster, and more maintainable.Read more on our blog or check out the boilerplate.
+",https://portal.productboard.com/apostrophecms/1-product-roadmap/c/21-apostrophe-3-0-alpha,apostrophecms

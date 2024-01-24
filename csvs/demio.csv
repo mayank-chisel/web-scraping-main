@@ -1,0 +1,164 @@
+Name,Description,Source Link,portalSourceName
+View metrics for built-in Demio notifications!,"You'll be able to view common metrics for the built-in Demio notifications (confirmation  reminders, replay follow-up). Metrics like open rates, click-through rates, etc.!
+",https://portal.productboard.com/demio/1-demio-roadmap/c/56-view-metrics-for-built-in-demio-notifications,demio
+board.com/demio/1-demio-roadmap/c/70-allow-event-specific-branding,demio
+Hide sessions that are In Progress from the Registration page,"With this update  you'll be able to disable registration on sessions that are currently In Progress—preventing any potential Attendees from joining a sessions mid-way through the session. This will ensure that anyone who registers will have the opportunity to attend right from the start of the session.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/57-hide-sessions-that-are-in-progress-from-the-registration-page,demio
+Dedicated Dashboard / Events,"With this update  we'll be introducing an all-new Dashboard and Events page. These additions should help you navigate through your various events, as well as view and manage the sessions for each event.The Dashboard will serve as an organized view of your past/upcoming sessions, as a schedule.The Events will allow you to view/manage all of your individual events.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/32-dedicated-dashboard-events,demio
+Native Safari / Edge,"With this update  we'll be adding Safari and Edge support, as well as remove the need for Attendees to download an app on iOS.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/34-native-safari-edge,demio
+Dynamic room sizes & additional Hosts on the Growth plan,"We've implemented changes to our subscription plans that'll allow you to easily add additional Hosts to your account—giving you much more flexibility within a single company account.New Plan ChangesOur new plans will factor in the number of Hosts (in addition to the room size)  starting at a minimum of one, and which you can increase/decrease as needed.Our Growth plans offer up to 5 Hosts, with Premium providing for users that need even more (the Starter plan will remain capped at 1 Host).We've also retired our Business plans in favor of offering additional room size options (500- and 1000-Attendee Room Sizes) at the Growth-level.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/92-dynamic-room-sizes-additional-hosts-on-the-growth-plan,demio
+Allow users (and event admins) the ability to directly update their profile image,"Currently  Demio uses Gravatar to update a user's profile image: https://help.demio.com/en/articles/983570-change-your-profile-picture With this update, we'll allow users to update their profile image directly on Demio.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/87-allow-users-and-event-admins-the-ability-to-directly-update-their-profile-image,demio
+Improve Connectivity Test Accuracy,"We'll be improving our connectiivty test to be more accurate to allow you to better understand how your audio/video may be affected by your connection. 
+",https://portal.productboard.com/demio/1-demio-roadmap/c/58-improve-connectivity-test-accuracy,demio
+2-factor authentication for login,"Add a layer of security to your Demio account by enabling 2FA authentication. When 2FA is enabled  you will need to retrieve a code via your authenticator app in order to complete your login.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/82-2-factor-authentication-for-login,demio
+Prior Updates,"To view some of our major updates before 2019  as well as hear about new changes as they arrive, visit our update changelog: updates.demio.com
+",https://portal.productboard.com/demio/1-demio-roadmap/c/30-prior-updates,demio
+Invite non-Host team members to your account and easily manage your team,"All Demio customers will be able to invite team members to their account  free of charge. Host permissions can be enabled separately, depending on how many Host slots are avaible on your account. Non-Host team members will be able to login, create events, manage events, and more. 
+",https://portal.productboard.com/demio/1-demio-roadmap/c/89-invite-non-host-team-members-to-your-account-and-easily-manage-your-team,demio
+HubSpot Integration,"OverviewNow  you can connect Demio with your HubSpot account 🎉By connecting Demio and HubSpot, you can automatically send attendees' and registrants' data from Demio to HubSpot and use this information to segment your contacts in HubSpot.Supported actions:Create/update contact Add Contact to ListRecord Timeline EventHubSpot integration will be tier on the Premium plan.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/8-hubspot-integration,demio
+Google Analytics,"Connect google analytics to your public pages  and event rooms. 
+",https://portal.productboard.com/demio/1-demio-roadmap/c/42-google-analytics,demio
+Additional text customization for email notifications,"Edit textEdit subject lineUse merge fields Include/exclude recording from follow-up emails
+",https://portal.productboard.com/demio/1-demio-roadmap/c/68-additional-text-customization-for-email-notifications,demio
+Upload more presentation slide file types with higher quality results,"With this update  we've completely rebuilt our presentation slide processing system. We expect higher quality results across the board, as well as more accurate colors on the final output. In addition, we now support a wide variety of file types beyond just PDF: KEY, PPT, PPTX, DPS, ODP, POT, POTX, PPS, PPSX, PPTM, SDA, and still PDF. Note: Your slides will still be converted into images, so keep in mind that you may lose any animations or transition affects from your presentation.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/75-upload-more-presentation-slide-file-types-with-higher-quality-results,demio
+Add Messages section to Insights Area (Export Admin messages),"Demio Admins would have the ability to see the total number of messages and export chats in a sequential transcript in a CSV format.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/98-add-messages-section-to-insights-area-export-admin-messages,demio
+Chat Notifications,"Add the ability to receive notifications for chat messages that are sent on your events  especially Automated ones!
+",https://portal.productboard.com/demio/1-demio-roadmap/c/15-chat-notifications,demio
+Limit registration slots/spaces,"Set a limit for how many people can register for each session on your event. This will allow you to better control how many registrants you receive on each session for your event.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/44-limit-registration-slots-spaces,demio
+Notify Admins when a attendee registers,"New Registrant Email Notification
+",https://portal.productboard.com/demio/1-demio-roadmap/c/106-notify-admins-when-a-attendee-registers,demio
+Improved Registration Form Designs,"This update to our registration forms will add clarity and reduce friction for any potential registrants. Our new forms will: move the Agree to receive notifications mandatory opt-in to a short notice below the Submit buttonif more than one session exists  we won't select the next session by default (encouraging registrants to choose the best time that works for them)add validation helper text to all applicable fields (e.g., Please enter a valid email. for the email field)continue to display the form labels when a form field is filled/being filledadd clear labels on any Optional fields
+",https://portal.productboard.com/demio/1-demio-roadmap/c/59-improved-registration-form-designs,demio
+Ability to customize the waiting room (shown before a session starts),"Users should be able to customize the waiting room  which is the page shown to any attendees that access their join link before the event starts.Customization options would include options like adding a custom video, sharing images, and adding custom text.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/38-ability-to-customize-the-waiting-room-shown-before-a-session-starts,demio
+Daily API Bank,"We've introduced new limitations for our API  which includes 3rd-party apps such as Zapier. Daily API CallsThe total number of API calls you can make to your account each day using the Demio API or any third-party tools like Zapier. Resets every 24 hours. Free Trials - Free trials account are able to make up to 100 API calls per day. Customers - Paying customers are able to make up to 5,000 API calls per day.  These limits were implemented with the intention of only affecting less than 1% of all users in an effort to protect our system from API abuse. These limits help us prevent any downtime with our API, as well as other integral systems. If you need more than 5,000 daily API calls, you may request an increase here. Limit increases will be approved on a case-by-case basis.  You can track your daily usage from within the API tab of your settings area.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/83-daily-api-bank,demio
+Email validation upon registration,"Upon registration  we will validate everyone's email address to make it's real before allowing them to successfully submit their registration. 
+",https://portal.productboard.com/demio/1-demio-roadmap/c/80-email-validation-upon-registration,demio
+Set an estimated session duration,"Set an estimated session duration mainly for the Add-to Calendar function. Today  the Add-to-Calendar is set to add Events in a 1-hour time block only. This update will provide more flexibility when scheduling events.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/101-set-an-estimated-session-duration,demio
+People Analytics Across all Events,"Notes:show reports for events and attendees (across multiple sessions)Replays watchedAttendee engagement score
+",https://portal.productboard.com/demio/1-demio-roadmap/c/109-people-analytics-across-all-events,demio
+Increased stage size,"Our team just updated the room layout for all Demio plans to support 6 stage spots (from the previous 4 spots)!Expanding the stage size will provide you more flexibility on your events. You can now have up to 6 people on stage at the same time! 🎉The increased stage size will be automatically applied to all upcoming events.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/90-increased-stage-size,demio
+Increased Stage Size [15 People],"Notes:current limit: 3
+",https://portal.productboard.com/demio/1-demio-roadmap/c/110-increased-stage-size-15-people,demio
+Improvements to custom codes + registration/attendance accuracy,"With this series of small updates  we'll be making a few improvements: Room custom codes will no longer appear on the countdown/waiting screen. Only in the room & the login screen. When registrants are automatically redirected into the room, rather than the thank you page, we'll add a ?sucess identifier to the end of the URL. This will make it easier to track all registration conversions with ""URL contains success""Registrants won't be counted as attendees until they actually login from the gateway screen
+",https://portal.productboard.com/demio/1-demio-roadmap/c/55-improvements-to-custom-codes-registration-attendance-accuracy,demio
+Salesforce Integration,"Direct Salesforce IntegrationWe've just added the ability for you to connect Demio with your Salesforce account 🎉 Supported actions:Create and Update Leads and ContactsAdd Leads or Contacts to CampaignsUpdate Member Campaign StatusRecord Activity HistoryNote: Salesforce integration is available on the Premium plan.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/100-salesforce-integration,demio
+Dial-In Options,"Allow Attendees to attend your event (audio-only) with dial-in options.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/14-dial-in-options,demio
+Simulated Chat Messages,"Add the ability to simulate and show previous chat messages on your Automated event.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/20-simulated-chat-messages,demio
+Offer SMS reminders for your events,"Capture your registrants' phone number and send SMS reminders for your events (the same way you would with email notifications).Note: We do have a workaround solution using Zapier: http://help.demio.com/en/articles/3469843-how-can-i-send-sms-notifications
+",https://portal.productboard.com/demio/1-demio-roadmap/c/77-offer-sms-reminders-for-your-events,demio
+Larger room-size(1500 & 3000),"🧑‍🏫 New Room Sizes: Our team improved the webinar room to support up to 3000 attendees! You can upgrade your plan to 1500 or 3000 room sizes.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/102-larger-room-size-1500-3000,demio
+Event-specific Language Setting,"Right now  the language setting is at an account level within Demio. We're releasing an improvement that will allow you to set a unique language for each event. 
+",https://portal.productboard.com/demio/1-demio-roadmap/c/48-event-specific-language-setting,demio
+Event Gateway,"We'll aim to improve the pre-event sequence for all Event Admins. With this update  Event Admins will be able to test and enable their devices before entering the room.We'll also improve the general speed test that Admins can use to test their connectivity and expected quality, as well as improve how we detect for browser permissions.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/31-event-gateway,demio
+Admin user permission,"Demio will now feature three types of roles: Owner  Admin, Member.Owner: will have access to all pages and settings.Admin: will have writable access to all pages - except billing but can download invoicesMember: will have access to events and profile only
+",https://portal.productboard.com/demio/1-demio-roadmap/c/105-admin-user-permission,demio
+Activity: Insights,"View comprehensive analytics for specific sessions on your event including:registration trendsAttendee engagementresource data (including options to export)and much more!
+",https://portal.productboard.com/demio/1-demio-roadmap/c/12-activity-insights,demio
+Improved Email Notifications,"With this update  we've redesigned our email notifications to be more simple and functional.We'll be stripping out all of the extra stuff, opting to include the core details (event name, date, join link), then loop in your branding and add in any custom messages that you set.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/35-improved-email-notifications,demio
+New Room Chat,"Major improvements to the way our chat looks  feels, and performs! Among the manage changes, we're:adding dedicated tabs for sharing Polls/Handoutsallowing Featured Actions to be more prominent and stay pinned in the roomgiving more space to the chat areaimproving how Attendees can engage through the chat (improved emoji reactions, mentions)adding the ability for Admins to mention specific people and send messages privatelyincluding many performance improvements!
+",https://portal.productboard.com/demio/1-demio-roadmap/c/18-new-room-chat,demio
+Allow Moderators to join the room on mobile & tablets,"At the moment  all event admins, including Moderators are required to join from the browser on a desktop device. 
+",https://portal.productboard.com/demio/1-demio-roadmap/c/74-allow-moderators-to-join-the-room-on-mobile-tablets,demio
+Automatically hide room controls when something is behind shared,"Occassionaly  these room controls have been hiding certain content for admins when sharing slides or a video; with this improvement, we will automatically hide these icons with mouse inactivity when something visual is being shared. 
+",https://portal.productboard.com/demio/1-demio-roadmap/c/36-automatically-hide-room-controls-when-something-is-behind-shared,demio
+[Billing] Add your address & download invoices,"With this new feature  users will be able to view & download payment invoices right from their billing area. Additionally, users will be able to add their company address and tax information to the automatic invoices. 
+",https://portal.productboard.com/demio/1-demio-roadmap/c/86-billing-add-your-address-download-invoices,demio
+Upload video materials directly (replacement for YouTube),"With this update  we'll be adding support for adding video materials directly (rather than through YouTube).
+",https://portal.productboard.com/demio/1-demio-roadmap/c/23-upload-video-materials-directly-replacement-for-youtube,demio
+Access high-level analytics (multiple events),"View and access analytics captured across multiple events. See trends as they relate to all of your webinar campaigns and initiatives.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/94-access-high-level-analytics-multiple-events,demio
+Disable the chat for your event,"This option would allow users to outright disable the chat on any of their events.This would be useful for any situations where:users want to run a session in watch-only modeusers want to run automated sessions where they won't be able to join and engage with their attendees
+",https://portal.productboard.com/demio/1-demio-roadmap/c/66-disable-the-chat-for-your-event,demio
+Activity: People,"Manage contacts for your events directly within the event with flexible filtering options and meaningful data points.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/16-activity-people,demio
+Complete Browser Support,"Add full  no-delay Attendee browser support for Safari and Edge on both desktop and mobile! We now have full native browser support for the following browsers:Desktop: Chrome, Firefox, Internet Explorer, Safari, EdgeMobile: iOS, Android
+",https://portal.productboard.com/demio/1-demio-roadmap/c/26-complete-browser-support,demio
+Waiting Room Improvements,"We've made some small improvements to the waiting room  which include:User can see their registered name & email User can easily add the upcoming session to their calendar User can access their manage registration areaIn addition to these improvements, we've also improved the overall style.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/62-waiting-room-improvements,demio
+Add-to-calendar adds all sessions (Series),"When a Series event is created that has multiple sessions (recurring event)  it should auto-add all the sessions to the attendee's calendars instead of just the first one.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/103-add-to-calendar-adds-all-sessions-series,demio
+Event Overview,"The dedicated Events Overview area will supercharge how you manage each individual events.These changes will:simplify and streamline the user experienceimprove the overall organization of past sessions and recordingsgive you added flexibility around scheduling your events (including the option to reschedule any of your old events while keeping all links and settings the same)and much more!
+",https://portal.productboard.com/demio/1-demio-roadmap/c/33-event-overview,demio
+All-New Integrations,"We'll be re-hauling our integrations and bringing a series of improvements that will allow you to manage your contacts in a much more flexible manner. Here are a few of the many changes that this update will allow:pass in any available data from the People table (Join/Exit Time  Attendance %, Focus %, etc.)more flexible triggers: New Registration / Session Endsset and run multiple actions per triggerseparate triggers for Schedule Sessions and On-Demand Sessionsintegration reliability improvementsand much more!
+",https://portal.productboard.com/demio/1-demio-roadmap/c/60-all-new-integrations,demio
+[Events/Replay] add subtitles/closed-captions,"Notes:allow user to create/import subtitles for Recording
+",https://portal.productboard.com/demio/1-demio-roadmap/c/107-events-replay-add-subtitles-closed-captions,demio
+Edit overlay opacity on Background Image template,"Ability to change the opacity level of the registration page with a background image: https://www.loom.com/share/b1db20e007aa4337822516f8a623727f
+",https://portal.productboard.com/demio/1-demio-roadmap/c/52-edit-overlay-opacity-on-background-image-template,demio
+Enhanced Replay Experience,"Be able to create and manage replays with more ease! We’re looking to streamline how replays work for all event types  make it simple to enable and provide more engagement opportunities with your customers. Some features might include:Simulated chat and room resourcesAbility to create the replay as an On-Demand sessionAvailable for automated eventsRestricted downloadingMetrics and analytics around replay views
+",https://portal.productboard.com/demio/1-demio-roadmap/c/78-enhanced-replay-experience,demio
+Paid Events/Sessions (Payment Integration),"The ability to charge for registration with a payment integration  such as Stripe or Paypal. 
+",https://portal.productboard.com/demio/1-demio-roadmap/c/81-paid-events-sessions-payment-integration,demio
+Add a queue when the room is full,"OverviewWe just launched two improvements to how attendees join sessions on Demio.First  we've added a formal queue system to manage attendees once attendance exceeds the room size—we'll add new attendees to a queue where access will be granted as spots open up.Additionally, admins will be notified once the room reaches capacity, along with a clear indication of how many attendees are in the queue.Next, we've adjusted the room flow to show the Join Room anytime someone accesses their join link. This change ensures that only those who join the room will be added to the queue and allow us to auto-redirect attendees to the room once a session begins (previously, they would need to click Join once the session started before gaining access to the room).This change will mean attendees that join the session before it goes live will be in the room right as the session starts, ensuring they don't miss those first crucial moments.Note: The room queue will only apply to Attendees. Any event admins will always have access to the room.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/95-add-a-queue-when-the-room-is-full,demio
+Registration source tracking and UTM parameters,"OverviewWe will track the source of all registrations (UTM parameters and referral URL).Any time someone registers for one of your events  we'll automatically capture and store their registration source if it's available. We'll grab any UTM parameters accompanying the URL and a Referral URL if a specific website shares the registration link.This feature will only be available for Growth and Premium users.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/39-registration-source-tracking-and-utm-parameters,demio
+Billing: required billing address,"We've made some changes in the Billing area  and Demio now requires Country and Zip Code. Customers will need to edit their Billing Addresses and complete their profiles.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/96-billing-required-billing-address,demio
+Swap Automated Video,"Add the ability to swap out the video used on your Automated event.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/13-swap-automated-video,demio
+Keyboard Controls for Presentation Slides,"Navigate through your presentation slides using the left/right arrow keys.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/69-keyboard-controls-for-presentation-slides,demio
+Single Sign-On (SSO) Options,"Securely sign-on and authenticate using other popular services.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/91-single-sign-on-sso-options,demio
+Manage registration area + additional add-to-calendar options,"Currently  our email notifications only support Google Calendar; with this update, users will be able to add an upcoming event to any calendar from within our email notifications. 
+",https://portal.productboard.com/demio/1-demio-roadmap/c/49-manage-registration-area-additional-add-to-calendar-options,demio
+Automated Event Streaming Improvements,"Your audience will now have an easier time loading your automated presentations  even on slower internet connections. These tech improvements are happening behind the scenes, so you won't see anything new, and neither will your audience.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/45-automated-event-streaming-improvements,demio
+Change webcam resolution to 16:9,"Right now webcams are shared in 4x3 resolution  but will be updated to 16x9 with this change. 
+",https://portal.productboard.com/demio/1-demio-roadmap/c/51-change-webcam-resolution-to-16-9,demio
+Offer replays for Automated sessions,"Users will be able to send out a replay/recording for any Automated sessions to better match the experience of standard (live) events. For example  this will allow users to send a replay to any registrants that missed a scheduled session allowing them to still engage with the content directly on the Demio platform. The replay content will likely use the video content that was used for the Automated session as well. 
+",https://portal.productboard.com/demio/1-demio-roadmap/c/64-offer-replays-for-automated-sessions,demio
+Ability to use a custom domain,"We're exploring the ability to use custom domains for your event pages (registration  thank you, replay, and room). This feature would be available on our Premium plan.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/37-ability-to-use-a-custom-domain,demio
+Additional Custom Form Fields Types (Registration Form),"Video: https://demio.wistia.com/medias/bo0rvhvauvhttps://demio.wistia.com/medias/bo0rvhvauvAdd the ability to create custom form fields with additional types  including:dropdownscheckboxesnumber fields Text areasAdditionally, we will have some new pre-defined fields that will validate the information entered such as: Last NamePhone NumberWebsiteCompanyAddressLastly, we will also have other small improvements with this update, such as the ability to edit the text of the GDPR checkbox. 
+",https://portal.productboard.com/demio/1-demio-roadmap/c/28-additional-custom-form-fields-types-registration-form,demio
+Marketo,"Notes:website: www.marketo.com
+",https://portal.productboard.com/demio/1-demio-roadmap/c/40-marketo,demio
+Set an end date for any recurring schedules,"Allows users to set a specific end date for their recurring schedules to allow them to stop the sessions from recurring.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/72-set-an-end-date-for-any-recurring-schedules,demio
+UI Improvement to the Summary tab inside of an event overview,"With this update  we'll be improving the organiziation of both upcoming and past sessions. You'll be able to better manage your sessions, compare them against each other, and see more at one time. We're also moving a single Join Room button to the top right of the event, and removing it from individual session cards. Other improvements include: We'll be moving a single Join Room button to the top right of the event overview. Series events will now show the total registrant count at the topBetter organization of recurring schedules
+",https://portal.productboard.com/demio/1-demio-roadmap/c/53-ui-improvement-to-the-summary-tab-inside-of-an-event-overview,demio
+Within email notifications  add the ability to show the event time in the Attendee's local timezone,"Currently  all email notifications display the session date & time in the event's timezone. Reason: we don't have live access to what timezone they're accessing the email from; unlike pages that users are viewing in the browser (registration pages, waiting room, etc.) where we can quickly pull that information. With this update, we can improve the options available to a user to be able to display that time in the Attendee's local timezone (captured when they registered).
+",https://portal.productboard.com/demio/1-demio-roadmap/c/84-within-email-notifications-add-the-ability-to-show-the-event-time-in-the-attendee-s-local-timezone,demio
+Select a host for each event & easily add team members,"With this update  users will be able to assign a specific user as the Host for each event.This will allow bigger teams to better manage their events within a single account and solve the problem where all users are added to all events (even if they might not be involved with the specific event).In conjunction with this change, we'll also make it easier to invite existing team members as event admins to any events.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/65-select-a-host-for-each-event-easily-add-team-members,demio
+Add a date range filter to Activity,"In addition to being able to filter by indiviudal sessions  filter across multiple sessions by viewing a date range in the Activity area. 
+",https://portal.productboard.com/demio/1-demio-roadmap/c/46-add-a-date-range-filter-to-activity,demio
+Salesforce Pardot,"Direct Salesforce Pardot IntegrationWe've just added the ability for you to connect Demio with your Salesforce Pardot account 🎉 Supported actions:Create and Update ProspectAdd Prospect to ListRecord Prospect ActivityNote: Pardot integration will be tier on the Premium plan.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/41-salesforce-pardot,demio
+Improved Way to Manage Messages,"Improved way to view  manage and respond to chat messages that were sent during your event.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/17-improved-way-to-manage-messages,demio
+Room Improvements,"We are improving the layout  management, and visibility of Admins in the room and updating the connection with our streaming provider. With this update, hosts will have more control over who interacts with the attendees and how you can switch between admins with our new stage feature!Included in the update are...visual UI improvementsmore responsive smart layoutincrease webcam limit to 4stage concept with stage managementmirrored webcam
+",https://portal.productboard.com/demio/1-demio-roadmap/c/85-room-improvements,demio
+Improve Event Admins Management (including Hosts),"Improve how you manage Event Admins (Hosts  Presenters, and Moderators) for your event.Bonus: we'll be adding the option to manage notification settings for each Event Admin.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/22-improve-event-admins-management-including-hosts,demio
+"Minor Room Improvements: Translucent Stage Cards  New Avatars, and More!","Translucent Stage CardsBased on some recent feedback  we've updated the stage cards within the room to use a translucent background when users aren't sharing their cameras. This change should provide a more branded appearance to the cards, allowing the background color to shine. New Avatars We've added new placeholder avatars for people who don't have a Gravatar associated with their email address. The new style opts for a more neutral look to ensure that it works well with any/all brand colors used for your events. Note: You'll find the new placeholder avatar styles in the room, directly in the account (for event admins and team members), as well as on public registration/replay pages for featured presenters. Updated Session StatusFinally, to add more clarity around sessions, we've improved the language around a session's status—precisely when the session has not started.​​Any admins that join the room will find a ""Not Started"" status message in the Event Details button and within the helper text used across the room.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/93-minor-room-improvements-translucent-stage-cards-new-avatars-and-more,demio
+Company Channel,"Offer a public area that showcases multiples events (Upcoming Events  Past Recordings, On-Demand Events).You will be able to pick and choose which events you'd like to showcase and make adjustments at any time.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/67-company-channel,demio
+Dynamic Starting Soon Times,"Add dynamic starting time options to your event scheduling arsenal  allowing you to run your Automated event every hour/15 minutes.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/19-dynamic-starting-soon-times,demio
+Facebook Live,"Add the ability to stream your event to Facebook Live.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/21-facebook-live,demio
+Ability for Attendees to add/ask questions,"This option will allow Attendees to mark any messages they send as a question.
+",https://portal.productboard.com/demio/1-demio-roadmap/c/73-ability-for-attendees-to-add-ask-questions,demio

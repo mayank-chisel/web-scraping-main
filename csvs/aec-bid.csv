@@ -1,0 +1,83 @@
+Name,Description,Source Link,portalSourceName
+Scan-to-Design: Road Components Extraction,"Extract components like handicap ramps  intersections, etc., from reality capture data
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/342-scan-to-design-road-components-extraction,aec-bid
+Point features extraction,"Ability to extract point features (Assets) like signs  manholes, etc via Cloud viewer
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/326-point-features-extraction,aec-bid
+Custom Stylization in Connector for ArcGIS [Civil 3D 2024],"Ability to stylize the data imported from ArcGIS Portal using Connector for ArcGIS
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/308-custom-stylization-in-connector-for-arcgis-civil-3d-2024,aec-bid
+Advanced Parametric Content,"Ongoing additions to the InfraWorks bridge and tunnel component libraries with custom parametric Inventor models.
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/399-advanced-parametric-content,aec-bid
+Swale Object for Stormwater Control,"First-class BIM stormwater control object:Managed in Stormwater Controls object node in ProspectorCreate with parametersObject settingsObject stylesObject labels
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/347-swale-object-for-stormwater-control,aec-bid
+Increased Tunnel LOD,"The existing tunnel feature will be enhanced to allow for multiple segments within a tunnel. These segments can include extruded geometry from parametric 2D sections  or detailed 3D bored tunnel rings, or segmented 3D tunnel components or general 3D components (to model merging tunnels etc.)
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/370-increased-tunnel-lod,aec-bid
+Gap Tolerance Between Regions for Corridor Transitions [Civil 3D 2024.1],"Because Civil 3D cannot place two separate assemblies at the same station location  small gaps must be placed between corridor regions when assembly changes occur. This breaks the corridor transition workflow, which requires regions to be adjacent to one another.Read about it in the Civil 3D 2024.1 Release Notes
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/373-gap-tolerance-between-regions-for-corridor-transitions-civil-3d-2024-1,aec-bid
+Upgrade Civil 3D and its Extensions to .NET 6.0 or Higher,"We will be migrating Civil 3D and its extensions (such as Subassembly Composer  Grading Optimization, etc.) from .NET Framework 4.8 to .NET 6 or higher. .NET brings cutting edge performance, developer productivity, and world-class tools enabling developers to build cloud-native apps, web, desktop, mobile, and so much more. The exact version of .NET (6 or 8) will be determined at a later time. 
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/429-upgrade-civil-3d-and-its-extensions-to-net-6-0-or-higher,aec-bid
+Civil 3D Interoperability with InfoDrainage,"Enhance the interoperability between Civil 3D and InfoDrainage. This will include more support for Civil 3D objects and metadata  providing more streamlined workflows.
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/259-civil-3d-interoperability-with-infodrainage,aec-bid
+Create Corridor from Multiple Feature Line Baselines 💡,"Create a corridor by selecting a series of feature lines to use as baselines. Alternatively  expose APIs that would enable third-party developers to create tools that could add multiple feature lines as baselines to a corridor in a single operation. Related Civil 3D Idea:Parking Lot Workflow
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/217-create-corridor-from-multiple-feature-line-baselines,aec-bid
+Surface Processing Performance and Scalability,"Enhanced performance while processing and rebuilding Civil 3D surfaces.
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/393-surface-processing-performance-and-scalability,aec-bid
+Alignment Awareness sectioning in Autodesk Viewer,"The reviewer will utilize the functionality of the review software to analyze perpendicular sections along various alignments. This process will incorporate the following:Stepping through the design at an interval that is selected by the reviewerMeasuring widths and depths of sectioned elementsDisplaying the area of closed elements
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/403-alignment-awareness-sectioning-in-autodesk-viewer,aec-bid
+Corridor Performance and Scalability,"Increase the overall performance of Civil 3D corridors  making them better able to manage longer, more complex designs with efficiency.
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/394-corridor-performance-and-scalability,aec-bid
+Link Revit Building into Civil 3D Drawing,"Enable a Revit building to be referenced into a Civil 3D drawing.
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/112-link-revit-building-into-civil-3d-drawing,aec-bid
+Ramps support,"Add flexible ramp editing capability to InfraWorks roads that makes conceptual design easy and translates directly to Civil3D for detailed design without any additional work.
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/273-ramps-support,aec-bid
+Display Civil 3D objects in AutoCAD Web,"Provide users with the ability to view Civil 3D objects when opened in AutoCAD Web. Users would have similar capabilities as provided by the Civil 3D Object Enabler within AutoCAD.View objects  labels, and tables (visual fidelity including style settings)Ability to relocate labelsNo ability to edit model objectsResolution of Civil 3D DREFsAccess to standard AutoCAD Web capabilities including Trace, etc.
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/358-display-civil-3d-objects-in-autocad-web,aec-bid
+Enable Navigation from Civil 3D Objects to Project Explorer  [Civil 3D 2024],"Allow you to select an object in the drawing  right-click and navigate to the object's data in Project Explorer.
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/220-enable-navigation-from-civil-3d-objects-to-project-explorer-civil-3d-2024,aec-bid
+Occlusion planes,"Enable occlusion plane mode to avoid seeing points that will be occluded by the view
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/22-occlusion-planes,aec-bid
+Human animation,"Add option to have the vehicle and human animation in InfraWorks model.Vote or give us your feedback on the associated InfraWorks Idea
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/299-human-animation,aec-bid
+Support 4K Monitors,"Support high DPI 4K monitors for ReCap Pro.
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/336-support-4k-monitors,aec-bid
+3DConnexion mouse support Portal,"
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/10-3dconnexion-mouse-support-portal,aec-bid
+Detailed classification including features  beyond surface,"Enhance automatic classification to sub-categorize points as groups with details classification algorithms
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/24-detailed-classification-including-features-beyond-surface,aec-bid
+File Open performance,"faster file open
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/215-file-open-performance,aec-bid
+Exposing increased user control for bridge geometry layouts,"Ongoing refinements to allow users more placement control on bridge components. Focusing on letting users better control the end of deck and bearing geometries
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/400-exposing-increased-user-control-for-bridge-geometry-layouts,aec-bid
+Scan-to-Design: Rails Extraction,"Extract Rails-related design features from point cloud data
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/341-scan-to-design-rails-extraction,aec-bid
+Area measurement tool,"Area measurement in ReCap Pro
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/27-area-measurement-tool,aec-bid
+DWG Migration for Docs - Repair and Repath Capabilities,"This extension to the DWG Migration for Docs tool will allow users to repair and repath references (xref's and dref's)  from project DWG's that are located in Docs or on a local drive/network
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/514-dwg-migration-for-docs-repair-and-repath-capabilities,aec-bid
+Project Objects to Multiple Views 💡,"Project all crossing object to all profile or section views in a single operation. Update crossings in all affected profile or section views when the alignment changes or crossing objects are added.Related Ideas:Project Objects to Profile View
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/253-project-objects-to-multiple-views,aec-bid
+Roadway Signs and Markings,"The German country kit for Civil 3D has a road signs and lane markings tool that is specialized for the German market; the purpose of this item is to expand the tool to include standards for key countries and make it available for all Civil 3D customers.
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/221-roadway-signs-and-markings,aec-bid
+Bioretention Object for Stormwater Control,"First-class BIM stormwater control object:Managed in Stormwater Controls object node in ProspectorCreate with parametersObject settingsObject stylesObject labels
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/349-bioretention-object-for-stormwater-control,aec-bid
+NWC/NWD interop enhancements for Infraworks,"Import NWC/NWD to InfraWorks
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/304-nwc-nwd-interop-enhancements-for-infraworks,aec-bid
+Stagger Labels in Pressure Network Bands,"Provide an option to stagger pressure network labels in pressure network bands. This would function in a similar manner as the existing 
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/338-stagger-labels-in-pressure-network-bands,aec-bid
+Grading Optimization: Cost,"Calculate cost based on the results of the optimized grading.
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/90-grading-optimization-cost,aec-bid
+Grading Optimization: Ramps,"Optimize grading based on ramp design.
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/88-grading-optimization-ramps,aec-bid
+Revit interop enhancements for Infraworks,"Enhance Revit model import with coordinates and performance
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/303-revit-interop-enhancements-for-infraworks,aec-bid
+Point cloud classification in Cloud,"Point cloud classification in Cloud
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/294-point-cloud-classification-in-cloud,aec-bid
+InfoDrainage Analysis from within Civil 3D,"Perform drainage analysis in Civil 3D using the InfoDrainage analysis engine hosted in the cloud.
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/356-infodrainage-analysis-from-within-civil-3d,aec-bid
+Pointcloud classification - manual tools,"Manual editing of points in point cloud
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/21-pointcloud-classification-manual-tools,aec-bid
+Infiltration Trench Object for Stormwater Control,"First-class BIM stormwater control object:Managed in Stormwater Controls object node in ProspectorCreate with parametersObject settingsObject stylesObject labels
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/348-infiltration-trench-object-for-stormwater-control,aec-bid
+Chamber Object for Stormwater Control 💡,"First-class BIM stormwater control object:Managed in Stormwater Controls object node in ProspectorCreate with parametersObject settingsObject stylesObject labels💡 Related Civil 3D IdeaGravity networks - underground storage chambers & attenuation tanks
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/354-chamber-object-for-stormwater-control,aec-bid
+C3D Survey workflow support,"Expand support for Survey Database​ workflows when working on Autodesk Docs based projects.
+",https://portal.productboard.com/aec-bid/3-civil-infrastructure-public-roadmap/c/431-c3d-survey-workflow-support,aec-bid

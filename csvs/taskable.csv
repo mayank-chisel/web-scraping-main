@@ -1,0 +1,63 @@
+Name,Description,Source Link,portalSourceName
+Taskable Version 1.1 - The Free Tier update!,"Finally  the Free Tier update!‍ We know it’s been forever since a major update was released. So here it is. Now, you don’t have to go Pro to sign up for Taskable! ‍
+",https://portal.productboard.com/taskable/1-taskable/c/8-taskable-version-1-1-the-free-tier-update,taskable
+Outlook Calendar,"We are excited to announce our integration with Outlook calendar is live!Now Outlook users can harness all the power of integrated tasks and calendar in Taskable.To set up Outlook  head to the integrations page, and select it from the integration dropdown list. Once set up, you'll see your Outlook events in Taskable, and be able to drag and drop tasks into Outlook right from Taskable. For more information, please check our Help Center Article.
+",https://portal.productboard.com/taskable/1-taskable/c/12-outlook-calendar,taskable
+Discord,"Discord integration is coming soon!
+",https://portal.productboard.com/taskable/1-taskable/c/22-discord,taskable
+Any.do,"Any.do integration
+",https://portal.productboard.com/taskable/1-taskable/c/40-any-do,taskable
+WhatsApp,"WhatsApp integration
+",https://portal.productboard.com/taskable/1-taskable/c/34-whatsapp,taskable
+Mobile apps v.1,"We've launched the first version of our mobile apps! We always says this because we are usually working on our most requested features  but this truly is the most requested feature we've ever had! The apps let you add tasks, and view your Today screen and view all your tasks in a list view. Managing your subscription and integrations is only available on the web app at this time. The iOS app is in TestFlight, so you'll need to download that first. And you can get our app here.For Android users, you can download the app directly on Google Play.
+",https://portal.productboard.com/taskable/1-taskable/c/43-mobile-apps-v-1,taskable
+Viber,"Viber integration
+",https://portal.productboard.com/taskable/1-taskable/c/37-viber,taskable
+Apple Pay/Google Pay,"We are working on adding Apple Pay/Google Pay for your payment options 
+",https://portal.productboard.com/taskable/1-taskable/c/54-apple-pay-google-pay,taskable
+Mobile Applications Revamp,"We are improving and adding functionalities to our Android and iOS app. Our goal is to make the mobile experience better through UI and usability improvements. We are adding more functionalities and customizations to make the experience of managing tasks easier on your device.. 
+",https://portal.productboard.com/taskable/1-taskable/c/50-mobile-applications-revamp,taskable
+Trello,"Trello is added to available integrations!
+",https://portal.productboard.com/taskable/1-taskable/c/18-trello,taskable
+Slack,"Slack is added to available integrations!
+",https://portal.productboard.com/taskable/1-taskable/c/14-slack,taskable
+Yahoo Mail,"Yahoo Mail integration is coming soon!
+",https://portal.productboard.com/taskable/1-taskable/c/24-yahoo-mail,taskable
+Apple Mail,"Apple Mail integration is coming soon!
+",https://portal.productboard.com/taskable/1-taskable/c/21-apple-mail,taskable
+Taskable Pro for SetSchedule Premium Users,"Taskable Pro will be free for SetSchedule Premium Users. 
+",https://portal.productboard.com/taskable/1-taskable/c/49-taskable-pro-for-setschedule-premium-users,taskable
+Monday.com,"Monday.com integration is coming soon!
+",https://portal.productboard.com/taskable/1-taskable/c/25-monday-com,taskable
+iOS Launch,"We are nearly officially launching the version 1 of our iOS app! We know that this is one of our most requested feature  and we are happy to announce that we are close to launch. The app will let you add tasks, view your Today screen and view all your tasks in a list view. Sweet!
+",https://portal.productboard.com/taskable/1-taskable/c/48-ios-launch,taskable
+WeChat,"WeChat integration
+",https://portal.productboard.com/taskable/1-taskable/c/35-wechat,taskable
+Skype,"Skype integration
+",https://portal.productboard.com/taskable/1-taskable/c/38-skype,taskable
+Multiple timeblocks and UI update,"You can now create multiple timeblocks for one task in a given day. So if you have a large task  and want to work on it in multiple, non-consecutive blocks, you can just drag the task into another timeslot. For new users, we've changed the onboard flow so you can set up a few integrations right after you sign up, that way you have your tasks waiting for you the first time you log into Taskable. We've also updated the integrations page, so now you set up integrations from a drop-down menu.
+",https://portal.productboard.com/taskable/1-taskable/c/45-multiple-timeblocks-and-ui-update,taskable
+Shortcut,"The Shortcut integration syncs all stories assigned to you in Shortcut to your Taskable Inbox. We also have two-way syncing between Shortcut and Taskable  meaning the following fields will autosync when updated in Taskable or Shortcut:TitleDue dateDescriptionWith Shortcut we don't sync when you've marked something as complete in Taskable, so you'll have to follow the link to the original Shortcut story to move that to the correct column.For more information about Shortcut, you can check out our help center post here.
+",https://portal.productboard.com/taskable/1-taskable/c/16-shortcut,taskable
+Salesforce,"Salesforce integration
+",https://portal.productboard.com/taskable/1-taskable/c/30-salesforce,taskable
+Telegram,"Telegram integration
+",https://portal.productboard.com/taskable/1-taskable/c/36-telegram,taskable
+Chrome extension v1,"We are very excited to ship our Chrome extension! Our goal for the extension is to help you stay focused on what you're supposed to be working on  as well as add necessary information and create Actions quickly, from anywhere you are on the web. This is a very early version, and there's lots more to come on both of these fronts. But, here's how it works today. This will work on any Chromium-based browser, including Microsoft Edge, Brave, and Opera.Get the Taskable extension from the Chrome Web StoreHow it worksFirst, you can see all the Actions from your Today list, and even check them off from the extension. Just hit the extension button, and it will pop up for you.Make sure to give Taskable pole position on your extension listYou can also add new Actions from the extension by clicking (or tabbing over to) the Add New tab. In this first version we don't grab a link or any other metadata about the webpage you are on currently, but that will come soon.Why is GA so bad?Finally, you can link back to the Taskable app by clicking on the Taskable tab.A few things to keep in mind - once you add the extension you might need to pin it so you can always see it in the window. You can do that by hitting the puzzle icon in the top right hand corner of the Chrome window, scrolling down to Taskable and clicking on the pin icon.I've even added a keyboard shortcut so all I have to do is hit **⬆⌘A **to pull up the extension! You can do that by going to chrome://extensions/shortcuts in your browser.That's it for now. Excited to hear your thoughts and feedback!
+",https://portal.productboard.com/taskable/1-taskable/c/47-chrome-extension-v1,taskable
+Github,"Github is added to available integrations!
+",https://portal.productboard.com/taskable/1-taskable/c/19-github,taskable
+Jira,"The Taskable integration with Jira is now live! We'll sync any issues assigned to you across your Jira accounts to Taskable  so you can view all your tasks in one place. We sync any changes you make to the title and description back to Jira, so that's less time you have to go back and update your issues.Get the Jira integration set upTo get started, head over to the integrations page, and find the Jira button under premium integrations. Next, you'll select which account to authorize the integration for (see below). You can add as many accounts as you'd like. Taskable will then begin importing all future issues assigned to you into your Taskable inbox. Set up as many accounts as you'd likeLearn more about integrating Jira at our help center.
+",https://portal.productboard.com/taskable/1-taskable/c/17-jira,taskable
+Fantastical,"Fantastical integration
+",https://portal.productboard.com/taskable/1-taskable/c/39-fantastical,taskable
+HubSpot,"HubSpot integration is coming soon!
+",https://portal.productboard.com/taskable/1-taskable/c/28-hubspot,taskable
+Asana,"The Asana integration syncs all tasks assigned to you in Asana to your Taskable Inbox. We also have two-way syncing between Asana and Taskable  meaning the following fields will autosync when updated in Taskable or Asana:TitleDue dateDescriptionMarking as completeFor more information about Asana, you can check our Integration post here.
+",https://portal.productboard.com/taskable/1-taskable/c/15-asana,taskable
+Apple Calendar,"Apple Calendar integration
+",https://portal.productboard.com/taskable/1-taskable/c/32-apple-calendar,taskable
+Google Chat,"Google Chat integration is coming soon!
+",https://portal.productboard.com/taskable/1-taskable/c/29-google-chat,taskable
+Zoho,"Zoho integration
+",https://portal.productboard.com/taskable/1-taskable/c/31-zoho,taskable

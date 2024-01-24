@@ -1,0 +1,55 @@
+Name,Description,Source Link,portalSourceName
+Customize playlists order on a screen/group,"Currently playlists are played on a screen based on their create dateWith this feature  users will be able to change the playlist order in the same way as they set content order in a playlistThis can be changed for each screen or screen group
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/106-customize-playlists-order-on-a-screen-group,comeen
+Google Slides with animations,"Display a Google Slides in it's original format  including animations.Caveat will be the lack of offline accessibility.
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/12-google-slides-with-animations,comeen
+Datasource from RSS feed,"Add new data source: RSS feedsYou'll be able to inject news in your templates
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/32-datasource-from-rss-feed,comeen
+Localized subtitles,"Update subtitles for a video and each screen will only show their language subtitle
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/10-localized-subtitles,comeen
+Select a layout for content Image and PDFs,"Layouts can be:1 image2 images3 images4 images2x2 images3x3 images4x4 images
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/40-select-a-layout-for-content-image-and-pdfs,comeen
+Google Slides GSuite addon,"Publish a Google Slide on DynamicScreen directly from your Google Slide web interface.
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/48-google-slides-gsuite-addon,comeen
+Google Slides widget: account option besides share@comeen.com,"Currently  you can use Google Slides in your templates but they have to be shared with the account share@comeen.comWith this feature, you'll be able to use Google Slides in your templates with your own Google account
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/104-google-slides-widget-account-option-besides-share-comeen-com,comeen
+Import file to library from Designer,"Currently you have to go the library first to import files that will be used in your templates.With this feature  you will be able to upload content directly in your templates, either through the file picker or by drag&dropping files on your canvas
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/103-import-file-to-library-from-designer,comeen
+Google Sheet Integration,"You can now use a Google Sheet as a datasource in your templates
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/56-google-sheet-integration,comeen
+Remove a screen from the Manager,"Remove a screen from your dashboard
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/45-remove-a-screen-from-the-manager,comeen
+Do not broadcast a template with empty datasources,"Option when adding a template in a playlist : if there is no data available in the datasource or view  do not display the template onscreenThis will allow broadcasting contextual templates (birthdays of the day, shipments of the day etc) 
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/94-do-not-broadcast-a-template-with-empty-datasources,comeen
+Preview a playlist,"You're a lot to ask us hot to preview a playlist from DynamicScreen dashboard. Months ago we've introduced a way to preview a screen which be used to preview a playlist. As you know we've always been focused on user experience and keeping an easy to use solution. In that way  we've planned to develop a preview function for all your playlist by only clicking on a button ! As always, stay tuned 😉
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/41-preview-a-playlist,comeen
+Salesforce basic integration,"With this new integration  you will be able to import data from your Salesforce dashboards
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/57-salesforce-basic-integration,comeen
+Toggle to force standby,"Besides being able to schedule sleep mode for screens  this setting will allow switching off screen when there is a long period of standby (for example during office closing for holidays)
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/114-toggle-to-force-standby,comeen
+"Microsoft 365: Images  Videos, PDF","With our Microsoft 365 integration  you can broadcast PowerPoint from your OneDrive or Sharepoint site.You will be able to also broadcast images, videos or PDFs directly from your personal One Drive or Sharepoint site 
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/102-microsoft-365-images-videos-pdf,comeen
+LumApps integration,"Introduce a LumApps integration to pull information from LumApps to DynamicScreen (e.g. news from a site) and display the information on your screens
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/13-lumapps-integration,comeen
+Select destination folder when drag&drop content,"Currently when a file is drag&dropped in a playlist  it is uploaded in the default library folderWith this feature, when a user drag&drops a file a popup will allow him to choose:the default foldera folder from the library
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/109-select-destination-folder-when-drag-drop-content,comeen
+Broadcast playlist accross multiple spaces,"Clients wants to be able to broadcast playlists on several spaces  and to manage everything from one headquarter space.We're introducing the notion of Organisation Unit (OU).The main space will have access to OUs' screen groups and will be able to link a playlist to a screen group from another space of the OU.
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/16-broadcast-playlist-accross-multiple-spaces,comeen
+Live TV feed,"Broadcast live TV on your screens
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/33-live-tv-feed,comeen
+Table widget in the Designer,"Organize your data in the shape of table  without having to organize everything manuallyFill that table with manual data or datasources
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/28-table-widget-in-the-designer,comeen
+Show playing content in realtime,"Display for a screen the realtime playing content
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/115-show-playing-content-in-realtime,comeen
+Using screen and profile metadata in templates,"The goal of this feature is to be able to use metadata in a designer's template  just like an external data source.It must be possible to select a metadata from a screen or a profile.The same template displayed on two different screens will therefore display a different content.If the metadata is not defined for a screen, the template must be displayed, leaving the fields using metadata empty.
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/38-using-screen-and-profile-metadata-in-templates,comeen
+Smart screen group,"Create screen groups automatically based on geolocation settings.For example Austin  TX group can be created automatically with screens geolocated in Austin, TX
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/25-smart-screen-group,comeen
+Any dashboard integration,"This Comeen Play content will allow broadcasting any dashboard by simulating a browser and taking screenshot of every dashboard pagesCredentials will need to be stored securely
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/113-any-dashboard-integration,comeen
+Tableau Online,"At the ability to broadcast a Tableau Online dashboard  as we already do with Google DataStudio https://blog.dynamicscreen.com/google-data-studio/
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/59-tableau-online,comeen
+Office 365 App,"The Office 365 App will let you broadcast :PowerPoint presentations Word documents,Excel worksheetsfrom your OneDrive or Sharepoint drives.
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/55-office-365-app,comeen
+Add tags to playlists,"Let users associate playlist to different tags.On the dashboard  you'll be able to sort playlist by tags.
+",https://portal.productboard.com/comeen/1-comeen-play-public-roadmap/c/49-add-tags-to-playlists,comeen

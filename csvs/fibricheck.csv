@@ -1,0 +1,9 @@
+Name,Description,Source Link,portalSourceName
+Re-activate patients from the dashboard,"💡 Use Case When there is an existing patient in your dashboard  and you would like to re-activate that patient without the need of creating and sending a new QR code. 
+",https://portal.productboard.com/fibricheck/1-fibricheck-roadmap/c/9-re-activate-patients-from-the-dashboard,fibricheck
+Physician Report,"The current report gives patients the necessary information in a clearly described way. However  we get that a lot of relevant data is missing for you as a GP. It's about time to change that! You can look forward to our new Physician summary report. Only accessible via the Physician Dashboard (Portal) and packed with insights you’ll love. 
+",https://portal.productboard.com/fibricheck/1-fibricheck-roadmap/c/22-physician-report,fibricheck
+Sort/filter patients in the patient list,"The patient list in the physician dashboard will be updated with a sorting/filtering functionality where patients can be filtered based on the last measurement and the last most severe measurement. It will be possible to filter based on color outcome (red  orange,..) and timestamp. Do you want for example to get a list of patients that had a red measurement today or x days ago. It will be all possible with this new option!
+",https://portal.productboard.com/fibricheck/1-fibricheck-roadmap/c/18-sort-filter-patients-in-the-patient-list,fibricheck
+Confirmatory measurements to support clinical decision making,"FibriCheck sees the need for confirmatory measurements when a patient is doing a first time (or the first X times  or after X duration) urgent measurement. This ""request to redo"" reduces the risk of the issues of false positives and it gives even more insights towards the diagnosis of a patient.
+",https://portal.productboard.com/fibricheck/1-fibricheck-roadmap/c/13-confirmatory-measurements-to-support-clinical-decision-making,fibricheck

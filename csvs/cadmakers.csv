@@ -1,0 +1,53 @@
+Name,Description,Source Link,portalSourceName
+Email notification - when users are added to projects,"Send e-mails to users when they are added to projects. 
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/76-email-notification-when-users-are-added-to-projects,cadmakers
+Floor Labels,"Labels to display building elevation details and map the visilibility to the milestones to help communicate planning and progress.
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/99-floor-labels,cadmakers
+Performance Debug/Notification Tab,"Notifications for if you are making a scenario too heavy  and letting you know how your hardware and performance is.
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/94-performance-debug-notification-tab,cadmakers
+Resource swap,"To enable the ability to swap to a different resource without redoing any configurations.
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/12-resource-swap,cadmakers
+Custom Resources,"You can now upload your own resources into cmBuilder!Go to Imported Mesh under Buildings (will rename/change in the future)Upload a GLB fileIn the Transformation tab  set the type to DynamicYou can now move the resource to different locations on different milestones(customized parametric controls not available at this point)
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/129-custom-resources,cadmakers
+Copy-paste all the things (sketched objects),"copy and paste your favourite sketched objects in builder. More efficiency  less drawing.Polyline resourcesMassing V23D LineZones
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/120-copy-paste-all-the-things-sketched-objects,cadmakers
+Progressive Rendering (hide small things to improve speed),"When set below 100%  when rotating your camera, not all of your imported model elements will recalculate, and will be hidden instead. This will make it faster to move around while working on your project.Does not apply to presentations or shared links.
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/90-progressive-rendering-hide-small-things-to-improve-speed,cadmakers
+Multi edit translation for massing,"Ability to move a group of massing elements together.
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/100-multi-edit-translation-for-massing,cadmakers
+Objects to highlight on hover,"Makes it easier to tell what you are clicking on.
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/140-objects-to-highlight-on-hover,cadmakers
+Cost manager & timeline,"Ability to tie costs to the site plan items. Things could include tying costs to: ResourcesOperationsDirectly to specific milestones
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/53-cost-manager-timeline,cadmakers
+Vectorized PDF & Snapping,"Bring in PDF (and eventually DWG/DFX) files and use the lines to derive your positioning and sketches.
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/114-vectorized-pdf-snapping,cadmakers
+Imported Models Mapped to Milestones 🏨📅,"Tie model element sequencing to a start milestone; to make it similar to how resource availability ranges are controlled.
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/43-imported-models-mapped-to-milestones,cadmakers
+Weekly  e-mail digest of activities,"An optional e-mail to get email digests for significant events. For example: a summary of when public link has been vieweda summary of number of comments in projects
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/77-weekly-e-mail-digest-of-activities,cadmakers
+Area measurement Tool,"Adding the ability to measure area in cmBuilder's set of review tools.
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/55-area-measurement-tool,cadmakers
+Edit projected images/zones/labels from 3D scene,"Prior to this feature  the only way to select a projected object, is to find it in the tree. This allows editing to stay within the 3D scene.
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/107-edit-projected-images-zones-labels-from-3d-scene,cadmakers
+Drawing Sets,"Be able to organize drawings by sets.
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/124-drawing-sets,cadmakers
+Instance Matching Resources (copies of resources run faster),"Placing a bunch of the same resource will now have a significant performance improvement!This is mainly around trees and other resource that you may want a lot of.
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/92-instance-matching-resources-copies-of-resources-run-faster,cadmakers
+Instance All Point Resources (copies of resources run faster  even if adjusted differently),"Expect significant performance improvements  if you FPS was slow due to having a bunch of resources.
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/128-instance-all-point-resources-copies-of-resources-run-faster-even-if-adjusted-differently,cadmakers
+Multi Edit for Start and End Dates (on resources),"Ability to bulk-edit From and To milestones for more than one resource. 
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/50-multi-edit-for-start-and-end-dates-on-resources,cadmakers
+Add & Edit Attributes/Properties,"Update your IFC Classes that were modelled incorrectlyAdd IFC Storey values to the temporary works on your buildingCreate new attributes in cmBuilder to group your objects
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/122-add-edit-attributes-properties,cadmakers
+Zones to conform to terrain,"Ability to project zones on terrain for topographic maps and excavation.
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/67-zones-to-conform-to-terrain,cadmakers
+Resource path animation with Visual Programming,"Enable the ability to animate resources  such as cars and trucks to follow a path using visual programming,
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/112-resource-path-animation-with-visual-programming,cadmakers
+Sketch Tool - Multiple Boundary,"Sketch tool improvement to allow for more than one polyline.
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/75-sketch-tool-multiple-boundary,cadmakers
+Grouping/Connecting Objects,"Group and edit items together without reselecting them over again! For example:Group resources to select and move togetherGroup labels and zones together
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/126-grouping-connecting-objects,cadmakers
+More file formats for schedule import,"Provide more options to the accepted file formats for importing schedules to create cmBuilder milestones.
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/84-more-file-formats-for-schedule-import,cadmakers
+Import Surroundings as Mesh,"To allow drone-scan data to quickly and easily get into cmBuilderShow your existing conditionsBring in accurate topography dataBring in GLB or OBJ (coming soon) files as objects for your siteplan
+",https://portal.productboard.com/cadmakers/1-cmbuilder-roadmap/c/86-import-surroundings-as-mesh,cadmakers

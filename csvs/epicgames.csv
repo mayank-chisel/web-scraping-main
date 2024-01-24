@@ -1,0 +1,95 @@
+Name,Description,Source Link,portalSourceName
+Animate objects using rigs within tracks,"Providing a framework that allows to animate object's TRS (Translation/Rotation/Scale) directly within a Twinmotion scene  based on animation systems.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1325-animate-objects-using-rigs-within-tracks,epicgames
+Make animation deterministic,"Establish a deterministic approach for managing animations across all systems. This will enable the production of identical animation sequences when generating media  allowing, for instance, the creation of two identical videos.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1333-make-animation-deterministic,epicgames
+TM Save TM projects to and open them from the cloud,"Saving your Twinmotion file in the cloud will mean that you always have access to the latest version of your projects at work  at home, or on the move. It will also enable more seamless collaboration with your team by ensuring there is a single source of truth for your project.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/742-tm-save-tm-projects-to-and-open-them-from-the-cloud,epicgames
+Rework library design,"improve global library design  filters, and details information.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1036-rework-library-design,epicgames
+Material Dock organization enhancements,"Add new options to better organize your materials.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1020-material-dock-organization-enhancements,epicgames
+Placement tools,"Added a wide range of tools (paint  scatter, path, volume) to scatter assets on large scale surfaces in an intuitive and fast way.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1321-placement-tools,epicgames
+Object Substitution for Revit,"Providing a method to substitute any Revit assets with Twnmotion ones.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1344-object-substitution-for-revit,epicgames
+Integrate Fab library,"Epic Games announced the upcoming launch of FAB  a new marketplace that will give all digital content creators a single destination to discover, share, buy and sell digital assets.Adding Fab library to Twinmotion will participate to Epic Ecosystem
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1034-integrate-fab-library,epicgames
+MetaHuman,"MetaHuman presets library available on Twinmotion.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/429-metahuman,epicgames
+Parallax windows,"Add a base material based on parallax mapping to add details through the windows for the interior of the buildingsThis new material will allow people to use their own textures.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1056-parallax-windows,epicgames
+Templates Archviz - Hero shots,"A template providing a quick way to render Hero videos and images of your project for your incoming client presentation or competition. 
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1133-templates-archviz-hero-shots,epicgames
+Smart grass material,"Added a Smart Grass materials in the Twinmotion material library. This materials allow scattering photorealistic grass by choosing across multiple presets.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1195-smart-grass-material,epicgames
+"Templates Archviz - Quick studies - Plan  elevation, section, axonometry, perspective","An architectural template to quickly export plans  sections, axonometric and perspective views of your project in just a few clicks.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1132-templates-archviz-quick-studies-plan-elevation-section-axonometry-perspective,epicgames
+Make snow and rain particles available in path tracer,"Make these particle systems visible in path tracer rendering.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1060-make-snow-and-rain-particles-available-in-path-tracer,epicgames
+File > Merge to include Media as an option,"When using the merge function  providing an option to import medias into the new scene.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1026-file-merge-to-include-media-as-an-option,epicgames
+Sounds Enhancements,"Make the audio available in video render.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/106-sounds-enhancements,epicgames
+Support vertex animation,"Enabling the support of vertex-based animations created in 3D software.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1334-support-vertex-animation,epicgames
+Twinmotion to Disguise,"Disguise is the platform for creatives and technologists to imagine  create and deliver spectacular live visual experiences. Disguise empowers brands, artists and production houses to tell stories that inspire their audiences.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/959-twinmotion-to-disguise,epicgames
+Templates Archviz - Cloud art gallery Demo,"Demo: A template to create and share your own art gallery in the cloud. It contains modular walls and frames  to create and adjust your custom 3d art gallery which can be shared online, as a panorama set or cloud presentation, to share your 3d projects, products and portfolio as virtual works of art.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1131-templates-archviz-cloud-art-gallery-demo,epicgames
+Guided Presentations,"Laying the groundwork for real-time multi-user presentations  Guided Presentations will allow multiple users to join the same Presentation over pixel streaming, controlled by the host. While the host will retain control over the nuances of the presentation, guests will have a streamlined experience without the distractions of the additional UI elements, to drive focus to what the host is presenting.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/741-guided-presentations,epicgames
+Improve Fabric base material,"Introduced a new approach for representing different types of fabrics by presenting two categories - standard fabric and thin fabric. This enable to create a wide range of textiles commonly found in the industry  including but not limited to cotton, linen, silk, wool, polyester, and velvet.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1035-improve-fabric-base-material,epicgames
+Import Cameras (Views) from Datasmith Scene,"Providing and option to import camera views with Datasmith scenes (Direct Link and udatasmith files)
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1027-import-cameras-views-from-datasmith-scene,epicgames
+Photometric Light Improvements with IES profiles,"Problem: Loading an IES file doesn’t auto adjust the light intensityLumens aren’t the most appropriate unit of measurement for IES files Proposals: Automatically load the intensity specified in the IES fileDisplay a 3d gizmo helping the previz of the light flux directionAdopt candelas as a default unit to fit industry standard.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/337-photometric-light-improvements-with-ies-profiles,epicgames
+Volumetric Clouds,"Improved cloud rendering  volumetric clouds allow for true 3D cloud cover
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1031-volumetric-clouds,epicgames
+Plugins access from the Home Panel,"Access all the information about the different plugins for Twinmotion  directly from the Home Panel. 
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1327-plugins-access-from-the-home-panel,epicgames
+Import animated lights (position/translation),"Enabling the seamless import of light motion from 3D software into Twinmotion. This feature is particularly useful for creating dynamic lighting effects in 3D scenes.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1331-import-animated-lights-position-translation,epicgames
+3Dconnexion: Mac support,"Provide support for 3D Connexion hardware on Mac platform to have equal functionality as current support on PC platform.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/964-3dconnexion-mac-support,epicgames
+Customize Keyboard Shortcuts,"Add the option to customize keyboard shortcut
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/91-customize-keyboard-shortcuts,epicgames
+Third-Person perspective,"Add the option to navigate your project using a third-person perspective.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1318-third-person-perspective,epicgames
+Camera animation rigs,"Provide animation systems  in the form of conveniently preconfigured rigs, as sets of helpers and parameters for easy utilization. An example of this is an orbiting camera.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1332-camera-animation-rigs,epicgames
+Ambient occlusion texture input,"Added a new ambient occlusion texture input on base materials.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1322-ambient-occlusion-texture-input,epicgames
+HDRI Background compositing,"Integrate a composite background image dissociated from the scene environment and lighting.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/556-hdri-background-compositing,epicgames
+Templates Archviz - Desert template,"Demo: A template providing a Desert natural environment already placed around a project with many assets and tools that can be quickly adjusted to fit your project. This template is an advanced starting point for creating an environment for your project.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1126-templates-archviz-desert-template,epicgames
+Templates Archviz - Nordic template,"Demo: A template providing a Nordic natural environment already placed around a project with many assets and tools that can be quickly adjusted to fit your project. This template is an advanced starting point for creating an environment for your project.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1128-templates-archviz-nordic-template,epicgames
+Organizing imported animations within tracks,"Providing an intuitive interface based on a tracks system  that empowers users to seamlessly organize imported animations and synchronize camera movements within a scene, all in a chronological sequence.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1323-organizing-imported-animations-within-tracks,epicgames
+Changing Materials in Presenter,"Add a new option inside Twinmotion editor to save multiple material variants on the same object. This option will specially be usefull in Presenter mode where you will be able to select an object and change its material based on the preset you created in Twinmotion.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/112-changing-materials-in-presenter,epicgames
+Chromatic aberration,"Chromatic aberration is a effect that simulates the color shifts in real-world camera lenses. The effect is mostly noticeable near the edges of the image.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1032-chromatic-aberration,epicgames
+Audio representation within tracks,"Representations of an audio sequence integrated within a set of tracks  such as in a timeline or a sequence, to control and synchronize audio events with other media elements.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1336-audio-representation-within-tracks,epicgames
+Foliage base material,"Added a Foliage base material for imported user vegetations models.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1196-foliage-base-material,epicgames
+Template Footwear,"A template that provides different ambiances  with specific lighting scenarios, to showcase your shoes (or small-scale assets) on different kinds of floors/surfaces. 
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1081-template-footwear,epicgames
+Filmback options,"Add Filmback options in the settings to replicate accurately real-world cameras. Filmback is the size of the area that is used to capture the image  it defines the crop factor applied to the focal length and the aspect ratio of your final image.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1329-filmback-options,epicgames
+Import animated camera,"Enabling the seamless import of camera motion from a 3D software into Twinmotion  enhancing the creative possibilities for users.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1330-import-animated-camera,epicgames
+Bloom convolution,"Added more power to manage the Bloom convolution effects by providing more controls and a dedicated library of kernel textures presets.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1319-bloom-convolution,epicgames
+Volume triggers,"Initiating the process of enhancing interactivity within Twinmotion  we're introducing volume triggers as an initial step to enable the activation of interactive sequences.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1335-volume-triggers,epicgames
+Activate and expose parallax for Decals,"Offered a way to input a heightmap on the Normal section of the decals to achieve a parallax effect.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1320-activate-and-expose-parallax-for-decals,epicgames
+Copy / Paste Settings Between Images,"Add a new option copy and paste settings between images and videos
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/119-copy-paste-settings-between-images,epicgames
+Drag and drop library materials in the Material Dock,"Add the possibility to drag and drop materials from the library directly inside the materials dock without the need to first apply them in the viewport.
+",https://portal.productboard.com/epicgames/3-twinmotion-public-roadmap/c/1324-drag-and-drop-library-materials-in-the-material-dock,epicgames

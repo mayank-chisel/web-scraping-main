@@ -1,0 +1,73 @@
+Name,Description,Source Link,portalSourceName
+Speech friendly responses for Generative Answers,"Ability for Generative Answers to populate a response that is speech friendly into the speech response in the message returned back to the user.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/68-speech-friendly-responses-for-generative-answers,conversationalai
+Chinese Language Support,"Support for Mandarin Chinese
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/47-chinese-language-support,conversationalai
+Webchat Experience for Sharepoint,"Easily deploy your bot into a Sharepoint webpart.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/54-webchat-experience-for-sharepoint,conversationalai
+Greek Language Support,"Language support for Greek in PVA
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/49-greek-language-support,conversationalai
+Chat Transcript Replay,"The ability to replay transcripts in the viewer and or as test cases against your bot.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/44-chat-transcript-replay,conversationalai
+Proactive Conversation Starting,"Ability to initiate a conversation for a user in a proactive manner.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/29-proactive-conversation-starting,conversationalai
+Single Bot Multi-Language Support,"Ability to have a single PVA bot that can support more than one language without the need to have separate bots.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/9-single-bot-multi-language-support,conversationalai
+File upload for Generative Answers,"Ability to upload a file or set of files to PVA to be used as the source for Generative Answers.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/62-file-upload-for-generative-answers,conversationalai
+Export / Extend Bot Telemetry Data to Data Pipleline,"Providing out of the box support for extended data pipelines for PVA. This would make it easier to build custom analytics and data learning models.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/43-export-extend-bot-telemetry-data-to-data-pipleline,conversationalai
+PVA as a BF Skill,"Allows for a Power Virtual Agent bot to be used as a skill with Bot Framework bots
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/17-pva-as-a-bf-skill,conversationalai
+Czech Language Support,"Add Czech language as a supported language for PVA.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/39-czech-language-support,conversationalai
+Customize DYM wording,"The ability to customize the Did You Mean experience for topic disambiguation.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/22-customize-dym-wording,conversationalai
+PVA / OC metrics alignment,"Alignment between metrics for Dynamics for Customers Service Omni-Channel and Power Virtual Agents.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/31-pva-oc-metrics-alignment,conversationalai
+Copy / Paste Dialog in Authoring Experience,"Ability to do copy and paste in the PVA Authoring Canvas.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/30-copy-paste-dialog-in-authoring-experience,conversationalai
+PVA Editor Adaptive Cards Authoring,"Ability to Author Adaptive Cards directly in the PVA Authoring Canvas.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/16-pva-editor-adaptive-cards-authoring,conversationalai
+PVA to PVA bot partitioning (Parent / Child support),"The ability to have a PVA bot call another PVA bot in a parent and child relationship.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/34-pva-to-pva-bot-partitioning-parent-child-support,conversationalai
+Authoring Canvas Theming,"Ability to provide your own theme to the Authoring canvas. Example: Corporate branding and CSS
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/53-authoring-canvas-theming,conversationalai
+Adaptive Card 1.3+ Support,"Adding support for Adaptive Cards beyond version 1.2 to PVA.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/42-adaptive-card-1-3-support,conversationalai
+Configurable Timeout of Conversations,"The ability to configure at a bot-level the timeout of a conversation. Today it is set to 30 minutes.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/33-configurable-timeout-of-conversations,conversationalai
+Hungarian Language Support,"Support in PVA for Hungarian Language
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/51-hungarian-language-support,conversationalai
+Thai Language Support,"Support of the Thai language for PVA
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/48-thai-language-support,conversationalai
+Clone bots in the same environment,"PVA to provide a way to duplicate the same bot in a single environment including power automate flows.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/57-clone-bots-in-the-same-environment,conversationalai
+PVA Telephony Channel Support,"Provide the ability to integrate my PVA bot with telephony. User will be able to call their bot on the phone and author bots for telephony experiences.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/24-pva-telephony-channel-support,conversationalai
+Generative Answers remove references / citations,"Ability to remove citations and/or references from responses from Generative Answers.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/64-generative-answers-remove-references-citations,conversationalai
+Node-level Analytics,"Ability to get analytics of how a user is passed through nodes.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/46-node-level-analytics,conversationalai
+Billing Analytics for PVA Admins,"Ability for PVA Admins to better understand Billing Analytics and Reporting for Bots.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/26-billing-analytics-for-pva-admins,conversationalai
+Description of knowledge source to be considered in Generative Answers response,"Ability to provide a description of the knowledge content provided to PVA for use with Generative Answers and that be taken into consideration when generating responses to the user.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/69-description-of-knowledge-source-to-be-considered-in-generative-answers-response,conversationalai
+Topic-Level Versioning,"Release history and republish  Historical version selection per topic; Topic level auditing.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/13-topic-level-versioning,conversationalai
+Customize the tone of generative AI responses in my bot,"Ability to adjust the way that generative AI features respond by changing or setting the tone of the response.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/61-customize-the-tone-of-generative-ai-responses-in-my-bot,conversationalai
+DYM support for channels that don't support suggested actions,"Did you mean feature that handles disambiguation of topics currently doesn't support channels that don't support suggested actions. This feature would allow suggested actions to be translated to text and provided to channels that don't support suggested actions natively.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/11-dym-support-for-channels-that-don-t-support-suggested-actions,conversationalai
+Enable / Disable Bot Publishing at Environment Level for generative AI features,"Admin will be able to enable or disable bot publish when PVA generative AI features are enabled.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/70-enable-disable-bot-publishing-at-environment-level-for-generative-ai-features,conversationalai
+Adjust the summarization results to be more or less verbose,"Ability to determine the length of responses from Generative Answers to make it more or less verbose.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/67-adjust-the-summarization-results-to-be-more-or-less-verbose,conversationalai
+Hebrew Language Support,"PVA support for the Hebrew language
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/52-hebrew-language-support,conversationalai
+Customize System Topics,"Ability to Customize System Topics in PVA.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/28-customize-system-topics,conversationalai
+Custom filtering of responses to not include specific response types,"Ability to stop the bot from generating responses to a bot author's list of topics.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/65-custom-filtering-of-responses-to-not-include-specific-response-types,conversationalai
+Topic Import / Export,"Ability to do Topic-Level Import and Export of Dialogs / Topics within PVA Canvas.
+",https://portal.productboard.com/conversationalai/1-microsoft-pva-feature-requests/c/15-topic-import-export,conversationalai

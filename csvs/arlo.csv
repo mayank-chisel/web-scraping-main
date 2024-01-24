@@ -1,0 +1,45 @@
+Name,Description,Source Link,portalSourceName
+Ability to upload attachments at checkout (pictures and documents),"Something that has been brought to our attention is that some customers would like the ability for end users to upload files during the checkout process  such as documents or images.Let us know if this would be useful to you.
+",https://portal.productboard.com/arlo/1-product-portal/c/32-ability-to-upload-attachments-at-checkout-pictures-and-documents,arlo
+Add waiting lists contacts as leads,"An idea we've had is to automatically add users on course waiting lists as leads when the course they were on the list for ends (if they did not get a place on their chosen course). Let us know how this could work for you!
+",https://portal.productboard.com/arlo/1-product-portal/c/33-add-waiting-lists-contacts-as-leads,arlo
+Partial Payments - Phase Two: Deposits,"Arlo now allows you to set and accept deposits during checkout. This allows your customers to pay part of the total price of the event upfront to secure their registration  and then pay the balance at a set time in the future.For more information see our Support Articles here.Please let us know what you like and don't like about how this feature is currently working.
+",https://portal.productboard.com/arlo/1-product-portal/c/24-partial-payments-phase-two-deposits,arlo
+Lead form customisation,"You now have the ability to customise each of your website lead forms directly from within the management platform. Change headers and messages  and add new fields and sections.Visit our Help Centre to learn more.
+",https://portal.productboard.com/arlo/1-product-portal/c/42-lead-form-customisation,arlo
+Google - Ability to activate Tag Manager within the platform,"We would move the Google integrations page to a more accessible part of the platform  thus giving all customers the ability to activate Google Tag Manager as required.
+",https://portal.productboard.com/arlo/1-product-portal/c/59-google-ability-to-activate-tag-manager-within-the-platform,arlo
+Google - Support cross domain tracking for GA4 and Tag Manager,"As Universal Analytics is being deprecated at the end June 2023  we are improving our integration to support cross domain tracking for GA4 via Tag Manager.
+",https://portal.productboard.com/arlo/1-product-portal/c/61-google-support-cross-domain-tracking-for-ga4-and-tag-manager,arlo
+Zoom Integration - Phase One,"Phase One of our native integration with Zoom is now live! Arlo users can now create Zoom meetings from within Arlo. Learn more by reading our Support Articles here.Please let us know what you like and don't like about how this feature is currently working.
+",https://portal.productboard.com/arlo/1-product-portal/c/12-zoom-integration-phase-one,arlo
+Zoom integration - Phase Two,"Instead of the same URL for all registrants  that can potentially be shared with a person who didn't register (or pay) for the event, this feature will send each registrant a unique URL to join the Zoom meeting. Registration details are automatically sent to Zoom so that your registrants only have to register once, and at the end of the event Zoom can send the attendance details automatically to Arlo.
+",https://portal.productboard.com/arlo/1-product-portal/c/26-zoom-integration-phase-two,arlo
+Zapier - Elearning Registrations,"We're building out the Zapier Triggers to allow elearning registrations to connect to other apps  for example LMSs, via Zapier. You can check out all of our current integration templates here.We would love to hear if this could be useful to you, and what applications you are connecting to via Zapier! 
+",https://portal.productboard.com/arlo/1-product-portal/c/29-zapier-elearning-registrations,arlo
+Configure reminders for sessions,"With the rise of Multi-Session events  we're looking to enhance our Event Reminders functionality so that Reminders can be configured against Sessions as well as Events.
+",https://portal.productboard.com/arlo/1-product-portal/c/23-configure-reminders-for-sessions,arlo
+Create a bundle of courses,"We're building a new web control that will allow a user to easier promote  sell, and take registrations for a bundle of courses at a fixed price. 
+",https://portal.productboard.com/arlo/1-product-portal/c/58-create-a-bundle-of-courses,arlo
+Partial Payments - Phase One,"Arlo has introduced our new Partial Payments order functionality. Some of the benefits that your team will experience include:The ability to add partial payments to an orderThe ability to create credit notes (full and partial) for unpaid ordersThe ability to allocate a credit balance to a separate order  as an alternative to a cash refundImproved processes for transfers between events with different pricesFor more information about the new functionality, please reference our Help Centre to learn more about managing existing orders and order cancellations, refunds, and credit notes.
+",https://portal.productboard.com/arlo/1-product-portal/c/40-partial-payments-phase-one,arlo
+New settings page design,"A simple fix - tidying up the organisation of the items in our Settings page  so items are logically grouped and easier to find.
+",https://portal.productboard.com/arlo/1-product-portal/c/45-new-settings-page-design,arlo
+Google - Ability to block Arlo Website from indexing in Google,"We are investigating adding a setting to allow customers to block their Arlo Website from indexing in Google.This is useful for customers who have external websites and also customers who use Arlo Website who only run internal training (and do not want to advertise the courses widely online).
+",https://portal.productboard.com/arlo/1-product-portal/c/60-google-ability-to-block-arlo-website-from-indexing-in-google,arlo
+Overdue payment reminders,"A few customers have mentioned that they would like the ability to send automated reminders for overdue payments from within Arlo. Let us know if this functionality would help you!
+",https://portal.productboard.com/arlo/1-product-portal/c/31-overdue-payment-reminders,arlo
+Arlo Website - Customise favicon,"Adding your own favicon to your Arlo Website allows you to brand your Arlo Website further.
+",https://portal.productboard.com/arlo/1-product-portal/c/62-arlo-website-customise-favicon,arlo
+Webhook when an organisation is created,"Having an organisation created webhook will enable developers to synchronise external systems will Arlo quicker and easier.
+",https://portal.productboard.com/arlo/1-product-portal/c/64-webhook-when-an-organisation-is-created,arlo
+Email branding,"As the first stage of our Flexible communications project  email branding editing enables you to align Arlo automated emails with your brand easily. Customise colours, banner images, logos, and font styles so your communications out of Arlo are consistent with your brand.
+",https://portal.productboard.com/arlo/1-product-portal/c/13-email-branding,arlo
+Zapier - Beta Integration,"We've built out Zapier Triggers based on:A New Contact created in ArloAn existing Contact being updated in ArloWe've also built out Actions in Zapier  so that users can connect 3rd party to applications to :Create a new Contact in ArloEdit an existing contact in ArloMore information is available in our Support Articles here, or you can check out all of our integration templates here.We would love to hear from anyone using these Triggers and Actions to see if they are doing everything you expect, and whether we can do anything to improve how they work with Zapier.We'd also love to hear what Applications you are connecting to via Zapier!
+",https://portal.productboard.com/arlo/1-product-portal/c/18-zapier-beta-integration,arlo
+Organisation updated webhook,"Having an organisation updated webhook will enable developers to synchronise external systems will Arlo quicker and easier.
+",https://portal.productboard.com/arlo/1-product-portal/c/65-organisation-updated-webhook,arlo
+Event session details in Zapier,"Event session details are now available on Event and Registration triggers.
+",https://portal.productboard.com/arlo/1-product-portal/c/52-event-session-details-in-zapier,arlo
+Moodle v4.1,"Arlo for Moodle now supports Moodle 4.1! Arlo for Moodle allows you to promote and sell self-paced online  face-to-face, live online, and blended courses. To download the latest version of Arlo for Moodle, visit https://moodle.org/plugins/enrol_arlo.
+",https://portal.productboard.com/arlo/1-product-portal/c/63-moodle-v4-1,arlo

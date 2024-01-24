@@ -1,0 +1,9 @@
+Name,Description,Source Link,portalSourceName
+When rehiring set re-hire date,"Currently you Cannot set rehire date  it defaults to current date
+",https://portal.productboard.com/orangehrm-core/7-employee-management/c/52-when-rehiring-set-re-hire-date,orangehrm-core
+Prevent conflicting service periods (when changing joined date and terminating),"Jira Story and linked defectsScenarios Document
+",https://portal.productboard.com/orangehrm-core/7-employee-management/c/64-prevent-conflicting-service-periods-when-changing-joined-date-and-terminating,orangehrm-core
+Termination to happen end of the termination date,"As at now  when the date occurs, the employee gets terminated first time the task runs without waiting till the end of the day. Employment should be active till teh end of the day and only at the end of the day he/she should get terminated.
+",https://portal.productboard.com/orangehrm-core/7-employee-management/c/51-termination-to-happen-end-of-the-termination-date,orangehrm-core
+Employee Dashboard,"Upon clicking on an employee  in Employee List, the system takes the user to an Employee Dashboard from which all employee related details from all modules are shown summarized as in a dashboard. Upon clicking the links, the user is taken to respective screens in other modules to access the selected employee's details.
+",https://portal.productboard.com/orangehrm-core/7-employee-management/c/53-employee-dashboard,orangehrm-core

@@ -1,0 +1,83 @@
+Name,Description,Source Link,portalSourceName
+Strava,"As a coach I can see data from my clients Strava app in TrueCoach.
+",https://portal.productboard.com/truecoach/1-product-portal/c/42-strava,truecoach
+Make Skeleton plan visible to clients on iOS,"As a client I can see the skeleton structure that my coach has outlined.
+",https://portal.productboard.com/truecoach/1-product-portal/c/47-make-skeleton-plan-visible-to-clients-on-ios,truecoach
+Admins/Org owner can message all clients within an organization,"As an organization owner I can send a message to all clients in the organization.
+",https://portal.productboard.com/truecoach/1-product-portal/c/36-admins-org-owner-can-message-all-clients-within-an-organization,truecoach
+Global User model,"Clients can work with multiple coaches.
+",https://portal.productboard.com/truecoach/1-product-portal/c/16-global-user-model,truecoach
+Custom permissions for coaches on Team accounts,"As an organization owner I would like to set specific permissions for coaches on my team (eg. only view certain clients).
+",https://portal.productboard.com/truecoach/1-product-portal/c/46-custom-permissions-for-coaches-on-team-accounts,truecoach
+Ability to copy skeletons/planning from client to client,"As a coach I can utilize a skeleton planning template for multiple clients.
+",https://portal.productboard.com/truecoach/1-product-portal/c/32-ability-to-copy-skeletons-planning-from-client-to-client,truecoach
+Apple Health,"As a coach I can see data from my clients Apple Health in TrueCoach.
+",https://portal.productboard.com/truecoach/1-product-portal/c/44-apple-health,truecoach
+Support Youtube Short Links,"We now support Youtube short links in the exercise library!
+",https://portal.productboard.com/truecoach/1-product-portal/c/55-support-youtube-short-links,truecoach
+Calculate Volume and Intensity,"As a client I can enter in my weight lifted and total number of sets and reps.As a coach I can see the total load my clients lifted in a session.
+",https://portal.productboard.com/truecoach/1-product-portal/c/14-calculate-volume-and-intensity,truecoach
+Subscription & Payments Experience,"As a coach  I want to efficiently add paying clients into my TrueCoach payments ecosystem and manage my business in one place. Currently this is possible but not efficient.
+",https://portal.productboard.com/truecoach/1-product-portal/c/56-subscription-payments-experience,truecoach
+Referral Code Updates,"Coach referrals payout increased to $100!
+",https://portal.productboard.com/truecoach/1-product-portal/c/18-referral-code-updates,truecoach
+Ability to organize Programs,"As a coach I have a way to easily find my programs.
+",https://portal.productboard.com/truecoach/1-product-portal/c/37-ability-to-organize-programs,truecoach
+Coach Profiles + Lead Management,"As a coach  I have a public facing profile where clients can sign up for my coaching service.I can manage my leads and ship clients into my TrueCoach account.
+",https://portal.productboard.com/truecoach/1-product-portal/c/26-coach-profiles-lead-management,truecoach
+International payments,"As a coach outside the US  I can create a Payments account in TrueCoach.
+",https://portal.productboard.com/truecoach/1-product-portal/c/39-international-payments,truecoach
+Add exercises that  have no effect on compliance rates,"As a coach I can mark an exercise as optional. If a client does not complete the workout it will not negatively impact compliance rating.
+",https://portal.productboard.com/truecoach/1-product-portal/c/31-add-exercises-that-have-no-effect-on-compliance-rates,truecoach
+Client Info Report,"As a coachI can request a report that contains the info of all my active or archived clients. 
+",https://portal.productboard.com/truecoach/1-product-portal/c/13-client-info-report,truecoach
+Filtering & Pagination-Programs,"As a coach when I view my programs I receive a paginated list of results and I can sort and filter to find the programs I want.
+",https://portal.productboard.com/truecoach/1-product-portal/c/17-filtering-pagination-programs,truecoach
+Email reminder for client's birthdays,"As a coach I can set up an email notification for important events like a client birthday.
+",https://portal.productboard.com/truecoach/1-product-portal/c/19-email-reminder-for-client-s-birthdays,truecoach
+Workout Dashboard,"As an athlete  I want to have an overview of my progress, upcoming workouts and important information as soon as I open the app.
+",https://portal.productboard.com/truecoach/1-product-portal/c/54-workout-dashboard,truecoach
+Allow clients to print workouts,"As a coach  I can enable my clients to download or export their workout history.
+",https://portal.productboard.com/truecoach/1-product-portal/c/33-allow-clients-to-print-workouts,truecoach
+Average of a Metric for a time frame,"As a coach I can see the average number for a metric over a given time frame.
+",https://portal.productboard.com/truecoach/1-product-portal/c/15-average-of-a-metric-for-a-time-frame,truecoach
+Compliance Report for given time frame,"As a coach I can view a client or groups compliance rate for a set date range.
+",https://portal.productboard.com/truecoach/1-product-portal/c/27-compliance-report-for-given-time-frame,truecoach
+Scoring Metrics in Exercise Builder,"As a coach  I need to quickly and effortlessly tie a scoring type and target to an exercise when I'm building workouts programs.
+",https://portal.productboard.com/truecoach/1-product-portal/c/52-scoring-metrics-in-exercise-builder,truecoach
+International Languages,"Support a variety of language options for coaches and clients.
+",https://portal.productboard.com/truecoach/1-product-portal/c/21-international-languages,truecoach
+Whoop,"As a coach I can see data from my clients Whoop in TrueCoach.
+",https://portal.productboard.com/truecoach/1-product-portal/c/43-whoop,truecoach
+Calendar view for workouts,"A calendar view for workouts on the IOS app instead of just a list view
+",https://portal.productboard.com/truecoach/1-product-portal/c/48-calendar-view-for-workouts,truecoach
+Automated/Scheduled Messages,"As a coach  I can save messages that I use repeatedly with clients. I can schedule these messages to send when they triggered by key events.(eg. New client added triggers welcome message)
+",https://portal.productboard.com/truecoach/1-product-portal/c/35-automated-scheduled-messages,truecoach
+Allow 1 day visibility,"As a coach I have a setting that only allows clients same day visibility.
+",https://portal.productboard.com/truecoach/1-product-portal/c/22-allow-1-day-visibility,truecoach
+Organization of Documents,"As a coach I can quickly find the document I am looking for with folders  tags, or filters.
+",https://portal.productboard.com/truecoach/1-product-portal/c/25-organization-of-documents,truecoach
+Completed workout report,"As a coach I can see how many workouts a client completed for a given time frame.
+",https://portal.productboard.com/truecoach/1-product-portal/c/28-completed-workout-report,truecoach
+FitBit,"As a coach I can see data from my clients FitBit in TrueCoach.
+",https://portal.productboard.com/truecoach/1-product-portal/c/41-fitbit,truecoach
+Search capabilities for notifications,"Allow searching abilities and the ability to filter by groups in notifications.
+",https://portal.productboard.com/truecoach/1-product-portal/c/20-search-capabilities-for-notifications,truecoach
+Ability to Disable Specific Features,"As a coach  I can disable certain features that I don't intend to use with my clients.(eg. Messaging, progress pictures, metrics)
+",https://portal.productboard.com/truecoach/1-product-portal/c/23-ability-to-disable-specific-features,truecoach
+Payments Export,"I can pull a detailed financial report across all my client's subscriptions for a given date range.
+",https://portal.productboard.com/truecoach/1-product-portal/c/12-payments-export,truecoach
+Streamlined Coach Navigation,"As a coach  I need to be able to quickly understand where things are throughout the TrueCoach product in a standard way. As a new user of TrueCoach, I want to quickly be able to browser the features and see the breadth of the TrueCoach application to help with the onboarding process.
+",https://portal.productboard.com/truecoach/1-product-portal/c/57-streamlined-coach-navigation,truecoach
+Progress Photos Redesign,"As an athlete  I want to have a useful way to see my progress and be able to share it easily on social media.
+",https://portal.productboard.com/truecoach/1-product-portal/c/58-progress-photos-redesign,truecoach
+Allow Clients to enter/edit goals,"Clients can edit their goals.
+",https://portal.productboard.com/truecoach/1-product-portal/c/30-allow-clients-to-enter-edit-goals,truecoach
+Allow comments/notes on each workout item,"As a coach I can comment on an individual workout item (not just the workout as a whole).
+",https://portal.productboard.com/truecoach/1-product-portal/c/29-allow-comments-notes-on-each-workout-item,truecoach
+Make Group Tags Global across Team,"Currently  Groups are unique to the coach that creates them. Other coaches can not use the same group tags other coaches on the team create. 
+",https://portal.productboard.com/truecoach/1-product-portal/c/45-make-group-tags-global-across-team,truecoach
+Trackable Exercise Feedback,"As an athlete  I want to quickly input my exercise results and track my progress.
+",https://portal.productboard.com/truecoach/1-product-portal/c/53-trackable-exercise-feedback,truecoach
+Subscription Hold Feature,"As a coach  I can put my clients subscription on hold.
+",https://portal.productboard.com/truecoach/1-product-portal/c/40-subscription-hold-feature,truecoach

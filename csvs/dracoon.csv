@@ -1,0 +1,104 @@
+Name,Description,Source Link,portalSourceName
+Enhanced identity security with MFA,"DRACOON already provides possibilities to connect your IdP of choice via OpenID. This is of limited use for external users who should only be created locally but sign in with the same security as an internal user and authenticate with multi-factors. Please let us know how important this is for you!
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/36-enhanced-identity-security-with-mfa,dracoon
+racoon-roadmap/c/40-push-notifications-web-app-windows-mac,dracoon
+User Management - add individual fields,"As an admin I want to be able to individually define custom fields which can be maintained on user level and by each user himself. Also it should be possible then to sort and filter the users according to those fields.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/76-user-management-add-individual-fields,dracoon
+Data room notifications include also sub data rooms,"As a user i want to be able to define on a specific data room that a set up notification should include all sub data rooms which are created in this specific data room. 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/70-data-room-notifications-include-also-sub-data-rooms,dracoon
+Connecting Software - digital sealing of documents,"
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/68-connecting-software-digital-sealing-of-documents,dracoon
+Global recycle bin retention,"As a central DRAOCON config manager it is necessary to define for a DRACOON environment recycle bin retention periods  to ensure GDPR compliant file deletion. At the moment each data room administrator can define this for his data rooms by himself and the default setting for new data rooms is unlimited retention of file in the recycle bin.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/63-global-recycle-bin-retention,dracoon
+Configurable token timeouts,"In order to comply with company policies  DRACOON is currently working on configurable token timeouts for user session: Define the time period after which an access or refresh token expires as a global setting for your tenant with this upcoming feature.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/31-configurable-token-timeouts,dracoon
+Notifications when near quota limit,"When a data room got a quota limit which is nearly reached (e.g. 85 %) I want to be notified  so I can remove unnecessary files.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/74-notifications-when-near-quota-limit,dracoon
+Prevent upload of malicious files powered by GDATA,"By working on this feature  DRACOON is planning to integrate the leading service of GDATA for secure and GDPR-compliant scanning of malicious files to prevent them from being distributed via DRACOON. This is just another step to make the world a bit more save in cyber security
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/56-prevent-upload-of-malicious-files-powered-by-gdata,dracoon
+Web Hooks,"Web Hooks will significantly extend integration possibilities for DRACOON: Call specific URLs triggered by provisioning  admin or user events like customer creation or deletion, user creation or deletion or file creation in a data room. There are countless options to trigger events based on actions inside DRACOON. 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/29-web-hooks,dracoon
+Tree view for data room structure,"As a user I want to be able to navigate through deeply nested room structures within one view so that I can find content easily.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/78-tree-view-for-data-room-structure,dracoon
+Support of DICOM files,"DICOM® (Digital Imaging and Communications in Medicine) is the international standard format to transmit  store, retrieve, print, process, and display medical imaging information.DRACOON is working on the integration of a DICOM viewer, so that DICOM images and its layers are displayed in the detail view and no dedicated desktop software has to be used instead.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/42-support-of-dicom-files,dracoon
+Scan documents via Android app,"With this feature you can convert images taken by my Android device to pdf and upload them to DRACOON ('scan'). So you can digitalize relevant documents quickly.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/52-scan-documents-via-android-app,dracoon
+Print to Dracoon,"DRACOON adds an easy and convenient way to upload files to DRACOON from any application by using the print mechanism via a Virtual Printer Driver. You will be able to save it as a PDF  PDF/A or JPEG, add classification and retention, add watermark, trigger digital sealing, share it instantly via DRACOON share links... 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/46-print-to-dracoon,dracoon
+Move data rooms to a recycle bin when deleting them,"Currently when deleting a data room  the specific room gets permanently deleted and restoring necessary file can only be done via HelpDesk tickets from our central backup.In future data rooms should also be moved to a recycle bin instead of instantly deleting them 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/75-move-data-rooms-to-a-recycle-bin-when-deleting-them,dracoon
+Online editing of Office documents,"DRACOON already provides the convenient way of editing all kind of file types including Office documents using the DRACOON for Windows or Mac client. We plan to support the online editing of Office documents (Word  Powerpoint, Excel). Please let us know how important this is for you
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/44-online-editing-of-office-documents,dracoon
+Disable share link on wrong password entry,"As a company I want to make sure that a download link is disabled when the wrong password has been entered x times in a row
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/67-disable-share-link-on-wrong-password-entry,dracoon
+Consume share links in all apps,"Received share links may be opened with the OS native apps instead the web browser for more convenient use esp. on mobile devices.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/59-consume-share-links-in-all-apps,dracoon
+Mentions in comments,"Comments are an efficient way to collaborate on files - with our upcoming notifications feature we also want to go one step further: Mention colleagues  notify them or request updates directly in DRACOON. Receive an e-mail if you have been mentioned and keep informed on the thread by subscribing to it. 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/39-mentions-in-comments,dracoon
+Use DRACOON in MS Teams in a dedicated tab,"MS Teams is structuring the content via different tabs in a team. DRACOON plans to integrate its feature of the DRACOON WebApp seamless into a MS Teams tab. Collaboration never was that easy as before.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/57-use-dracoon-in-ms-teams-in-a-dedicated-tab,dracoon
+Fulltext search and online preview powered by Intrafind,"Empowering your search and getting more insights and knowledge out of your stored files at DRACOON.Intrafind also allows to preview up to 200 different file types in a browser. 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/77-fulltext-search-and-online-preview-powered-by-intrafind,dracoon
+JavaScript SDK,"With the first release of a the JavaScript SDK DRACOON will empower developers everywhere to create customized and tailored web-based solutions based on client requirements. 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/22-javascript-sdk,dracoon
+"Easier accessibility of imprint  privacy policy, eula and support-documentation","This will easier visible links to imprint  privacy policy, eula and support in the bottom left corner in our DRACOON WebApp.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/64-easier-accessibility-of-imprint-privacy-policy-eula-and-support-documentation,dracoon
+e-Signature,"With the integration of an e-Signature solution we will give the user the possibilty to initiate a signing process for a document from within DRACOON and store the signed document securely in DRACOON when the signing process has finished.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/43-e-signature,dracoon
+Guest users,"With guest users  DRACOON wishes to provide an easy-to-use method to securely collaborate with external partners. Guest users will have certain permission restrictions by default, ensuring compliance with corporate policies.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/38-guest-users,dracoon
+Custom Classifications of files and data rooms,"With this feature the following options will be available to define custom classificationsAdd/remove classifications (dynamic number of classifications)Configure classifications (naming (localizations)  coloring)Prioritize classifications (bring them in order)
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/60-custom-classifications-of-files-and-data-rooms,dracoon
+Branded Emails,"Adapt system emails to your corporate design and increase trust of your end-users: With email branding it will be possible to customize emails. 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/28-branded-emails,dracoon
+Search for files in recycle bin,"Having this feature in place  finding the right file in the data room recycle bin will be much easier. 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/58-search-for-files-in-recycle-bin,dracoon
+Sandboxing files via G-DATA,"Receiving executable files or office files containing macros means a high risk to you and your IT-ogranisation. Letting such files been executed in a safe environment and receive a report of what has happened  before the file reaches your client devices and enters your infrastructure can be helpful. 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/72-sandboxing-files-via-g-data,dracoon
+DRACOON for Outlook: Full Email Body Encryption,"DRACOON for Outlook could soon provide a much-desired capability: Protect your email body by using a password-protected share link and ensure your messages arrive securely. Let us know what you think!
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/32-dracoon-for-outlook-full-email-body-encryption,dracoon
+Sync-Client access file versions,"With this feature you can access previous file versions easily using our desktop integration. The sync client therefor allows you to choose which file version you would like to restore.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/53-sync-client-access-file-versions,dracoon
+Upload new documents and share directly via MS Teams,"Choose any local file and directly upload and share it via DRACOON with your colleagues. Collaborating in MS Teams was never so easy and secure at the same time.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/55-upload-new-documents-and-share-directly-via-ms-teams,dracoon
+Login screen authentication button caption freely definable,"As an config manager I want to be able to freely define how the button captions of OpenID Connect providers should be named.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/66-login-screen-authentication-button-caption-freely-definable,dracoon
+Default settings for upload shares in DRACOON for Outlook,"The user should be allowed to provide default settings for upload shares in the settings dialog with the options (always ask  ask only password, always use default settings).
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/61-default-settings-for-upload-shares-in-dracoon-for-outlook,dracoon
+Temporary locked users,"Instead of deleting a user after given time (Expiration date)  user should be locked. This avoids issues with last data room admin or unnecessary recreation scenarios.Use case: give users given time frame to comply with paperwork etc. - non-compliance then leads to locking instead of account deletion.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/65-temporary-locked-users,dracoon
+Profile Pictures,"With Profile Pictures the user profile comes to life: set your desired profile picture and facilitate collaboration on comments  group or data room permission dialogs.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/20-profile-pictures,dracoon
+Synchronise user groups from identity provider,"Using managed user groups in an identity provider it shall be possible to synchronise these via OpenID Connect to groups in DRACOON and keep them up to date. This will boost your identity and access management and integrate DRACOON deeper into your central role and authorisation management in your company 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/69-synchronise-user-groups-from-identity-provider,dracoon
+Allow static reports to be created,"As an auditor I want to be able to report static data room information. This can something like privileges of a specific data roomprivileges of all data roomsto which data rooms a specific user is assigned toetc
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/71-allow-static-reports-to-be-created,dracoon
+Display path / data room name in upload notification,"Currently you only receive a notification when a new document was uploaded in a specific dataroom. Get more insights in your notification and easily identify in which data rooms new documents have been uploaded.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/73-display-path-data-room-name-in-upload-notification,dracoon
+Login Layout Branding,"DRACOON is fully aware of the importance of customers' login pages - therefore providing a more detailed branding for customers  who use OpenID as their Login standard, will help in providing the look and feel as per the corporate design.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/27-login-layout-branding,dracoon
+DRACOON for Outlook: recipient language,"DRACOON will soon facilitate international collaboration: By providing the possibility to select the recipient language in DRACOON for Outlook  sharing documents with external users all over the world will be just one click away. 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/21-dracoon-for-outlook-recipient-language,dracoon
+Quick access to recent files,"Accessing easily and quickly recently used files is extremely helpful when continuing to work on a file. DRACOON Apps like the WebApp  mobile Apps, Outlook Add-In, etc. should therefor provide an option to quickly access those recent files across all applications.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/62-quick-access-to-recent-files,dracoon
+Comments,"With comments  we want to enhance collaboration per file - work with your team and provide feedback on documents, images or any other file.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/18-comments,dracoon
+S3 Direct Upload,"DRACOON provides a platform to integrate your object storage of choice (e.g. NetApp  AWS). With our S3 direct upload feature, customers will be able to upload to DRACOON without a proxied connection and directly into their object storage. This will boost the performance and increase the usability of our hybrid cloud solution. 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/35-s3-direct-upload,dracoon
+Notifications for users via email,"With notifications via email DRACOON will significantly improve collaboration: Stay updated regarding new files in data rooms  new comments on files, new permissions, new group memberships or the usage of download shares.Work more efficiently with your team by staying up to date.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/37-notifications-for-users-via-email,dracoon
+DRACOON for Android: open any file directly,"More and more users are accessing documents via mobile devices - in order to enhance the experience with our native Android app we are working on a way to open any file in its corresponding app: Select the file in your DRACOON and edit the document in your favorite document editor on Android. 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/25-dracoon-for-android-open-any-file-directly,dracoon
+Offline mode in mobile apps,"With offline mode  we want to allow you synchronizing data offline on your mobile device, so you can use it while being on traval or avoiding high roaming costs when being on a business travel. 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/48-offline-mode-in-mobile-apps,dracoon
+Password Policies,"DRACOON's first step in building fully customizable enterprise policies will be the implementation of password policies: Configure minimum length  expiration, character sets and other security improvements like disallowing user info in passwords, rejection of dictionary words or keyboard patterns. 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/30-password-policies,dracoon
+Password & Email Change Notification,"To increase account security  DRACOON is working on a notification for password and email changes in a user account. This will essentially notify the user, whenever his password or email is changed and will help the user to identify suspicious activity. 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/34-password-email-change-notification,dracoon
+Batch user group assignment,"DRACOON wants to improve and facilitate user ramp-up - providing a user-friendly and comprehensive way to quickly assign multiple users to a group will help achieve this goal. 
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/26-batch-user-group-assignment,dracoon
+PDF Viewer: Web App,"DRACOON already provides a preview for images - our preview allows collaboration per file with enabled comments. The next logical step is to display PDF content in an embedded viewer. Review your documents in our Web App  comment on them and keep updated with our upcoming notifications feature.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/41-pdf-viewer-web-app,dracoon
+Improved Search UI (iOS),"Our improved search UI in iOS makes it even more easier for you to find what you are searching for.
+",https://portal.productboard.com/dracoon/1-dracoon-roadmap/c/49-improved-search-ui-ios,dracoon

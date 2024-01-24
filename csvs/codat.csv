@@ -1,0 +1,53 @@
+Name,Description,Source Link,portalSourceName
+Monitor your Codat solution,"We're expanding the monitoring functionality we expose in the Portal  include product and integration usage volumes. What do you need in order to better understand your Codat solution?
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/484-monitor-your-codat-solution,codat
+Delete Journal Entries - QBO,"Adding the ability to delete Journal Entries from QBO
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/528-delete-journal-entries-qbo,codat
+Integrating Commerce Data Use Case Coverage - DATEV,"Add DATEV coverage for the required datatypes for Integrating Commerce Data use case.
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/49-integrating-commerce-data-use-case-coverage-datev,codat
+Ability to Update Expenses (Xero),"What is the problem? Currently if an SMB needs to alter an expense (including any reconciliation information i.e. category  amount) they would need to make changes to their expense management platform and their accounting package separately. This can be time consuming as making expense alterations are not uncommon tasks. Why is it important?Helps companies to close their books faster and more accurately 
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/544-ability-to-update-expenses-xero,codat
+Bank Feeds - Xero,"Improvements to the Xero Bank Feed integration for reduced onboarding friction and improved customer experience
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/491-bank-feeds-xero,codat
+Delete Bill Payments - Xero,"Adding ability to delete Bill Payments from Xero
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/511-delete-bill-payments-xero,codat
+Yodlee,"Integrate Yodlee  a US Open Banking provider.
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/427-yodlee,codat
+Sync for Expenses: Support for Microsoft Dynamics 365 Business Central,"Support the following transaction types for Microsoft Dynamics via the Sync for Expenses api.PaymentsRefundsRewardsChargeback
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/522-sync-for-expenses-support-for-microsoft-dynamics-365-business-central,codat
+Chargify integration,"Codat now supports subscription and recurring revenue data via our Chargify integration!
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/487-chargify-integration,codat
+Supplemental Data,"Customize data types with additional properties not included in Codat's out-of-the box data models. See our public docs for more information.
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/552-supplemental-data,codat
+Walmart Marketplace,"Add Walmart marketplace to the Commerce API.
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/265-walmart-marketplace,codat
+Lightspeed PoS,"Codat now supports Lightspeed PoS data via our Commerce API!
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/476-lightspeed-pos,codat
+Pull Bill Payments - Freshbooks,"Support for pulling Bill Payments from the new Freshbooks endpoint
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/540-pull-bill-payments-freshbooks,codat
+Client SDK - TypeScript,"Allow for python developers to build with Codat's API using a Codat TS library.
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/533-client-sdk-typescript,codat
+Delete Bill Payments - QBO,"Add the ability to delete bill payments from the QBO platform
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/555-delete-bill-payments-qbo,codat
+Managing Expenses Use Case Coverage - Dynamics 365,"Coverage for the core datatypes required to support the Managing Expenses use case on Dynamics 365
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/498-managing-expenses-use-case-coverage-dynamics-365,codat
+Record Supplier Expenses,"What's the problem?Today  sync for expenses records all expenses against a single vendor - in some cases SMB's may want to record expenses against specific vendors. We currently only record an expense against a single client because we don't want to fill the accounting platform with hundreds of suppliers, and need a more elegant way to handle this. Clients usually split their suppliers by value of spend (i.e high spend goes against a different supplier compared to lower spends). It can also be split by seeing how much you spend per company i.e. how much to do spend on flight tickets etc. 
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/545-record-supplier-expenses,codat
+Push Journal Entries - MYOB,"Adding support for pushing Journal Entries to MYOB
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/531-push-journal-entries-myob,codat
+Link SDK for other JS frameworks,"We're working on packaging up our embeddable Link SDK so you can use it in Vue  Angular, and other JS frameworks.
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/537-link-sdk-for-other-js-frameworks,codat
+Amazon Pay,"Add Amazon Pay to the Commerce API.
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/73-amazon-pay,codat
+New revamped docs,"We're working on brand new documentation to make understand and building with Codat easier than ever.
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/536-new-revamped-docs,codat
+Managing Expenses Use Case Coverage - Sage BC,"Coverage for the core datatypes required to support the Managing Expenses use case on Sage BC
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/503-managing-expenses-use-case-coverage-sage-bc,codat
+Sync for Expenses: Dynamics Adjustments and Transfers,"Support the following transaction types for Microsoft Dynamics via the Sync for Expenses api.AdjustmentInAdjustmentOutTransferInTransferOut 
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/558-sync-for-expenses-dynamics-adjustments-and-transfers,codat
+Illion,"Integrate Illion  an Australian Open Banking provider.
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/429-illion,codat
+Braintree,"Add Braintree to the Commerce API
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/453-braintree,codat
+Wayfair integration,"Integrate Wayfair into our Commerce API. 
+",https://portal.productboard.com/codat/7-public-product-roadmap/c/479-wayfair-integration,codat

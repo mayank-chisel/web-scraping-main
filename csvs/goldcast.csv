@@ -1,0 +1,99 @@
+Name,Description,Source Link,portalSourceName
+Enable one user to be assigned to multiple organizations,"Using the same email address  one organizer can have access to multiple different organizations. Great for representatives from agencies who work with multiple clients using Goldcast. 
+",https://portal.productboard.com/goldcast/1-product-portal/c/173-enable-one-user-to-be-assigned-to-multiple-organizations,goldcast
+Invited Status,"An organizer can send a custom invite email to a group of users uploaded in Goldcast before an event starts and have them marked with an ""Invited"" status.
+",https://portal.productboard.com/goldcast/1-product-portal/c/215-invited-status,goldcast
+Edit Registrant information,"Allow organizers to edit any user registration data post user registration
+",https://portal.productboard.com/goldcast/1-product-portal/c/198-edit-registrant-information,goldcast
+Event duplication,"Organizers can choose what elements of an event they want to copy over when duplicating an event
+",https://portal.productboard.com/goldcast/1-product-portal/c/204-event-duplication,goldcast
+Session transcripts,"Retrieve downloadable transcripts of your sessions after your event has completed.
+",https://portal.productboard.com/goldcast/1-product-portal/c/206-session-transcripts,goldcast
+Booth Tiers,"Separate your sponsor booths into different tiers -- like Platinum  Gold, and Silver. The higher tiers will have larger booth images and be listed first on the Booths tab. 
+",https://portal.productboard.com/goldcast/1-product-portal/c/220-booth-tiers,goldcast
+Add time to current broadcast,"In the event that your session runs over its planned time  whether your audience was very engaged and had many questions, or your speakers had a lot to say, extend the current live broadcast's time by up to 5 minutes. 
+",https://portal.productboard.com/goldcast/1-product-portal/c/111-add-time-to-current-broadcast,goldcast
+Gamification within Event App,"Award points to attendees for various actions  like submitting a question, visiting a booth, participating in a room discussion and more. Track attendee points on a leaderboard live throughout your event. Incentivize high levels of engagement from attendees, and track strong prospects as a result!
+",https://portal.productboard.com/goldcast/1-product-portal/c/113-gamification-within-event-app,goldcast
+Event & session exit survey,"Collect feedback from attendees at the end of each session and/or at the end of your event. Create in-app popup surveys that enable attendees to give quick  scale-based responses, or include short form answer questions. 
+",https://portal.productboard.com/goldcast/1-product-portal/c/212-event-session-exit-survey,goldcast
+Automate speaker invitations including magic links,"When you add a speaker to an event  they will receive an automated email including their speaker magic link - the same way a registrant receives a confirmation email when they register.
+",https://portal.productboard.com/goldcast/1-product-portal/c/131-automate-speaker-invitations-including-magic-links,goldcast
+Ticket purchasing,"Enable attendees to purchase tickets to your event directly from your Goldcast registration page.
+",https://portal.productboard.com/goldcast/1-product-portal/c/114-ticket-purchasing,goldcast
+Reassign attendees to different breakout rooms,"Once breakout rooms have been created  organizers can reassign attendees to different rooms, and give assignments to attendees who need to be added to a room.
+",https://portal.productboard.com/goldcast/1-product-portal/c/140-reassign-attendees-to-different-breakout-rooms,goldcast
+Permissions for Goldcast users,"Enable certain permissions for different organizers - for example by restricting access by event  creating user groups, etc.
+",https://portal.productboard.com/goldcast/1-product-portal/c/134-permissions-for-goldcast-users,goldcast
+Custom Notifications in Slack + Salesforce Integration,"Users will have the ability to customize the notifications they receive in the Slack channel. Users will also have the ability to choose the activity triggers for which they will receive Slack notifications. 
+",https://portal.productboard.com/goldcast/1-product-portal/c/190-custom-notifications-in-slack-salesforce-integration,goldcast
+Allow attendees and speakers to opt out of P2P messaging,"If person-to-person direct messaging is enabled for an event  allow each attendee or speaker to opt out if they don't want to receive direct messages during the event.
+",https://portal.productboard.com/goldcast/1-product-portal/c/132-allow-attendees-and-speakers-to-opt-out-of-p2p-messaging,goldcast
+Threaded Chat,"Allow attendees to respond to chats in threaded messages
+",https://portal.productboard.com/goldcast/1-product-portal/c/145-threaded-chat,goldcast
+Marketo: Duplicate Lead Selection Policy,"Users can configure the rule used to decide which lead should be associated with a program or have activities associated. The options will be:Most Recently Created (default)Earliest CreatedMost Recently UpdatedAlways Create A Duplicate
+",https://portal.productboard.com/goldcast/1-product-portal/c/161-marketo-duplicate-lead-selection-policy,goldcast
+Set different reply-to addresses for my event,"The ability to set reply-to email addresses for each event. All emails sent from that event will use the reply-to address  so any email responses on registration emails, reminder emails etc will be sent to the reply-to address to be kept track of
+",https://portal.productboard.com/goldcast/1-product-portal/c/223-set-different-reply-to-addresses-for-my-event,goldcast
+Event Registration Limit,"You can go into one of your Goldcast events in the admin panel and set a registration limit for the event. Once the registration limit is met  all additional registrants will receive an error message on the Goldcast registration page saying the event has reached its capacity.
+",https://portal.productboard.com/goldcast/1-product-portal/c/183-event-registration-limit,goldcast
+Key Account Identification within Goldcast,"Sync account information from salesforce to enable organizers  sales and customer success to see, in real time, what your top prospects are doing in the event, how much ""pipeline"" is in the event, filter engagement analytics by key accounts and a lot more!
+",https://portal.productboard.com/goldcast/1-product-portal/c/67-key-account-identification-within-goldcast,goldcast
+Notifications for Q&A,"Receive notifications in the event sidebar when an attendee submits a text or video Q&A. 
+",https://portal.productboard.com/goldcast/1-product-portal/c/110-notifications-for-q-a,goldcast
+Multi-event registration page,"Hosting event sessions with multiple dates  like a webinar series? Attendees can register for multiple Goldcast events from one registration page.
+",https://portal.productboard.com/goldcast/1-product-portal/c/120-multi-event-registration-page,goldcast
+Floating emoji reactions,"Attendees can give feedback to speakers in realtime by clicking emoji reactions at the bottom of the stage. Speakers can see if their talk is resonating with attendees  and attendees can show their appreciation for presenters.
+",https://portal.productboard.com/goldcast/1-product-portal/c/203-floating-emoji-reactions,goldcast
+Checkin and Badging for Hybrid Events,"We’ve partnered with fielddrive to bring the same Goldcast magic to the physical venue of your event. Goldcast will deliver the full functionality of in-person checkin and badging for your hybrid and in-person events as an integrated product. Goldcast registration system would support a unique QR code for in-person attendees apart from a magic link for virtual attendees. Goldcast reg system would be natively integrated with on-site equipment so attendee QR codes can be scanned and attendance data can be fed in in real time into the Goldcast database.More details here. 
+",https://portal.productboard.com/goldcast/1-product-portal/c/151-checkin-and-badging-for-hybrid-events,goldcast
+Zapier Integration,"A Goldcast app is available on Zapier  allowing users to leverage triggers and actions to create 'Zaps' in order to establish self service integrations.
+",https://portal.productboard.com/goldcast/1-product-portal/c/42-zapier-integration,goldcast
+Integration Notifications in Goldcast,"In this feature  customers will get notifications when there are any changes made to the integrations i.e for selective trigger conditions in Goldcast.The members of the Team will get the notifications via Email. Notifications for each Team member can be Enabled and Disabled.
+",https://portal.productboard.com/goldcast/1-product-portal/c/193-integration-notifications-in-goldcast,goldcast
+Invite only events and managing an invite list,"An event organizer will be able to upload users by email into an event without registering them. The organizer can then choose to restrict registrations to only those users already uploaded into the event. An event organizer can add or remove users from the invite list at any time 
+",https://portal.productboard.com/goldcast/1-product-portal/c/197-invite-only-events-and-managing-an-invite-list,goldcast
+Waitlist Status,"An organizer can enable a waitlist feature for their event.If a registration cap on an event is met  additional registrants will be automatically placed on an event waitlist.Waitlisted registrants will show up in a user table in the admin panel and an organizer can grant a waitlisted user access to the event
+",https://portal.productboard.com/goldcast/1-product-portal/c/216-waitlist-status,goldcast
+Event Level Activity Feed in Goldcast,"In this feature  customers will be able to view all the activities taking place at an event level in a scrollable format. This will appear as a new tab in the Analytics section. Users can apply necessary filters based on activity triggers to get a more refined view.
+",https://portal.productboard.com/goldcast/1-product-portal/c/192-event-level-activity-feed-in-goldcast,goldcast
+Event Control Room 2.0,"Event Control Room will give organizers superpowers for the show day  allowing them toMove agenda items back and forth on the flyDisable/Enable Attendee count on the flyMerge control room and breakout room creation into a single panel
+",https://portal.productboard.com/goldcast/1-product-portal/c/39-event-control-room-2-0,goldcast
+View mainstage from backstage,"See what's happening on the live stage of your session while in the backstage area. Chat with speakers and manage the run of show  all without opening a second window.
+",https://portal.productboard.com/goldcast/1-product-portal/c/125-view-mainstage-from-backstage,goldcast
+WhiteLabel the registration page URL,"This release will allow organizers to host the Goldcast registration page on their web domain. E.g. instead of acme.goldcast.io/events/   it can be www.acme.com/fieldmarketingmeetup
+",https://portal.productboard.com/goldcast/1-product-portal/c/50-whitelabel-the-registration-page-url,goldcast
+Library organization,"Add folders to library to enable organizers to classify files. Allow deletion and archive of files to keep library organized.
+",https://portal.productboard.com/goldcast/1-product-portal/c/146-library-organization,goldcast
+Organization Event Hub,"Create your own event hub - a webpage that lists multiple Goldcast events. Share an Upcoming Events calendar  give access to your past on-demand events, create event series, and more! 
+",https://portal.productboard.com/goldcast/1-product-portal/c/211-organization-event-hub,goldcast
+Background music and sound effects,"Play background music as attendees enter your event  when speakers are coming on and off stage, or play sound effects like cheering or applause to liven up your virtual event.
+",https://portal.productboard.com/goldcast/1-product-portal/c/122-background-music-and-sound-effects,goldcast
+Attendee Agenda Builder,"Enable attendees to build their own agenda inside your Goldcast event. 
+",https://portal.productboard.com/goldcast/1-product-portal/c/213-attendee-agenda-builder,goldcast
+"Salesforce Field Mapping to Campaign Members  Contacts, & Leads","Users can map Goldcast Registrant fields to Campaign Members  Contacts, and Leads in Salesforce Sales Cloud.
+",https://portal.productboard.com/goldcast/1-product-portal/c/174-salesforce-field-mapping-to-campaign-members-contacts-leads,goldcast
+Schedule custom emails,"Schedule an email to be sent at a later date/time  outside of Goldcast's existing email schedule.
+",https://portal.productboard.com/goldcast/1-product-portal/c/130-schedule-custom-emails,goldcast
+Enhanced calendar invitation,"Add additional event information  including the organization name and event description, to the calendar invitation.
+",https://portal.productboard.com/goldcast/1-product-portal/c/142-enhanced-calendar-invitation,goldcast
+Add GC  standard properties to formio builder,"Add new standard GC user properties to the Form Builder so they can be drag and dropped into a form. Organizers can set up field mappings from these new standard properties so collected registration data on them is automatically sent to Hubspot
+",https://portal.productboard.com/goldcast/1-product-portal/c/214-add-gc-standard-properties-to-formio-builder,goldcast
+Event Checklist,"The event checklist guides organizers through event creation using a step-by-step experience as reference to understand all of the items needed to accomplish to run a successful event.
+",https://portal.productboard.com/goldcast/1-product-portal/c/207-event-checklist,goldcast
+Assign tracks in Admin Panel,"Event organizers can view and edit assigned tracks for your event registrants in the Admin Panel
+",https://portal.productboard.com/goldcast/1-product-portal/c/87-assign-tracks-in-admin-panel,goldcast
+Schedule recurring events,"Set up recurring events where customers can register for multiple sessions at one time. 
+",https://portal.productboard.com/goldcast/1-product-portal/c/126-schedule-recurring-events,goldcast
+Registrant Creation Source Metadata,"The source of a registration (form  ticket purchase, file import, manual input, integration, etc) is an attribute of the registrant object, usable in analytics and integrations.This would make it so there is a clear record of how each and every person was added to the list of registrants for a given event. 
+",https://portal.productboard.com/goldcast/1-product-portal/c/162-registrant-creation-source-metadata,goldcast
+Feeder & Action Services for Eloqua Campaigns,"Eloqua users are able to integrate directly with Goldcast  automatically providing Feeder and Action services for use in Campaigns.
+",https://portal.productboard.com/goldcast/1-product-portal/c/182-feeder-action-services-for-eloqua-campaigns,goldcast
+Calendar View for multi track agenda,"The multi track agenda- presented in a calendar view!
+",https://portal.productboard.com/goldcast/1-product-portal/c/38-calendar-view-for-multi-track-agenda,goldcast
+Download All Event Data As CSV & PNG,"Users have an easy way to download all data related to the event in CSV and PNG (for charts) format.
+",https://portal.productboard.com/goldcast/1-product-portal/c/185-download-all-event-data-as-csv-png,goldcast
+Add Support for Bizible Tracking Pixels,"Support for tracking via Bizible (a multi touch attribution tracking system acquired by Adobe Marketo a few years ago).
+",https://portal.productboard.com/goldcast/1-product-portal/c/186-add-support-for-bizible-tracking-pixels,goldcast
+Share multiple polls at one time,"Open multiple polls for responses from attendees at one time inside a session.
+",https://portal.productboard.com/goldcast/1-product-portal/c/141-share-multiple-polls-at-one-time,goldcast

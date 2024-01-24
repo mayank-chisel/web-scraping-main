@@ -1,0 +1,82 @@
+Name,Description,Source Link,portalSourceName
+Automated Customer Surveys,"You can now request for a NPS or CSAT survey to be sent to your customers once a conversation has been resolved
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/199-automated-customer-surveys,orlo
+dmap/c/247-automated-reporting,orlo
+Message Redaction,"Enable the redaction of Inbox messages that contain inapproative  offensive or sensitive content. This functionality will be restrcited by a new permission, so you have control over who can redact.
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/256-message-redaction,orlo
+Livechat Audit,"Admin users will be able to see a full audit of actions performed on a live chat activity 
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/208-livechat-audit,orlo
+Advanced Text Search in Insights Reports,"You will be able to apply boolean logic to your Text Search filters within the Insights reports to include AND  OR and NOT logic
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/241-advanced-text-search-in-insights-reports,orlo
+Insights Triggers,"We will be adding new triggers to identify emerging trends. These can be configured based on certain phrases or by allowing our AI technology to spot patterns and anomalies as they happen
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/220-insights-triggers,orlo
+Insights Report PDF Export,"The ability to export Insights Reports as PDFs
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/257-insights-report-pdf-export,orlo
+Ability to keep past search results when Updating Insights Stream,"When updating an Insights Stream you will be able to decide if you'd like to keep the existing data or overwrite it
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/250-ability-to-keep-past-search-results-when-updating-insights-stream,orlo
+Trend Detection Trigger,"A new Trigger that will notify you when a new trend is being detected. This can be used for Crisis Management or to make you aware of emerging talking points. 
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/246-trend-detection-trigger,orlo
+Content Library : Expire Content,"You can now define when content from your content library is automatically deleted. 
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/205-content-library-expire-content,orlo
+Average Reach update,"We've updated the Account Reach metric to instead reflect the Average Reach of your account during the period you choose to report on. This new metric displays the average number of unique users who were shown your content during the reporting period.
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/243-average-reach-update,orlo
+New Location Filter in Insights Reports,"You will be able to filter your Insights Reports by Country  State, City and Locality 
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/240-new-location-filter-in-insights-reports,orlo
+Meta Advertising Report,"Users will be able to see the engagement stats of Advertising Posts that have been published on Facebook and Instagram
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/210-meta-advertising-report,orlo
+NextDoor Integration,"To be able to manage posts published to and inbound comments received on the NextDoor platform.
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/189-nextdoor-integration,orlo
+Report Data Import Schedule Improvements,"Data in Orlo has been changed to be collected from the networks based on the following intervals: https://support.orlo.tech/orlo-analytics-refresh-guide
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/244-report-data-import-schedule-improvements,orlo
+New Mobile App,"A new Mobile app that is downloadable from the App Stores and provides the same capabilities as the bowser based version
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/242-new-mobile-app,orlo
+Post Validation Tag Reports,"Alongside the tagging capability  we will be building reports to help identify which tags are used most and which users have various tags attributable to them 
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/223-post-validation-tag-reports,orlo
+Lockdown individual accounts in a crisis,"We know that crises don't always affect all of your brands. That's why we will be adding more granularity to our great company lockdown feature  so you can choose which accounts to lockdown.
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/63-lockdown-individual-accounts-in-a-crisis,orlo
+Inbox Profanity Blocking,"You can now use your block words list to prevent inbox messages being sent if any of the words appear on your list.
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/216-inbox-profanity-blocking,orlo
+Chat Transcript,"To allow the Live Chat agent to email the transcript of the chat conversation once the chat has been resolved.
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/186-chat-transcript,orlo
+Integrate GIPHY into Orlo,"You can now easily add GIFs to your posts using GIPHY 
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/202-integrate-giphy-into-orlo,orlo
+Draft Area,"The ability to create / save post as Draft rather than schedule it  where it can be picked up later and finalised.
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/88-draft-area,orlo
+Instagram Reels,"You can now report on stats based on Reels that have been published on Instagram. Additionally  you will receive any comments on Reels and response to them from the Inbox
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/203-instagram-reels,orlo
+Post Validation Tags,"Users who are approving posts will be able to assign a tag to the post if it fails to meet your required needs. Such tags could be ""High Risk""  ""Inaccurate Content"" etc and will be configurable to make them personal to your organisation and teams
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/222-post-validation-tags,orlo
+Social Push Mode : On Hold States,"Users will be able to place conversations into an On Hold state. This will stop on the clock from a statistics and reporting perspective but also keep the items in their queue once the recipient responds.
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/217-social-push-mode-on-hold-states,orlo
+Instagram Multi-Image Publishing,"To be able to schedule and publish posts with multiple images to Instagram
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/192-instagram-multi-image-publishing,orlo
+Inbox Priorities,"This will provide a P1 through P5 prioritisation option for Inbox messages. The priorities will be colour-coded and can be controlled manually in the Inbox  or automatically via the use of a Trigger.
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/181-inbox-priorities,orlo
+Granular content library permissions,"Do you want to restrict access to certain parts of the content library to specific teams or users? Please let us know by voting on this feature
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/120-granular-content-library-permissions,orlo
+Live Chat Updates,"Adding the existing message and reply translation feature from the social inbox.In-app notifications of when a new chat comes in  regardless of where you are in Orlo.Custom ""New Chat"" form questions, giving you more control of what people need to provide when they start talking to you.
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/260-live-chat-updates,orlo
+New and Improved Content Calendar,"The Content Calendar is being rebuilt to vastly improve usability and functionality 
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/206-new-and-improved-content-calendar,orlo
+Verified/Blue Ticks in the Inbox,"You can now see and verified profiled in the Inbox to more easily identify potentially influential accounts. 
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/201-verified-blue-ticks-in-the-inbox,orlo
+Share/RT from Content Calendar,"To be able to select a published post from the content calendar  then share that post from another social account managed through Orlo.
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/215-share-rt-from-content-calendar,orlo
+Post Tagging,"You will be able to add tags to posts to help organise and report on them more affectively.
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/219-post-tagging,orlo
+Canva integration for Composing Posts,"Ability to create content in Canva and publish via Orlo
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/251-canva-integration-for-composing-posts,orlo
+Chatbot for Social Channels,"We will be adding our amazing AI Chatbot capabilities to the social channels to add more automations with the aim of deflecting contact and resolving recipient issues quicker.
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/221-chatbot-for-social-channels,orlo
+Native Post Creation Alert,"You will be able to create a new Trigger that will alert you to when a post has been created directly on the native platform and not via Orlo.
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/224-native-post-creation-alert,orlo
+Instagram Publishing Updates,"Adding support for direct publishing of Stories and Reels  as well as updates to how we handle Carousel posts
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/259-instagram-publishing-updates,orlo
+Audience Analysis in Orlo Insights,"The ability to get a deeper understand of who is engaging with the topics that matter to you  what they are thinking and feeling and who are the key influencers. 
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/245-audience-analysis-in-orlo-insights,orlo
+Export of Audit Reports,"The ability for Admin users to be able to download the Audit logs on activities. These can be exported as an Excel file  from both Inbox and Outbox audit windows.
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/207-export-of-audit-reports,orlo
+Social listening in the inbox,"We are looking to introduce social listening into the inbox  so you can listen to and respond to indirect messages straight from the inbox.We'd love to know how valuable this would be to you and how you would like it to work. Please feel free to live feedback here!
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/91-social-listening-in-the-inbox,orlo
+Video Engagement Stats,"Users will see video stats separated out on the outbox posts
+",https://portal.productboard.com/orlo/1-orlo-roadmap/c/209-video-engagement-stats,orlo

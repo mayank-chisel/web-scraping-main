@@ -1,0 +1,53 @@
+Name,Description,Source Link,portalSourceName
+Schedule an entry for publishing,"As an author I want to specify a date that an entry should be published so that the entry is only able to view from the date that I specify.e.g. Publish a news article tomorrow at 6:00pm
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/21-schedule-an-entry-for-publishing,zengenti
+Canvas editing,"The ability to create long form content in a structured way. Allowing authors to create content in a familiar writing canvas rather than the constraint of a composer field which can feel unfamiliar for content such as articles  blog posts and page content.
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/68-canvas-editing,zengenti
+Automatically save changes to entries (autosave),"As an author of entries  I want the content I'm entering to be automatically saved so that I don't lose any of my work.
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/94-automatically-save-changes-to-entries-autosave,zengenti
+Workflow notifications for entries,"Be notified about particular workflow events. Are there any particular workflow notifications that you'd find useful?Awaiting approval (Submitted for approval)Declined approval (Failed approval)Scheduled entry has been publishedEntry has been deleted
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/23-workflow-notifications-for-entries,zengenti
+Calculated / computed / Auto generated fields,"The ability to populate a field from the content of other fields e.g.Combining: Title / First Name / Middle Name / Surname fields togetherSequence: Define a string sequence followed by a number e.g. PROD001  PROD002Introduce a computed field that generates a value or sequence of values from a set of field IDs or defined by a textual pattern e.g.Full name generated from {{firstName},{otherNames}} {{surname}} Result: Richard David SaundersDescription generated from {{courseSummary}}, {{courseCode}}, taught by {{courseLecturer}} Result: This is the summary of a course, 123456, taught by David Jones Driving license from {{surname},{dob},{licenceType}} Result: JONES821020FLCourse code {{department},{subject}}-#### Result: science-chemistry-0001
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/75-calculated-computed-auto-generated-fields,zengenti
+Commenting,"Ability to comment on fields of an entry to allow team collaboration and discussion.
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/96-commenting,zengenti
+Link field editor,"As a content type adminsitrator I want to add a link field/editor to a content type / component so that my authors can specify a link  label, an other properties in an entry or entry component.
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/51-link-field-editor,zengenti
+Redirects,"Ability to create and manage redirects in Contensis  using my normal login credentials.
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/104-redirects,zengenti
+Ability to nest components,"We're hearing that you'd like to nest components inside each other. We like the idea but we are aware of some challenges that we'd face in implementing them. How would you use them  why are they important, what are your use cases?
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/10-ability-to-nest-components,zengenti
+Content search & reporting using ZenQL,"The ability to search content and generate reports using the ZenQL querying language.
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/88-content-search-reporting-using-zenql,zengenti
+Field and tab permissions in entries,"As an administrator I want to control which fields or tabs in an entry an author can edit so that I can prevent in accidental updates to content.How would you use this feature?What types of content would you use this on?
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/34-field-and-tab-permissions-in-entries,zengenti
+Composer count validation,"Reduce the number of items that can be added to a composer field.
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/90-composer-count-validation,zengenti
+Entry usage/dependancy warnings,"As a user who is unpublishing or deleting an entry I'm informed of the impact this may have on other entries.These actions should display a warning stating how many entries will be affected by the deletion or unpublish  with a link to the usage panel to see the affected entries.
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/92-entry-usage-dependancy-warnings,zengenti
+Zapier integration,"Share data between Contensis and third-party apps using Zapier.
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/105-zapier-integration,zengenti
+Add a thumbnail to entries as an entryThumbnail,"As a content type administrator I want to assign an image field to be used as an entry Thumbnail that cant be used on the front end site to produce listings.As a editor I want to see the entry Thumbnail used in the entry editor to give a richer visual appearance and to easily identify selected entries and components.e.g. In a person content type  the profile photo could be displayed in an author field of a book entry and you'd easily identify the authors of a book.In a landing page of products you could visually see a list of selected products, e.g. promoted plants and pots in the Leif project.
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/101-add-a-thumbnail-to-entries-as-an-entrythumbnail,zengenti
+Create and manage SSL certificates,"Create and manage SSL certificates through the Contensis interface with supported roles and permissions to restrict access.
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/120-create-and-manage-ssl-certificates,zengenti
+Apply multiple transforms to an image,"Ability to add an image field to a content type  that has multiple transformations assign to it. When an author uploads an image, then the various crops for the image are displayed, allowing an author to adjust the various uses. This feature would also enable a developer to reference a single image field once and handle the various ransformations cleaning up their code base.
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/79-apply-multiple-transforms-to-an-image,zengenti
+Set an expiry date for an entry to unpublish,"As an author I want to set an expiry date for an entry so that the entry is unpublished at a set date and time and is no longer displayed on my site or application.Individually / bulkAgainst a content type
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/17-set-an-expiry-date-for-an-entry-to-unpublish,zengenti
+Favoriting content types when creating entries,"As an author you may regularly create content of a particular type  by adding these types as favourites you can speed up the content creation workflow.Only work with courses and events? then favourite them, next time you create an entry you'll see them at the top of the list of content types.
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/100-favoriting-content-types-when-creating-entries,zengenti
+Searching for assets and image,"Enhance the search of images and assets when inserting them into entries.Filter by aspect ratioFilter by dimensionsSearch by tagLocate in a structure
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/47-searching-for-assets-and-image,zengenti
+Send an entry to specific approvers for approval,"As a content author I want to send my content for approval to a specific user or list of users assigned to the approver role so that approvers are not bombarded with approval requests.
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/48-send-an-entry-to-specific-approvers-for-approval,zengenti
+Custom workflow builder,"Create custom workflows in the Contensis interface that different content types can be passed through.Allow courses to go through a multi stage workflow of validation e.g. Initial content review > Lecturer review > Admission team reviewAllow a blog post to go through: Editorial review > Technical review > Marketing Review > SEO Review
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/71-custom-workflow-builder,zengenti
+Save a personal / global view,"Ability to save a search and column layout in the entry listing screen for personal or organisational use.
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/80-save-a-personal-global-view,zengenti
+Set a review dates on entries,"As an author I want to set a review date on an entry so that the entry is flagged for content review within a specified date / time range.Individual entryAgainst a content type
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/76-set-a-review-dates-on-entries,zengenti
+Entry must be published,"Its currently possible to link an entry that does not have a published version. This results in 'null' for the entry field through the Delivery API. Validation: Ensure there is a published version when initially publishing an entry that has entry links.Filter: filter entries when adding a linked entry to those which have published version
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/35-entry-must-be-published,zengenti
+Overview 👈,"The following features are being considered as part of Contensis. They are currently undergoing analysis / discussion. Some of these features will be well defined and are awaiting to be planned into a release. Any feedback or votes are helpful to understand the needs more clearly. 
+",https://portal.productboard.com/zengenti/2-contensis-open-roadmap/c/84-overview,zengenti

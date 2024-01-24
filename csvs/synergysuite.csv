@@ -1,0 +1,147 @@
+Name,Description,Source Link,portalSourceName
+"Support for Sysco ""Red Flag"" substitute feature","No longer deal with blocked transactions while ordering from Sysco with substitute items.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/72-support-for-sysco-red-flag-substitute-feature,synergysuite
+Cooking sheet - Production prediction,"Apart from the possibility to predict prep items needed  there will be a separate sheet to predict the amount of the inventory items that should be cooked.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/135-cooking-sheet-production-prediction,synergysuite
+Stored Changes on Movement Report,"With our growing additions to the movement report and in-line edit abilities  it can be hard sometimes when you have a number of changes to make, but the movement report takes time to generate. This new update will allow users to stage updates they have made to counts, purchases etc.. and when they are ready they can manually refresh the report all at once. We see this saving time for our users allowing them to batch updates and then pull down an updated report when all the updates have been completed
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/54-stored-changes-on-movement-report,synergysuite
+Budget Target - Historical Tracking,"A new history option as part of the Budget Target view will allow users to track any changes that have happened to the target. With users  timestamp and what fields were updated from and to. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/86-budget-target-historical-tracking,synergysuite
+Product Deletions,"Ability to archive products so they are removed for good from the inventory module. This is one extra step further from discontinue.The auto-product manager tool will also support auto archive products to ensure your product set is automatically maintained. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/40-product-deletions,synergysuite
+In-App Chat,"Making available an in-app chat feature within the Manager and Cover app's. This will allow for in-store communication and one-to-one communications  including basic features such as:Typing indicatorsRead receiptsDelivery receiptsUser presence indicatorsPush notificationsReactionsUpload of images, GIF's and filesUser Moderation featuresMessage searchLater we will include this in the web platform, along with an admin portal for moderation support, and full admin reporting. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/42-in-app-chat,synergysuite
+Update Inventory Prices,"The existing Inventory Import tool is updated to now allow users to update inventory product prices an-masse. This is especially usefully for our customers that are unable to fully utilize the EDI functionality that we provide. The new tool  provides the template needed, and will only update prices for existing products. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/63-update-inventory-prices,synergysuite
+Bug fixes and stability improvements,"General bug fixes and performance improvements to the HACCP equipment 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/114-bug-fixes-and-stability-improvements,synergysuite
+Update Irish working Bank Holidays,"Update to the calculation methods used to define the bank holiday payments for working and non working bank holidays
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/87-update-irish-working-bank-holidays,synergysuite
+POS Public REST API,"We plan to build a public facing REST API for POS integrations
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/26-pos-public-rest-api,synergysuite
+Delivery scheduling / Separation of cut-off and delivery day,"If you need those days to be separate  for example in the situation where you have to place delivery on Monday by 4pm in order to get it delivered on Tuesday, you will be able to.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/108-delivery-scheduling-separation-of-cut-off-and-delivery-day,synergysuite
+Operations & HACCP improvements,"Rework of the two whole modules. Easier scheduling  more answer types, expanded corrective actions & a lot more is coming.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/99-operations-haccp-improvements,synergysuite
+Enhanced Sales and Labor Page,"Introduce new measures into the sales and labor dashboard  including new drill-down reports, and above store reports. Features including:Duty breakdownCustom color codingNew detailed wages vs budget reportLocalizationImproved pagination
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/17-enhanced-sales-and-labor-page,synergysuite
+2021 Product Refresh,"We are working on our new product refresh for 2021  including updated buttons, tables and other system styles. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/47-2021-product-refresh,synergysuite
+Improved Budget Target,"We have redesigned and refined the Budget Target page. The new page is not only faster and in line with our standard styling  but there is also improved functionality including:Location selector allows you to select the locations to updateImproved adjustment selectorIndividual save buttons for each location, as well as a 'Save All' optionBetter header definitionsAnd much fasterNo additional charges will be required to receive this update, it will automatically replace the older budget target page
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/66-improved-budget-target,synergysuite
+Reporting Hierarchy,"A customer should be able to define an unlimited amount of report levels (child-parent relationship within the groups) and a location is assigned to a single group. A group could be the name of a region  DMA, area manager, region manager. And at whichever level has selected a list of all the locations would return that falls under that level. Company categories will only collect locations at the defined category. This needs to be available in reporting, so updating or creating a new company_list parameter that lists locations by reporting group. Add to these reports first:Consolidated Inventory ReportConsolidated summary Consolidated sales
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/140-reporting-hierarchy,synergysuite
+Franchise Manager,"Ability to create Franchisees and associate locations to that franchisee in the web UI.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/73-franchise-manager,synergysuite
+Inventory reporting updates,"Taking Waste & Prep waste out of Theoretical for more accurate reports.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/151-inventory-reporting-updates,synergysuite
+Create a sync button for POS employees,"Introduced a way of directly sync employees to POS systems. Added a button on the employee page to sync this employee to the POS system.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/153-create-a-sync-button-for-pos-employees,synergysuite
+Parts per million,"Designated space for recording PPM in the HACCP module (with the setup of limits and corrective actions).
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/131-parts-per-million,synergysuite
+Library,"We want to create a Library for users to easily access their materials related to trainings  recipes, and more whether that be a PDF or a video. Upload, download, and view your company's materials directly in the SynergySuite application. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/12-library,synergysuite
+Multiple Split Options,"Added the option on the product vendor record to allow an item to is orderable:Per the vendor recordSplitable to a single unitOrderable only by a single unitThis is great to keep costs down on high-value items that are not used very often. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/34-multiple-split-options,synergysuite
+Automated Emails for Previously Defined Reports,"A new feature for reporting that allows reports to be automatically generated and emailed to multiple  selected recipients at a custom, recurring frequency.Save time by not having to manually generate, download, and send reports. Instead, send and receive reports automatically at the time most convenient.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/29-automated-emails-for-previously-defined-reports,synergysuite
+Inventory reporting - Count type comparison,"Allowing for cross reporting & processing of the inventory counts of the same type  but different products.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/149-inventory-reporting-count-type-comparison,synergysuite
+Shelf life to allow input in minutes,"The shelf life functionality will now allow the input in days  hours and minutes.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/110-shelf-life-to-allow-input-in-minutes,synergysuite
+Check Viewer Usage Optimisation,"Update the check viewer popup with more information on usage  and allow the ability to switch between report units and recipe units
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/20-check-viewer-usage-optimisation,synergysuite
+Support saving scheduled reports to My reports,"Easily add a scheduled report to the My Reports page for faster  easier access to the report without all the hassle of searching for it.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/78-support-saving-scheduled-reports-to-my-reports,synergysuite
+Bug fixes and stability improvements,"Overall bug fixes and stability improvements 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/119-bug-fixes-and-stability-improvements,synergysuite
+Storage area configuration on the product modal,"Now  you will be able to push products into storage areas directly from the product management modal, for easier managing of those areas.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/107-storage-area-configuration-on-the-product-modal,synergysuite
+Simplified versions of the Inventory reports,"Simplified versions of the movement  usage and other reports for easier use.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/130-simplified-versions-of-the-inventory-reports,synergysuite
+Updated Reports - Movement,"We have updated our Live Movement  and Movement on Date reports to be inline with the stylings of the main movement report.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/60-updated-reports-movement,synergysuite
+Financial Dashboard,"Creating a portable version of our Financial Dashboard in our new Manager App. Allowing users to see sales across multiple stores and dates in one view  and the ability to drill into a daily summary
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/88-financial-dashboard,synergysuite
+Create public REST APIs for accounting integrations,"Create a public facing API for accounting integrations
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/71-create-public-rest-apis-for-accounting-integrations,synergysuite
+Employee and schedule sync,"Update SynergySuite's integration with Brink POS to allow enforcement of clocking rules  single source of employee data, and share employee schedules for clocking in and out. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/33-employee-and-schedule-sync,synergysuite
+Bug fixes and stability improvements,"Fixed an issue on the SS app where some Android devices were not functioning properly. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/115-bug-fixes-and-stability-improvements,synergysuite
+Better checklists and new features,"Checklists improvements We included numerous enhancements to Checklists and fixed important bugs. Label printing We improved the experience for the label printing setup process and fixed bugs. Blackout days functionality implementation
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/147-better-checklists-and-new-features,synergysuite
+Cover / Chat feature,"Improvements and changes to chat inclusion to the Cover app. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/143-cover-chat-feature,synergysuite
+Permissions for Editing Unit of Measures,"A new permission is available to help limit users access to the unit of measure options without removing access to other inventory setup itemsThe permission code is: STOCK_CAN_EDIT_UNIT_OF_MEASURE
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/80-permissions-for-editing-unit-of-measures,synergysuite
+Transaction Manager updates,"Improved UI for easier use as well as performance improvements are to be expected.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/100-transaction-manager-updates,synergysuite
+Overtime to be charged to Loaned Store,"Enabled charging overtime based on the worked location.Employees can now be charged overtime to Loaned Store instead of Home Store.Addresses scenarios where overtime occurs at a different store.Controlled via a designated setting for flexibility.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/155-overtime-to-be-charged-to-loaned-store,synergysuite
+Overtime breakdown for Payroll,"The payroll export tool has been updated to now have the ability to include additional details about overtime breakdown  including which type of overtime was triggered (IE daily overtime, vs weekly overtime etc..).This new breakdown is supported in our standard payroll export and can be added to custom payroll integrations upon request.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/64-overtime-breakdown-for-payroll,synergysuite
+Additional Information on Prep within the Movement Report,"Ever wanted more information on why auto-produce has calculated a figure  or wanted to drill down into the raw ingredients. This new update will have plenty of new information available for understanding your prep usage within the Movement report.Users will be able to see:Auto-produce calculationsCurrent recipe requirementsUsage of Raw or Prep itemsDrilldown capabilities between products
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/53-additional-information-on-prep-within-the-movement-report,synergysuite
+Kiosk (Multi User) mode,"General stability and performance improvements as well as addition of new features like: Kiosk (Multi user) mode This new feature allows multiple users to log in and out of the app with their own credentials (set PIN)  making it easier than ever for customers to manage the app. Calendar datepicker translationNow you can easily change the language of your calendar to match your preferences. The Manager App now supports Spanish language, making it more accessible and customisable to our Spanish speaking customers. Sales Dashboard “Compare To” localisationWe made localisation to the Spanish language for sections “Compare to”, “Previous week”, “Previous Year"" and “Trend”. In this way we make it easier for our Spanish speaking customers to compare previous sales and trends. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/145-kiosk-multi-user-mode,synergysuite
+Operations & HACCP improvements,"We are planning to introduce new features for our customers to be able to have checklists available on our SS app and additional features which are in the making. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/104-operations-haccp-improvements,synergysuite
+Provide better flows for commissary,"Providing similar workflows as EDI purchasing orders  into our commissary function. This includes two major improvements:When a commissary kitchen dispatches a Sales Order, it will automatically archive the Purchase Order and create a Delivery Transaction in the ordering locationIf the commissary kitchen updates the price of a product, this will be reflected on the new Delivery Transaction, and if 'Last Purchase Price' is enabled, it will also update the product at that location
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/76-provide-better-flows-for-commissary,synergysuite
+New Chat features & improvements,"We are bringing big updates and improvements to the Chat functionality on Cover app. Some of the changes and additions are related to the Group Chat (having the ability to have group conversations)  Chat messages functionalities like adding presence indication, react to messages or enabling message replies or editing messages all within the Cover app. We also squashed some bugs and improved the overall performance of the app. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/123-new-chat-features-improvements,synergysuite
+Create rules for when auto-breaks should be applied to a shift,"When a shift is created  auto define when breaks should be assigned. These should match the auto-break assignment rules. This will reduce the time managers need to go into each shift and define a break. When a shift is updated, the breaks should be updated to match best with the auto-break placement rules. However, if a manual break has been defined, this break should never be updated. If a break placement violates any rules (either with an auto-break placement or when a break is manually defined) a shift warning should be triggered to alert the manager. Once a break is updated and no breaks violate the rules, shift warnings should be removed. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/15-create-rules-for-when-auto-breaks-should-be-applied-to-a-shift,synergysuite
+Add Cost Adjustment column to the Inventory Summary,"The Cost Adjustment field found in the movement report to denote a change in costs of products from the start to the end of the period is available as an additional column in the Inventory Summary dashboard
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/61-add-cost-adjustment-column-to-the-inventory-summary,synergysuite
+MA Chat functionality,"Create the ability yo have chat implemented into the Manager app.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/142-ma-chat-functionality,synergysuite
+MA - Vendor transactions upgrades,"We are developing initial features which we will deploy as part of the 'Manager' app. A lot of changes have been made to the web-ui so we are in sync with porting features from the older SynergySuite app and some from web-ui. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/106-ma-vendor-transactions-upgrades,synergysuite
+Help Widget,"Our new help widget will help all users fully understand features and functions  and is smart enough to know what page you are on and suggest articles to review. These articles are the same ones, available on the help desk except no additional login is required here and will help you get up to speed much faster. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/65-help-widget,synergysuite
+Logbook,"Consolidate request tracker (issues  requests, complaints) and incidents into one Logbook where users could keep different logs, comment on them, resolve them etc.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/134-logbook,synergysuite
+Payroll Exporter Editor,"Admins to have the ability to create the custom payroll exporter file with drag and drop columns or rows. This would be used anyone that doesn't have a defined payroll export integration
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/18-payroll-exporter-editor,synergysuite
+Option to set MAX number of days for an absence,"Within the Cover app  define a maximum number of days an employee can request off in one go, reducing the need for managers to decline requests due to extended leave. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/69-option-to-set-max-number-of-days-for-an-absence,synergysuite
+Enhanced Scheduled Editor,"We want to create a brand new iteration to our schedule editor functionality  that would allow us to create a faster tool, new features including, auto-assignment, full support for drag and drop, grouping, custom sorting, new printing functions etc...If you are interested or, would like to add a suggestion please add below
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/10-enhanced-scheduled-editor,synergysuite
+Save scheduled reports to my reports,"Easily add scheduled reports to My Reports page with a single toggle at the time of creation
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/82-save-scheduled-reports-to-my-reports,synergysuite
+Interactive Prep Reporting,"Predict your prep product requirements based on trends to help better manage waste and ensure enough products are being prepared based on expected sales values. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/35-interactive-prep-reporting,synergysuite
+Heartland,"SynergySuite can now integrate with Heartland point of sale.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/83-heartland,synergysuite
+Paycom API Integration,"Extending our existing Paycom partnership with a full API driven integration. This will allow customers to utilize the file or the API integration based on their subscription with Paycom. The integration provides full HR sync between SynergySuite and Paycom  pulling in core staff details on a regular basis from Paycom to avoid any duplicate entries. If using the POS HR Sync, new staff pulled in from Paycom can also be pushed down to your POS (if supported). Users will no longer need to create, terminate or manage employees within SynergySuite as they will automatically be pulled in and updated from Paycom. Details such as contact details, pay details, and available work sections will be pulled into SynergySuite for scheduling and managing. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/49-paycom-api-integration,synergysuite
+Counting Revisions,"Capture the various changes to a count  and provide the ability to revert a count to a previously saved state
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/45-counting-revisions,synergysuite
+GL code UI - Posting Group Overhaul to allow configuration at head office and franchise level,"There are branches defined for this project for the back-end and for the web-ui. Both these projects have a development/financial branch where all updates relating to this project should be committed.Create a UI to handle GL codes and mapping them to PLUs We need to update step 9 in this process to make it simpler for mapping cash sheet GL. https://synergysuite.atlassian.net/wiki/spaces/SUP/pages/877297673/Cash+Sheet+Setup 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/109-gl-code-ui-posting-group-overhaul-to-allow-configuration-at-head-office-and-franchise-level,synergysuite
+Interactive user guide - Movement Report,"Create an interactive help workflow on the movement count report.This will help new users onboard this rather large report faster  and can easily be pulled up as a reference.The language in the help flow will be customizable.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/22-interactive-user-guide-movement-report,synergysuite
+Allow for multiple authentications for accounting integrations,"An application that will allow for multiple different accounting integration accounts  initially Quickbooks Online, to be used within SynergySuite by allowing for multiple different authentications within the application. We will achieve this by creating a repository of credentials from OAuth SynergySuite can connect with.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/32-allow-for-multiple-authentications-for-accounting-integrations,synergysuite
+Language management,"Translation of the whole system. This will be coming in iterations.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/136-language-management,synergysuite
+New Permission - Disable the Tip % field in the Distribution page,"We are introducing a new permission that would allow users to restrict access to changing the default tip allocation % per section or job  and have it left at the standard equal division. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/84-new-permission-disable-the-tip-field-in-the-distribution-page,synergysuite
+Ability to create a break schedule,"Using our auto-break feature and advancing it so you can define the number of breaks  and how long each break should be. And when these breaks should be taken according to shift lengths.Exposing this in the schedule editor so managers can schedule manually or use the pre-defined balance assigned breaks. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/9-ability-to-create-a-break-schedule,synergysuite
+Additional Break Management Features,"Allow breaks to be configured based on age ranges. So we can have different break rules for minorsAllow breaks to be configured based on valid start or end times. So we can conform to New York labor laws
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/154-additional-break-management-features,synergysuite
+Total Row - Sales Forecast,"On the new Sales Forecast page we have added a total row at the end  so you can see the effects of the new forecast of the entire week, not just the day-to-day figures
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/62-total-row-sales-forecast,synergysuite
+Define location level pools to uncontrolled,"New option to allow define pools to be uncontrolled at different locations to support custom definitions of pools. 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/27-define-location-level-pools-to-uncontrolled,synergysuite
+User Manager improvements,"New and improved user manager for easier managing of users.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/98-user-manager-improvements,synergysuite
+Predictive ordering based on PMIX,"Create an order transaction suggestion based on the PMIX.
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/129-predictive-ordering-based-on-pmix,synergysuite
+Manager app improvements,"We improved the general performance and included some of the new features for MA such as: Add total quantity field on orders Translation fixes Inventory count improvements Various bug fixes & performance improvements
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/144-manager-app-improvements,synergysuite
+New features and improvements,"Survey popup PIN saving feature Drop Request Capability Bug fixes and stability improvements 
+",https://portal.productboard.com/synergysuite/5-customer-portal/c/146-new-features-and-improvements,synergysuite

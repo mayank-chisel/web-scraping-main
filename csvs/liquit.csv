@@ -1,0 +1,225 @@
+Name,Description,Source Link,portalSourceName
+Refreshed UI,"New icons libraryIntroudce icons for pages and tabsToolbar for pages
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/77-refreshed-ui,liquit
+Uninstall support for Setup Store connector,"Uninstall action will be included in the managed packages.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/555-uninstall-support-for-setup-store-connector,liquit
+Acme v2 client,"The Automated Certificate Management Environment (ACME) client is a brand-new addition to Liquit Workspace. ACME allows for certificates to be automatically renewed. This ensures that certificates will not expire by either forgetting to renew or replace certificate(s) manually within the Liquit platform.We support “Let’s Encrypt” whose certificates are valid for 90 days and are free of charge. After 60 days  a new certificate will be requested automatically. When the certificate renewal does not complete successfully for any reason, IT will be automatically notified by email.This new feature is extremely relevant for organizations that manage many zones in Liquit. 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/200-acme-v2-client,liquit
+Windows App support,"Liquit Workspace supports managing and starting Windows Apps. Windows Apps can be deployed by using .appx or .msix files.Additional actions have been added to support Windows Apps: Install Windows AppRegister Windows AppUninstall Windows AppInstall uploaded Windows AppStart Windows App Additional filters have been added to support Windows Apps: Windows App installedWindows App installed versionWindows App stagedWindows App staged version 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/54-windows-app-support,liquit
+Liquit PowerShell Module as nuget,"Use the PowerShell NuGet distribution framework to download and install the latest Liquit PowerShell module.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/517-liquit-powershell-module-as-nuget,liquit
+SharePoint WebDAV mapping support,"Microsoft SharePoint WebDAV mapping support to Connect Drive Mapping Action
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/27-sharepoint-webdav-mapping-support,liquit
+Link to additional information for Liquit Setup Store Applications,"Extra information fields will be available for Liquit Setup Store applications: ·      Display Knowledge Base article and info links if available for a setup·      Added more columns to the Setup Store list.·      Optional filters on install action set to detect if a setup is already installed.·      Performance improvements for update check.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/20-link-to-additional-information-for-liquit-setup-store-applications,liquit
+Browser exists filter,"A filter to verify if a browser is present on the system
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/486-browser-exists-filter,liquit
+Jaspersoft Business Intelligence Suite,"Lots of organizations need business intelligence  but not all organizations need the same capabilities, feature sets, or level of performance. That's why Jaspersoft offers Commercial Editions as well as Community Projects to help tailor the right solution to the right problem.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/173-jaspersoft-business-intelligence-suite,liquit
+RDS Connector: Support remote desktops,"Full Desktop package support has been added to the Microsoft RDS Connector  you can optional import packages that connect to the RDS farm with a full desktop RDP session.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/505-rds-connector-support-remote-desktops,liquit
+License key in license management,"We have added an extra field where you can enter the license key that is associated with a particular license. You can use these license keys in a dynamic variable that uses the license object's license key field as a value. This can be useful to use a license key that has been defined on a license and use the key within actions of a package  for example to either install or register the license key with the software using (dynamic) variables.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/203-license-key-in-license-management,liquit
+Modify existing managed package with configuration wizard,"View and modify the configuration of managed packages from the Liquit Setup Store. 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/512-modify-existing-managed-package-with-configuration-wizard,liquit
+Media content support to Setup Store connector,"Screenshots  movies and banners support for Setup Store titles, enhances the catalog with additional content, for a better user experience, and allows organizations to easily give users better insight in the applications that are available to them.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/253-media-content-support-to-setup-store-connector,liquit
+SolarWinds Subnet Calculator,"Advanced Subnet Calculator Help ensure that your IP addresses don’t conflict with one another  and save time managing DHCP, DNS, and IP addresses: https://www.solarwinds.com/free-tools/advanced-subnet-calculator?
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/171-solarwinds-subnet-calculator,liquit
+Certficate support in Liquit Workspace,"Certificates allow you to easily import and create certificates  you can either import a .pfx file or create you own self-signed certificate for use within the Liquit Workspace. You can replace or update a certificate with a single click. Import CER/DER or PFX certificatesGenerate self signed certificatesExport certificates in CER/DER/PFX format
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/39-certficate-support-in-liquit-workspace,liquit
+Uninstall MSI via Product Code,"A new action that allows applications via GUID.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/554-uninstall-msi-via-product-code,liquit
+Front,"Front is a customer communication hub that keeps teams focused on what technology can’t replace: ensuring every conversation strengthens the customer relationship.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/521-front,liquit
+Support for group display names as IDP attribute,"Group names can be used for identification/authentication.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/503-support-for-group-display-names-as-idp-attribute,liquit
+Add folder support within Liquit Workspace,"Add support to add folders to your workspace  which can contain packages
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/17-add-folder-support-within-liquit-workspace,liquit
+Context Awareness,"Publish applications based on fields configured within your Active Directory.Combine information about a device and user to assign applications  so only if User A is logged on Device B will grant him access to the application.By assigning Liquit permissions to contexts allows you to only have Administrative access to the Liquit Workspace from within the company network, any other location will give normal user permissions.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/30-context-awareness,liquit
+Configure if service need to be started automatically (after installation),"New MSI options let you start the service after installation
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/493-configure-if-service-need-to-be-started-automatically-after-installation,liquit
+Cisco Jabber VDI,"Collaborate anywhere  on any device.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/269-cisco-jabber-vdi,liquit
+GNU Octave,"Scientific Programming Language
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/581-gnu-octave,liquit
+Support for nested variables,"Allow variables to be used within variables.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/81-support-for-nested-variables,liquit
+Set log level via Agent Settings,"An extra options to set the log level of agents via the UI.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/487-set-log-level-via-agent-settings,liquit
+High Contrast theme,"High contrast theme uses a limited color palette with contrasting colors to make an interface easier to use. Users with photosensitivity or contrast issues can benefit greatly from using high contrast mode on their computer  as well as people in low-light environments.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/338-high-contrast-theme,liquit
+KeyStore Explorer,"KeyStore Explorer is an open source GUI replacement for the Java command-line utilities keytool and jarsigner. KeyStore Explorer presents their functionality  and more, via an intuitive graphical user interface. 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/172-keystore-explorer,liquit
+Generate support bundle from diagnostics page for local device,"Get a support bundle from the end-user's device directly. With information regarding:Device informationNetwork informationUser informationServer informationLog files (Agent.log/UserHost.log)
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/677-generate-support-bundle-from-diagnostics-page-for-local-device,liquit
+Gephi,"Gephi is the leading visualization and exploration software for all kinds of graphs and networks. Gephi is open-source and free.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/557-gephi,liquit
+Support for JumpCloud schema in LDAP,"JumpCloud’s Directory-as-a-Service® centralizes and simplifies identity management. Give your users one set of credentials to securely access their systems  apps, networks, and file servers – regardless of platform, protocol, provider, or location. Liquit Workspace is now able to authenticate via JumpCloud. 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/40-support-for-jumpcloud-schema-in-ldap,liquit
+OKTA Connector,"A brand new connector for Okta is included. This connector allows you to import your Okta applications as web packages into the Liquit Workspace. 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/45-okta-connector,liquit
+System Updates,"Check for the latest updates for your Liquit Workspace environment and (automatically) update your Liquit servers to the latest version. Updates can be scheduled to automatically check for the latest version and notify by mail when there are updates available. 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/38-system-updates,liquit
+Add UserSID as a Liquit Variable,"Add a variable to Liquit Workspace which contains the UserSID as a value.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/82-add-usersid-as-a-liquit-variable,liquit
+Mail Servers,"Multiple mail servers can now be configured.Servers can now be configured in Load Balancing groups. Servers with the same priority are load balanced per request.Server priority of 1 will be the preferred server that Liquit will use  unless a failure occurs.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/33-mail-servers,liquit
+API Communication between Liquit Workspace and ServiceNow,"A connector which allows communication between Liquit Workspace and Service Now
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/72-api-communication-between-liquit-workspace-and-servicenow,liquit
+Frame connector,"Import remote applications and desktops from Nutanix Frame.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/515-frame-connector,liquit
+Mail Notifications,"Mail notifications have been enhanced using HTML templated messages with more detailed information. Advanced mail notifications have been added to Liquit Workspace  these can be used to report on changes on scheduled tasks i.e. it is possible to send an email when a Liquit Setup Store connector has finished synchronizing. Scheduled tasks now have an option to only send notifications when there is something to report. Refresh Zone Licenses now sends expiration report for zones that will expire within 14 days to the configured mail addresses. 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/43-mail-notifications,liquit
+Maintenance Mode on apps,"Custom message when package is in maintenance mode.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/69-maintenance-mode-on-apps,liquit
+Identity Provider (SAML 2),"The introduction of Identity Providers enables exchanging authentication and authorization data between security domains by Liquit Workspace. It is now possible to pass information between Liquit and a SAML service provider (SP). It is now possible to enable web-based authentication that include cross-domain SSO and eliminate the distribution of multiple authentication tokens to the user. The following scenario’s and configurations are supported by Liquit Workspace: Downloading Metadata You can also download the configured SAML metadata from the Liquit Workspace. Assign Certificates from the Liquit Certificate Store Easily assign certificates to the Identity Provider and easily maintain these certificates in the Liquit Certificate Store. Add Service providers Liquit Workspace allows you to easily add or import Service Providers  this can be done by importing the existing metadata from an existing Service Provider or creating a hand configured Service Provider. Profiles Create custom profiles containing amongst others user information from Liquit Workspace. Single Sign On and Sign Out Support single sign on and sign out over multiple browsers, over HTTP post and redirect. Allows to override single sign out actions for service providers Define custom actions which override the default single sign out action of the service provider Custom Profiles Supports custom profiles which allows you to send multiple attributes to a service provider Signing messages and validate incoming messages
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/36-identity-provider-saml-2,liquit
+Package Availability filter,"Filter to check if a package is allowed to run based on its defined filters.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/494-package-availability-filter,liquit
+Support for application mode,"Add the ability to use the application mode of websites  application mode allows websites to launch in a separate window that doesn't display a URL address bar, browser toolbars, etc., while the Windows Taskbar displays the website's favicon instead of Chrome's icon.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/482-support-for-application-mode,liquit
+Certificate based device registration,"Ability to register devices with certificate instead of using an username and password in the configuration file. This will result in not having to have an plain text password in the agent configuration.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/509-certificate-based-device-registration,liquit
+Support for multiple domains/virtual hosts for a single zone,"Support multiple domain names to access a single zone. Useful if company undergoes a name change to allow a rollout migration or if multiple organizations connect to the same zone  it allows to customize the branding per domain using contexts while still delivering the same applications from a single zone (portal).
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/507-support-for-multiple-domains-virtual-hosts-for-a-single-zone,liquit
+Security,"The security settings allow you to tune the webserver security. The following security options are made available: HTTP Strict Transport Security (HSTS) HSTS policy tells web browsers they should only access the zone using a secure connection. Only when a browser has a valid secure connection  it will honor this request.Content Security Policy (CSP) CSP is an added layer of security that helps to detect and mitigate certain types of attacks, including Cross Site Scripting (XSS) and data injection attacks. Deprecated headers will also be used for maximum compatibility (X-XSS-Protection and X-Frame-Options).Cross-Origin Resource Sharing (CORS) With CORS, you are able to control which websites can access resources on the zone.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/48-security,liquit
+Template for package wizard to create packages for App-V setups,"Add a template for a package wizard to create packages for App-V setups.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/449-template-for-package-wizard-to-create-packages-for-app-v-setups,liquit
+Service Catalog Wizard,"Add advanced Service Catalog wizards to be added
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/19-service-catalog-wizard,liquit
+Support Azure AD MFA in PowerShell module,"Browser component when interactive session/federated is required. Only available for interactive PowerShell use.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/405-support-azure-ad-mfa-in-powershell-module,liquit
+Default user settings per theme,"Define and deliver default settings per theme  this greatly increases the user experience of the Workspace out of the box, as users no longer need to fine tune individual settings when switching between Default and Dark theme.The following settings should support using default settings as defined within a theme:Text colorText shadowBackground colorBackground imageImage positionTransparency
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/498-default-user-settings-per-theme,liquit
+ServiceNow widget for employee center,"Allow users of the ServiceNow Employee center to access their applications directly. 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/695-servicenow-widget-for-employee-center,liquit
+HP Quallity Center,"HP QC Community Software is built on the industry leading HP ALM platform and is designed to help teams to deliver high-quality applications by providing a centralized repository for building  implementing, executing, and tracking of manual tests.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/278-hp-quallity-center,liquit
+"Add ""add to group"" wizard for packages","Allow users to request group member ship by clicking an icon in the catalog. 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/52-add-add-to-group-wizard-for-packages,liquit
+Agent option to override the PackageTempDir,"Ability to specify an alternative location for temporarily package installation files. This variable is mostly used by connectors  to download and extract files at this temp directory on the local device.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/516-agent-option-to-override-the-packagetempdir,liquit
+Add an option to disable Shortcuts of a Managed Package per shortcut,"Add an option to disable Shortcuts of a Managed Package per shortcut. E.g. when in the Setup Store connector 'Launch' shortcut types have been configured  you get all Launch shortcuts without an option to exclude one or more. 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/383-add-an-option-to-disable-shortcuts-of-a-managed-package-per-shortcut,liquit
+Support for Dynamic Groups,"Create groups based on properties of the user  for example create a goup based on the department the user works at.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/426-support-for-dynamic-groups,liquit
+User configured language filter for packages,"Filter for packages that allows package availability or actions to be filtered out based on the user's configured language of the UI within the OS.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/248-user-configured-language-filter-for-packages,liquit
+Include application launch information within the Liquit Setup Store,"Allow application launches to be configured automatticly from the Liquit Setup Store
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/64-include-application-launch-information-within-the-liquit-setup-store,liquit
+Microsoft Store Connector,"Create packages straight from the Microsoft Store using a Microsoft Store connector in Liquit Workspace.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/310-microsoft-store-connector,liquit
+Liquit Workspace Agent for MacOS,"Bring your smart icons to MacOS  allow users to take full advantage of the Liquit Workspace. Get the tools to create a easy to understand Workspace on any machine, leverage active directory, azure active directory or any other LDAP connector to deliver applications and services. 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/37-liquit-workspace-agent-for-macos,liquit
+Allow native icons on hidden entitlements,"Allow native icons to be assigned to hidden entitlements. Adding further flexibility on how you present the workspace to the end-user.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/337-allow-native-icons-on-hidden-entitlements,liquit
+KeePass Password Translations,"Translations for KeePass Password
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/457-keepass-password-translations,liquit
+Request Setup for the Setup Store,"'Request setup' is available in the Liquit Setup Store within the Setup Store connector  which allows the user to submit a setup not found in the Liquit Setup Store.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/497-request-setup-for-the-setup-store,liquit
+kuando Busylight for Zoom,"Software for kunado Busylight
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/430-kuando-busylight-for-zoom,liquit
+Get metadata from MSI file,"Get extra metadata from an installer via the Liquit Universal Agent.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/631-get-metadata-from-msi-file,liquit
+Publish connector resources in the catalog,"Publish connector resources directly in the user catalog. This allows you to publish resources from the Setup Store connector  so that a system administrator isn't required to prepare the application for deployment.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/309-publish-connector-resources-in-the-catalog,liquit
+Terraform,"Terraform is an open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies cloud APIs into declarative configuration files.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/335-terraform,liquit
+Add dependency 'Managed package' for Setup Store entries with dependencies,"The Setup Store db has a field 'Prerequisites' which lists the KB records IDs of the related setup(s) in the Setup Store db which need to be installed as a prerequisite. When creating a managed package for e.g. iTunes  the user should be asked for whether he wants to create manage package(s) for these entries as well. E.g. iTunes x64 has two prereqs: records 2665 Application Support (x64) and 2667 (Mobile Device Support (x64) which need to be installed first before you can install ITunes x64:
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/57-add-dependency-managed-package-for-setup-store-entries-with-dependencies,liquit
+Control access to federated applications based on context (IDP),"Option to require context for accessing SP/clients
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/245-control-access-to-federated-applications-based-on-context-idp,liquit
+Windows Update support for Liquit Release & Patch Management,"Allow Windows Updates to be distributed via Liquit Release & Patch Management.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/23-windows-update-support-for-liquit-release-patch-management,liquit
+Password Policy,"A password policy for the local identity source has been introduced  the following options can be configured:Minimum length of the password.Define how many characters of the password need to be a letter.Define how many characters of the password need to be a number.Define how many characters of the password need to be a non-alphanumeric character.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/84-password-policy,liquit
+Whalebird,"Whalebird is a Mastodon  Pleroma, and Misskey client for desktop application.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/526-whalebird,liquit
+DWGSee CAD 2022,"Lightweight CAD  perfectly compatible with AutoCAD, faster and more stable.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/475-dwgsee-cad-2022,liquit
+Setup Store Application support,"End-user view of applications within the Setup Store.Universal Package support within the Setup Store connector  option which will be enabled by default for new connectors. Creates a single package that will contain the selected languages with the selected architectures and creates a single package, instead of having to create and manage several packages depending on language and/or platform architecture.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/669-setup-store-application-support,liquit
+Enhanced package management,"With the release of Liquit Workspace 3.4  you can copy actions. An action can be copied to the same action set or another action set that supports that action. Action sets now support filtering, so there is no need to duplicate filters for actions that should be run when the same conditions are met. New filters have been added, like checking on file size and if an MSI is installed. The filter for ""Primary Context"", has been improved, it's now called “Context”. You can filter on any effective context, not just the primary context. The following actions and filters have been added or are modified: Actions: New ""Refresh agent"" action has been added, allows you to refresh the agent.Added ""Wait for completion"" option to ""Set service state"" action.An option for disabling prefetching on content is available on actions.Filters: New ""File Size"" filter allows you to check an individual file for its size..New ""MSI Installed"" filter allows you to check if an MSI is already installed by its product code.New ""Free Disk Space"" filter allows you to check if a certain disk has a minimum size available.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/49-enhanced-package-management,liquit
+WMI Query on filters,"Administrators can create conditions that are stored within WMI. We have now made it possible to add filters to packages that allow you to define WMI queries and filter on its results. WMI queries offer additional values you will be able to filter on  these include but are not limited to:CPU loadFilter on hardware driversMemory capacityBattery statusCPU infoOS information
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/202-wmi-query-on-filters,liquit
+SIEM integration,"In Liquit Workspace 4.1 you will be able to send out events to an external SIEM system  you can make use of predefined configurations for Splunk and Microsoft Sentinel or sync your events to a database so any other SIEM system can use the data.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/619-siem-integration,liquit
+Network Ping filter,"Ping a remote address to check if a network address is reachable for an agent. Allowing application availability based on the availability of a network service.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/511-network-ping-filter,liquit
+Show last logged in user in the device overview,"A new column will show the last known user to log in on the specific device.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/80-show-last-logged-in-user-in-the-device-overview,liquit
+Sengi,"Sengi is A FLOSS multi-account Mastodon and Pleroma desktop client.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/527-sengi,liquit
+Trending and Popular applications,"Add functionality that allows the user to see which applications are popular and trending.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/252-trending-and-popular-applications,liquit
+Account lockout,"Introduced account lockout on the local identity source  the following options are configurable:Control after what time period the login attempts need to be reset.How many invalid log in attempts are allowed before the lockout will be applied.The duration of the lockout.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/83-account-lockout,liquit
+Bootstrapper for macOS,"The Liquit Universal Agent bootstrapper for macOS.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/543-bootstrapper-for-macos,liquit
+macOS support for Setup Store Connector,"Instead of spending time on finding the correct download links for the latest versions of most common macOS applications  download these setups from the ‘Setup Store’. Additional information like Release notes and applicable CVE numbers is provided. 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/574-macos-support-for-setup-store-connector,liquit
+Enhance Liquit PowerShell to support creating managed packages,"Allow the Liquit PowerShell modue to create managed packages from for example the Liquit Setup Store
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/22-enhance-liquit-powershell-to-support-creating-managed-packages,liquit
+Liberica JDK,"Liberica JDK is a free and open source Java Development Kit produced by BellSoft. Liberica JDK is the Unified Java Runtime utilized as the end-to-end solution for the best Spring Native Applications: https://bell-sw.com/
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/409-liberica-jdk,liquit
+Enhance Private browsing capabilities,"Allow a private browser window to be used to launch web applications.  with or without SSO.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/87-enhance-private-browsing-capabilities,liquit
+GlobalProtect,"Secure remote access for the hybrid workforce.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/454-globalprotect,liquit
+Juicebar,"Browse through hundreds of plugins and get your buildblocks for your show. Connect with other VJ’s to get inspired.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/390-juicebar,liquit
+WVD MSIX app attach,"Fundamentally change working with application landscapes on Windows Virtual Desktop with Liquit Workspace! 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/62-wvd-msix-app-attach,liquit
+Last login user in devices via PowerShell,"Get the last logged in user on a device via PowerShell.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/480-last-login-user-in-devices-via-powershell,liquit
+Platform language filter for packages,"Filter for packages that allows package availability or actions to be filtered out based on the language of the OS.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/247-platform-language-filter-for-packages,liquit
+Microsoft Viva Integration,"Microsoft Viva is an employee experience platform that brings together communications  knowledge, learning, resources, and insights.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/295-microsoft-viva-integration,liquit
+Context information on login,"Contexts are an important part of the Liquit workspace. One of the functionalities of those context is to customize the look and feel. With the new release  it’s now also possible to customize the look and feel of the login page. Which is especially useful for zones that are shared by multiple departments or organizations with their own branding.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/50-context-information-on-login,liquit
+Categories assignment support for connectors,"Tags can be imported from connectors with packages being assigned to the appropriate tags as defined on the remote system that the connector is connected to. Tags will be based on tags and/or categories within the remote system.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/308-categories-assignment-support-for-connectors,liquit
+Beats Winlogbeat,"Beats is a free and open platform for single-purpose data shippers. They send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/520-beats-winlogbeat,liquit
+Microsoft Intune Integration,"Allow Liquit Workspace to connect to Microsoft Intune to wipe devices and offer self-service to your end-users by using Microsoft Intune.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/68-microsoft-intune-integration,liquit
+Tableau Server Management Add-on (Agent),"Tableau Server Management Add-on is a separately licensed Add-on to Tableau Server which will provide enhanced security  manageability, and scalability capabilities for Tableau Server.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/270-tableau-server-management-add-on-agent,liquit
+Tableau Server Management Add-on (Master),"Tableau Server Management Add-on is a separately licensed Add-on to Tableau Server which will provide enhanced security  manageability, and scalability capabilities for Tableau Server.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/283-tableau-server-management-add-on-master,liquit
+System Center Configuration Manager Push Connector,"This new connector allows you to synchronize applications from the Liquit Setup Store straight into Microsoft’s System Center Configuration Manager. The Liquit Setup Store is a catalog for Business Applications which offers 'Setups as a Service'. The Liquit Setup Store allows desktop and application administrators to keep their application landscape up to date in an easy to maintain manner. The Liquit connector for Microsoft’s System Center Configuration Manager allows you to directly import the latest setups to Microsoft System Center Configuration Manager. Automated patch management.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/25-system-center-configuration-manager-push-connector,liquit
+Manage packages by name with ShellAPI,"The ShellAPI can now find packages by name  eliminating the need to use GUIDS
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/492-manage-packages-by-name-with-shellapi,liquit
+Allow Satellite Server to run tasks,"Add the possibility to run tasks via a Satellite Server  for example:Use the Satellite server to wake a device collection.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/360-allow-satellite-server-to-run-tasks,liquit
+User Catalog Improvements,"Allow embedded YouTube videos (WYSIWYG) editor 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/76-user-catalog-improvements,liquit
+Network change event,"Allow an event to be triggered on an network change.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/246-network-change-event,liquit
+TELUS Business Connect,"Voice  video, chat. Work from anywhere with cloud phone solutions
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/546-telus-business-connect,liquit
+Add manual devices which are agentless,"For allowing Remote Control within Liquit Workspace for devices that have no agent installed. (Thin Clients) IP  DNS, MAC, System Model, Manufacturer, Platform Cleanup time (optional)
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/28-add-manual-devices-which-are-agentless,liquit
+Add Manufacturer and System Model to diagnostics screen,"Retrieve more detailed information on devices right from the management interface
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/58-add-manufacturer-and-system-model-to-diagnostics-screen,liquit
+Offline Support,"Offline access to your applications allows you to use Liquit Workspace 3.0 without having access to the Liquit environment.Offline Support can be configured per individual  so applications that have this configured will be available without Internet connection.Liquit Workspace will run in a limited interface when in Offline mode, so only applications can be started and the user is not allowed to change any personal settings.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/32-offline-support,liquit
+Reporting dashboards,"The Liquit reporting module gives you insights into your Liquit Workspace environment   the health of your applications and services as well as insight to compliancy. 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/65-reporting-dashboards,liquit
+Asset Management,"Gain insight into installed applications and usage of these applications.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/86-asset-management,liquit
+Allow actions to be run as an elevated user within the user session,"Actions to enable for elevated user:Start processRun scriptRun uploaded scriptStart uploaded process
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/484-allow-actions-to-be-run-as-an-elevated-user-within-the-user-session,liquit
+WVD Connector,"A preview version of the Microsoft Windows Virtual Desktop connector  expierence new integration possibilities with the announced Windows Virtual Desktop for Microsoft Azure. 
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/46-wvd-connector,liquit
+Ability to manage all secondary zones,"Allow administrators to manage secondary zones from the primary zone  eliminating the need to log in to the other zones.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/483-ability-to-manage-all-secondary-zones,liquit
+Content support for the Satellite Server,"Content replication has been added for the Satellite Servers  allowing you to install satellite servers on branch locations and enable the content replication feature. Agents download content from the Satellite Server instead of the Primary Servers. This ensures that content is only downloaded once for a Satellite server within a single branch instead of all devices downloading content from the Primary Servers over the internet.
+",https://portal.productboard.com/liquit/1-liquit-feedback-portal/c/16-content-support-for-the-satellite-server,liquit
